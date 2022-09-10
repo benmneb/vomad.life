@@ -3,16 +3,14 @@
 	font-style: normal;
 	font-weight: 300;
 	font-display: swap;
-	src: url('@/assets/fonts/Inter-Light.woff2?v=3.19') format('woff2'),
-		url('@/assets/fonts/Inter-Light.woff?v=3.19') format('woff');
+	src: url('@/assets/fonts/Inter-Light.woff2?v=3.19') format('woff2');
 }
 @font-face {
 	font-family: 'Inter';
 	font-style: italic;
 	font-weight: 300;
 	font-display: swap;
-	src: url('@/assets/fonts/Inter-LightItalic.woff2?v=3.19') format('woff2'),
-		url('@/assets/fonts/Inter-LightItalic.woff?v=3.19') format('woff');
+	src: url('@/assets/fonts/Inter-LightItalic.woff2?v=3.19') format('woff2');
 }
 
 @font-face {
@@ -20,6 +18,5 @@
 	font-style: normal;
 	font-weight: 700;
 	font-display: swap;
-	src: url('@/assets/fonts/Inter-Bold.woff2?v=3.19') format('woff2'),
-		url('@/assets/fonts/Inter-Bold.woff?v=3.19') format('woff');
+	src: url('@/assets/fonts/Inter-Bold.woff2?v=3.19') format('woff2');
 }
