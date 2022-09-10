@@ -1,0 +1,21 @@
+@use './fonts';
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Inter';
+	font-feature-settings: 'cpsp', 'frac', 'zero', 'cv02', 'cv03', 'cv04', 'cv05',
+		'cv06', 'cv08', 'cv09';
+	background-color: $bg-color-light;
+	color: $black;
+}
+
+a {
+	color: $primary;
+	text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+}
