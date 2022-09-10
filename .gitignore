@@ -9,3 +9,4 @@ dist
 TODO.md
 .vscode
 .DS_Store
+.netlify
