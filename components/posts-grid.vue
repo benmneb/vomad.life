@@ -56,7 +56,7 @@ async function handleTagClick(tag) {
 .tag {
 	margin-right: 0.5rem;
 	cursor: pointer;
-	transition: all 225ms ease-in-out;
+	transition: all $transition-duration-normal ease-in-out;
 }
 
 .active {
