@@ -1,6 +1,7 @@
 <template>
 	<main>
-		<h1>Travel world. Eat plants.</h1>
+		<hero />
 		<posts-grid />
+		<social-proof />
 	</main>
 </template>
