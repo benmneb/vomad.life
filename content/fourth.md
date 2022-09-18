@@ -1,8 +1,8 @@
 ---
-title: 'third inline'
-tag: 'article'
+title: 'Fourth'
+tag: 'travel'
 sub-tags: ['ethics', 'environment']
-image: 'triggered'
+image: 'plovdiv'
 ---
 
 # 3rd

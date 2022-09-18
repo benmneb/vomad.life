@@ -1,8 +1,8 @@
 ---
-title: 'third inline'
+title: 'Seventh!'
 tag: 'article'
 sub-tags: ['ethics', 'environment']
-image: 'triggered'
+image: '801010'
 ---
 
 # 3rd

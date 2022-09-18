@@ -1,8 +1,8 @@
 ---
-title: 'third inline'
-tag: 'article'
+title: 'Number 666'
+tag: 'travel'
 sub-tags: ['ethics', 'environment']
-image: 'triggered'
+image: 'vegan-island'
 ---
 
 # 3rd

@@ -2,7 +2,7 @@
 title: '2nd Coming'
 tag: 'high-five'
 sub-tags: ['ethics']
-image: 'TODO'
+image: 'proof'
 ---
 
 # The Second Coming
