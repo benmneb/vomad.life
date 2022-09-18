@@ -1,7 +1,7 @@
 <template>
 	<div>
-		<header>VOMADlife</header>
+		<app-bar />
 		<slot />
-		<footer>&copy; 2016 - 2022</footer>
+		<vmd-footer />
 	</div>
 </template>
