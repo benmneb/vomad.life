@@ -11,7 +11,7 @@ function onScroll() {
 	const currentScrollPosition =
 		window.pageYOffset || document.documentElement.scrollTop
 
-	if (currentScrollPosition <= 0) return
+	if (currentScrollPosition < 0) return
 	if (Math.abs(currentScrollPosition - lastScrollPosition.value) < 100) return
 
 	showAppBar.value = currentScrollPosition < lastScrollPosition.value
