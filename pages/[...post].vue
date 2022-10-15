@@ -1,6 +1,91 @@
 <template>
-	<article>
-		<content-doc />
-		<nuxt-link to="/">← Back to home</nuxt-link>
-	</article>
+	<main>
+		<content-doc v-slot="{ doc }">
+			<header>
+				<div>
+					<div
+						class="blur"
+						:style="{
+							backgroundImage: `url(assets/images/content/${doc.image}.webp)`,
+						}"
+					/>
+					<nuxt-img
+						preload
+						:src="`content/${doc.image}.webp`"
+						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
+					/>
+				</div>
+				<div>
+					<h1>{{ doc.title }}</h1>
+					<!-- <p>#{{ doc.tag }}</p> -->
+				</div>
+			</header>
+			<content-renderer :value="doc" tag="article" />
+			<footer>
+				<div>by {{ doc.author || 'Anonymous' }}</div>
+				<div>
+					{{ doc.date }}
+				</div>
+				<div>
+					<nuxt-link to="/">← Back to home</nuxt-link>
+				</div>
+			</footer>
+		</content-doc>
+	</main>
 </template>
+
+<style scoped lang="scss">
+header {
+	margin: 100px 0 0;
+
+	.blur {
+		background-size: cover;
+		background-position: center;
+		height: 100vh;
+		width: 100vw;
+		top: 0;
+		position: absolute;
+		filter: blur(50px);
+	}
+
+	img {
+		max-height: calc(100vh - 100px);
+		max-width: 100vw;
+		margin: auto;
+		display: block;
+		position: relative;
+		z-index: 10;
+		border-radius: 4rem;
+		padding: 2rem;
+	}
+
+	h1 {
+		font-size: $font-size-extra-large;
+		font-weight: bold;
+		line-height: 150%;
+	}
+}
+
+article,
+header > div:last-of-type,
+footer {
+	max-width: 800px;
+	margin: auto;
+	padding: 0 1rem;
+}
+
+footer {
+	margin: 2rem auto;
+
+	div {
+		font-weight: bold;
+		color: $grey;
+		margin: 0.5rem 0;
+
+		&:last-of-type {
+			margin: 2rem 0 0;
+			font-weight: normal;
+		}
+	}
+}
+</style>
