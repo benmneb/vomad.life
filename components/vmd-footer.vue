@@ -1,7 +1,11 @@
 <template>
 	<section>
 		<footer>&copy; 2016 - {{ new Date().getFullYear() }}</footer>
-		<nuxt-img src="fruit.webp" sizes="sm:100vw md:100vw lg:100vw xl:100vw" />
+		<nuxt-img
+			src="fruit.webp"
+			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
+			loading="lazy"
+		/>
 	</section>
 </template>
 
