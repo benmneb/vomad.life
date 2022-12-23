@@ -1,5 +1,3 @@
-import { defineNuxtConfig } from 'nuxt'
-
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
 	modules: ['@nuxt/content', '@nuxt/image-edge'],
@@ -18,10 +16,10 @@ export default defineNuxtConfig({
 		dir: 'assets/images',
 		screens: {
 			// max-width in px
-			sm: '640',
-			md: '1024',
-			lg: '1920',
-			xl: '2280',
+			sm: 640,
+			md: 1024,
+			lg: 1920,
+			xl: 2280,
 		},
 	},
 })
