@@ -3,15 +3,15 @@
 		<content-doc v-slot="{ doc }">
 			<header>
 				<div>
-					<div
+					<nuxt-img
+						preload
+						:src="`content/${doc.image}/hero.webp`"
+						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 						class="blur"
-						:style="{
-							backgroundImage: `url(assets/images/content/${doc.image}.webp)`,
-						}"
 					/>
 					<nuxt-img
 						preload
-						:src="`content/${doc.image}.webp`"
+						:src="`content/${doc.image}/hero.webp`"
 						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 					/>
 				</div>
