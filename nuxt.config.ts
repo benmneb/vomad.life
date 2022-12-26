@@ -22,4 +22,7 @@ export default defineNuxtConfig({
 			xl: 2280,
 		},
 	},
+	content: {
+		markdown: { remarkPlugins: ['remark-reading-time'] },
+	},
 })

@@ -17,6 +17,7 @@
 				</div>
 				<div>
 					<h1>{{ doc.title }}</h1>
+					<p class="reading-time">{{ doc.readingTime.text }}</p>
 					<!-- <p>#{{ doc.tag }}</p> -->
 				</div>
 			</header>
@@ -63,6 +64,12 @@ header {
 		font-size: $font-size-extra-large;
 		font-weight: bold;
 		line-height: 150%;
+	}
+
+	.reading-time {
+		font-weight: bold;
+		color: $grey;
+		margin-bottom: 2rem;
 	}
 }
 
