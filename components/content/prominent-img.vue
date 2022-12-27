@@ -3,7 +3,6 @@ defineProps({
 	src: {
 		type: String,
 		required: true,
-		default: 'sdsd',
 	},
 	alt: {
 		type: String,
