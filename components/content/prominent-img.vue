@@ -12,7 +12,7 @@ defineProps({
 </script>
 
 <template>
-	<nuxt-img :src="`content/${src}.webp`" :alt="alt" />
+	<nuxt-img :src="`content/${src}.webp`" :alt="`${alt} @ https://Vomad.Life`" />
 </template>
 
 <style scoped lang="scss">
