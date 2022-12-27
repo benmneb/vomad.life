@@ -12,9 +12,43 @@ body {
 	font-size: $font-size-base;
 }
 
+::selection {
+	color: $bg-color-light;
+	background: $primary;
+	text-shadow: none;
+}
+
+:focus-visible {
+	box-shadow: rgba(0, 0, 0, 0.12) 0px 16px 24px 0px,
+		rgba(61, 71, 82, 0.1) 0px 4px 20px 0px,
+		rgba(0, 127, 255, 0.5) 0px 0px 0px 5px;
+	border-radius: 0.5rem;
+	outline: currentcolor none medium;
+}
+
 a {
 	color: $primary;
 	text-decoration: none;
+	text-shadow: 0px -2px 0 $bg-color-light, 0px -1px 0 $bg-color-light,
+		0px 0px 0 $bg-color-light, 2px -2px 0 $bg-color-light,
+		2px -1px 0 $bg-color-light, 2px 0px 0 $bg-color-light,
+		-2px -2px 0 $bg-color-light, -2px -1px 0 $bg-color-light,
+		-2px 0px 0 $bg-color-light, 1px -2px 0 $bg-color-light,
+		1px -1px 0 $bg-color-light, 1px 0px 0 $bg-color-light,
+		-1px -2px 0 $bg-color-light, -1px -1px 0 $bg-color-light,
+		-1px 0px 0 $bg-color-light, 0px -2px 0 $bg-color-light,
+		0px -1px 0 $bg-color-light, 0px 0px 0 $bg-color-light;
+	box-shadow: 0 -1px 0 0 $bg-color-light inset, 0 -2px 0 0 transparent inset;
+	transition: box-shadow $transition-duration-normal ease-in;
+
+	&:hover {
+		transition: box-shadow $transition-duration-normal ease-out;
+		box-shadow: 0 -1px 0 0 $primary inset, 0 -2px 0 0 $primary inset;
+	}
+
+	&::selection {
+		color: $black;
+	}
 }
 
 hr {
@@ -28,10 +62,32 @@ hr {
 	box-sizing: border-box;
 }
 
-:focus-visible {
-	box-shadow: rgba(0, 0, 0, 0.12) 0px 16px 24px 0px,
-		rgba(61, 71, 82, 0.1) 0px 4px 20px 0px,
-		rgba(0, 127, 255, 0.5) 0px 0px 0px 5px;
-	border-radius: 0.5rem;
-	outline: currentcolor none medium;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	a {
+		color: inherit;
+		box-shadow: none;
+		text-shadow: none;
+
+		&:before {
+			content: '#';
+			position: absolute;
+			margin-left: -1.2rem;
+			color: $bg-color-light;
+			transition: all $transition-duration-normal ease-in;
+		}
+
+		&:hover {
+			box-shadow: none;
+
+			&:before {
+				color: $grey;
+				transition: all $transition-duration-normal ease-out;
+			}
+		}
+	}
 }
