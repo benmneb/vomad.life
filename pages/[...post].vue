@@ -47,6 +47,7 @@ header {
 		top: 0;
 		position: absolute;
 		filter: blur(50px);
+		scale: 1.1;
 	}
 
 	img {
