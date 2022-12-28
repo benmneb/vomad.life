@@ -22,6 +22,6 @@ iframe {
 <script setup>
 defineProps({
 	id: String,
-	label: String,
+	title: String,
 })
 </script>

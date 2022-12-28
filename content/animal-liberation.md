@@ -32,7 +32,7 @@ The later chapters go into environmental effects of adopting a vegan diet and po
 >
 > \- Peter Singer
 
-<youtube id="av22cRQNBiQ" label="Peter Singer!"></youtube>
+<youtube id="av22cRQNBiQ" title="Peter Singer!"></youtube>
 
 I am going to actively search for one, but I can not imagine a more comprehensive and convincing text for objectively explaining the moral reasoning for adopting a vegan diet than this book. The beauty of Animal Liberation, Singers first of many books, is that he achieves this all without ever seemingly trying to make you agree with him. He just lays the brutal facts and lets your conscience do the rest.
 
