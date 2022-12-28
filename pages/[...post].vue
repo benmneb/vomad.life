@@ -47,10 +47,9 @@ header {
 		top: 0;
 		position: absolute;
 		filter: blur(50px);
-		scale: 1.1;
 	}
 
-	img {
+	img:not(.blur) {
 		max-height: calc(100vh - 100px);
 		max-width: 100vw;
 		margin: auto;
