@@ -39,6 +39,8 @@ _Opening hours:_
 - Lunch 12 - 2pm
 - Dinner 6 - 9pm
 
+---
+
 ## Govindas
 
 Govindas is an Indian buffet run by ISKON, commonly knows as "the Hare Krishna's" . It is located 5 minutes walk north from the city centre, in Northbridge, the heart of Perth's nightlife.
@@ -61,6 +63,8 @@ _Opening hours:_
 - Mon – Sat
 - Dine-in/Take-away from 11:30 AM to 07:30 PM
 - Budget take-away available from 03:30 PM to 07:30 PM
+
+---
 
 ## Raine Square Food Court...
 
@@ -98,6 +102,8 @@ _Opening hours:_
 
 - Mon - Fri: 10am to 2pm
 
+---
+
 ## Loving Hut
 
 This classic 100% vegan restaurants offers dine in or take away and is located in the city of Victoria Park, which is a cool enough place to check out just for the experience alone, and is just a 5 minute bus ride East of Perth city. There are loads of busses that go out this way from anywhere on St George's Terrace east of William St, so you shouldn't have to wait long at all to catch one.
@@ -124,6 +130,8 @@ _Opening hours:_
 - Thurs - Sat : 11am - 8.30pm
 - Sun: 11am - 3pm
 
+---
+
 ## Veggie Mama
 
 Veggie Mama is the best vegan restaurant in Mt Lawley, a suburb 5 minute bus ride north of Perth city. Mt Lawley is a busy, popular area with a few nice bars and unique shops, and it's easy to get here as a lot of busses go this way from Barrack St north of Wellington St.
@@ -141,6 +149,8 @@ _Opening hours:_
 - Wed-Fri 8am–9pm
 - Sat 9am–5pm
 - Sun 9am–7pm
+
+---
 
 ## The Moon
 
@@ -165,6 +175,8 @@ _Opening hours:_
 - Sun: 10am-1am
 - Closed Public Holidays (like nearly all of Perth)
 
+---
+
 ## Lord of the Fries
 
 Located in almost the most central location imaginable, less than a minutes walk from the Perth Underground train station and easily accessible from anywhere in the city or Northbridge, this Australian fast food chain is deceptively vegan, and because of it's central location and late opening hours it makes a perfect late night snack.
@@ -187,6 +199,8 @@ _Opening hours:_
 - Fri: 9:00am – 2:00am
 - Sat: 9:00am – 3:00am
 - Sun: 10:00am – 10:00pm
+
+---
 
 ## Twilight Hawkers Market
 
@@ -214,6 +228,8 @@ _Opening hours:_
 - October to April
 - Friday's 4:30 - 9:30PM
 - (Generally closed for a few of these nights due to Christmas activities using the space)
+
+---
 
 ## The Raw Kitchen
 
