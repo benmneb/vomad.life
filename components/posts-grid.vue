@@ -56,7 +56,7 @@ async function handleTagClick(tag) {
 			<div v-for="post of relevantPosts" :key="post._path">
 				<nuxt-link :to="post._path">
 					<nuxt-img
-						:src="`content/${post.image}.webp`"
+						:src="`content/${post.image}/hero.webp`"
 						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
