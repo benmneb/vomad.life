@@ -99,3 +99,7 @@ li:not(:last-child) {
 li > ul {
 	margin-top: 0.5rem;
 }
+
+article > table {
+	width: 100%;
+}
