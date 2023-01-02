@@ -11,6 +11,15 @@ defineProps({
 	caption: {
 		type: String,
 	},
+	format: {
+		type: String,
+		default: 'webp',
+		validator(value) {
+			return ['webp', 'avif', 'jpeg', 'jpg', 'png', 'gif', 'svg'].includes(
+				value
+			)
+		},
+	},
 })
 </script>
 
@@ -19,6 +28,7 @@ defineProps({
 		<nuxt-img
 			:src="`content/${src}.webp`"
 			:alt="`${alt} @ https://Vomad.Life`"
+			:format="format"
 		/>
 		<figcaption v-if="caption">{{ caption }}</figcaption>
 	</figure>
