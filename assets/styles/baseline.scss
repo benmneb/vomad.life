@@ -103,3 +103,10 @@ li > ul {
 article > table {
 	width: 100%;
 }
+
+article {
+	code {
+		background-color: $secondary;
+		font-family: inherit;
+	}
+}
