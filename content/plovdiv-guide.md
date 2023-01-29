@@ -234,14 +234,14 @@ Everything considered, we only ate here once. Don't get it twisted, the quality
 
 ---
 
-That's all the places we enjoyed enough to recommend you go to as well, but unfortunately for the entire duration of our 90 day stay (and a few months prior we have since found out), the following two vegan-frienly restaurants were closed with no sign of reopening soon.
+That's all the places we enjoyed enough to recommend you go to as well, but unfortunately for the entire duration of our 90 day stay (and a few months prior we have since found out), the following two vegan-friendly restaurants were closed with no sign of reopening soon.
 
-**Veggic** - I got in touch with them on facebook and they said they were moving locations and waiting to hear back from the Ministry of Culture about permission to move into their new building. Best of luck.
+**Veggic** - \[[website](http://www.veggic.bg/en_index.html)] I got in touch with them on [Facebook](https://www.facebook.com/Veggic/) and they said they were moving locations and waiting to hear back from the Ministry of Culture about permission to move into their new building. Best of luck.
 
-**Country Life** - Their facebook says: "Unfortunately, at this point, we are having difficulty continuing our activities. I believe that when we are able to overcome the current challenges, we will be able to welcome you again with our loving collective and delicious dishes! Be Healthy!"
+**Country Life** - Their [Facebook](https://www.facebook.com/Country-Life-1584102191868078/) says: "Unfortunately, at this point, we are having difficulty continuing our activities. I believe that when we are able to overcome the current challenges, we will be able to welcome you again with our loving collective and delicious dishes! Be Healthy!"
 
 Hopefully they both reopen soon, because they are both fully vegetarian and claim many vegan options. Plovdiv needs you!
 
 ---
 
-PS. Something I did not mention yet was the abundance of road side fruit and vegetable stalls that are around Plovdiv. These are everywhere and make it very easy to pick up healthy vegan food on the go. Click here for more information on these in another article I wrote.
+PS. Something I did not mention yet was the abundance of road side fruit and vegetable stalls that are around Plovdiv. These are everywhere and make it very easy to pick up healthy vegan food on the go. [Click here for more information](/no-vegan-options) on these in another article I wrote.
