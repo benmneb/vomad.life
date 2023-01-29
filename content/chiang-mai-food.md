@@ -22,7 +22,7 @@ This article includes the **best of the best**, in a roughly descending order. I
 
 I designed this guide to be your one-stop resource for having very memorable, healthy, affordable meals for whatever the duration of your stay in Chiang Mai is.
 
-<prominent-img src="chiang-mai-food/chiangmai-title"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/chiangmai-title"></prominent-img>
 
 ## Vegan Heaven 2
 
@@ -32,13 +32,13 @@ _Fully Vegan_
 
 What is the gold standard for assessing the best restaurant in any given city? The one you find yourself going back to the most. And looking back on our stay, it was definitely Vegan Heaven 2 where we ate more than anywhere else, and with good reason.
 
-<prominent-img src="chiang-mai-food/veganheaven-banner"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-banner"></prominent-img>
 
 We were living here just when this place opened up, and it wasn't even listed on Google Maps when we started going. If you haven't already guessed, it is part of growing chain of restaurants all owned by a budding local business woman whose name and face, despite being on every menu at all her restaurants, I can't remember right now. But I would give her a warm embrace if I saw her in the street for what she's created here.
 
 Her chain started in 2008 with "A Taste From Heaven", a mostly vegan-friendly vegetarian restaurant also in the Old Town. From there she spread out to start the original "Vegan Heaven", a 100% vegan version of her first restaurant with almost the exact same menu, located just to the east of the Old Town on the infamous Loi Kroh Rd. If you can fight your way past the touchy-feely lady-boys and other sex workers, I'd say it's worth checking out if you're already over that way, but otherwise, head over to the more peaceful and authentic feeling Old Town and dine at the superior second location, appropriately called Vegan Heaven 2.
 
-<prominent-img src="chiang-mai-food/veganheaven-brownie" caption="The best chocolate brownie cake you'll ever eat. So tender. So moist. So chocolatey! Pictured here with vanilla (or is it coconut?) ice cream. All 100% vegan of course."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-brownie" caption="The best chocolate brownie cake you'll ever eat. So tender. So moist. So chocolatey! Pictured here with vanilla (or is it coconut?) ice cream. All 100% vegan of course."></prominent-img>
 
 What's the difference between these restaurants you might be asking? Not much. But still enough that once we went to Vegan Heaven 2, we never went back to the other location once.
 
@@ -46,19 +46,19 @@ The menu at first glance appears to be identical, but despite being a smaller ve
 
 One of these additions is tempeh, and it's available to be added to pretty much anything. If you're not familiar with tempeh, it's an Indonesian creation of fermented soybeans that is known for polarising its audience between love and hate. And I happen to love the stuff. Think of it as a healthier, whole-food alternative to tofu, but with a better texture, different flavour (usually hidden behind some marinade) and - because it's not processed at all, just fermented - way more nutritious.
 
-<prominent-img src="chiang-mai-food/veganheaven-blt" caption="Vegan BLT + avocado? Yes please! We witnessed a couple meat-eaters get amazed (and entertained) by the realistic texture of the vegan bacon."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-blt" caption="Vegan BLT + avocado? Yes please! We witnessed a couple meat-eaters get amazed (and entertained) by the realistic texture of the vegan bacon."></prominent-img>
 
 The decor at all three of these restaurants is very similar. They all look very western, and actually describe themselves on their website as "Chiang Mai's First 100% Vegan Western Restaurant".
 
 But don't be misled, I much prefer Thai food to western, and still ate here regularly due to all their other options. All locations also have quotes from famous vegans on the walls in bright colours, as well as more vegan celebrity quotes at the back of the menu.
 
-<prominent-img src="chiang-mai-food/veganheaven-stevo" caption="One of many photos and quotes of plant-based celebrities found on the walls of Vegan Heaven."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-stevo" caption="One of many photos and quotes of plant-based celebrities found on the walls of Vegan Heaven."></prominent-img>
 
 ### The Menu:
 
 In terms of what's actually on the menu, Vegan Heaven 2 also has the most range out of anywhere we ate. They have a hearty "western" section, who's standouts include the chicken and red meat substitute burgers, hot dogs, "chicken" wraps, a few different spaghetti options, cauliflower "chicken wings", a couple different multi-tiered sandwiches, a massive English breakfast (pictured below), a few raw salads, sushi, cold and deep fried spring rolls and lots more.
 
-<prominent-img src="chiang-mai-food/veganheaven-breakfast" caption="Big English style breakfast set that won't clog your arteries. Pictured here is the vegan bacon, sausage (my favourite part), hash browns, baked beans, toast, mushrooms, fried tomato and side salad. The only thing missing is the scrambled tofu - pictured on the menu on the right."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-breakfast" caption="Big English style breakfast set that won't clog your arteries. Pictured here is the vegan bacon, sausage (my favourite part), hash browns, baked beans, toast, mushrooms, fried tomato and side salad. The only thing missing is the scrambled tofu - pictured on the menu on the right."></prominent-img>
 
 The "Thai" section was my favourite and unsurprisingly had the most options. Everything from green and red curries to at least a whole dedicated page on the menu each of stir-fried vegetables, soups, rice and noodle-based dishes, drinks and deserts. They have hot and cold drinks that include alcoholic cocktails, hot coffee's, ten different teas, iced coffees, iced tea's and chocolate, a huge selection of juices, smoothies (the Strawberry Shake with coconut milk was the best), with an option to add chia seeds to the latter.
 
@@ -66,7 +66,7 @@ They got you covered for western deserts too. If you like cake, definitely order
 
 I could go on and on describing the menu here because it really was huge. You can have a look at photos of the menu over at [their website](http://www.veganheavencm.com/).
 
-<prominent-img src="chiang-mai-food/veganheaven-burger" caption="Very realistic looking Veggie Burger with crispy Sweet Potato Fries, and that's a Jasmine Tea in the background."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-burger" caption="Very realistic looking Veggie Burger with crispy Sweet Potato Fries, and that's a Jasmine Tea in the background."></prominent-img>
 
 ### Vomad Vegan Heaven Favourites:
 
@@ -76,7 +76,7 @@ I could go on and on describing the menu here because it really was huge. You ca
 - **Vegan Hot Dog** - with added vegan cheese and bacon, and Sweet Potato Fries.
 - **Chocolate Vegan Brownie** - Must try dessert.
 
-<prominent-img src="chiang-mai-food/veganheaven-staff" caption="Our real number one favourite is not on the menu, it's the head-lady in charge at Vegan Heaven 2. This beautiful soul was quick to banter with us and always made ordering food easy and enjoyable, especially when she remembered my favourite dishes. Here she is looking appropriately gangster in the house made &quot;Vegan and Winning&quot; t-shirt, available for purchase in store along with a few other designs."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganheaven-staff" caption="Our real number one favourite is not on the menu, it's the head-lady in charge at Vegan Heaven 2. This beautiful soul was quick to banter with us and always made ordering food easy and enjoyable, especially when she remembered my favourite dishes. Here she is looking appropriately gangster in the house made &quot;Vegan and Winning&quot; t-shirt, available for purchase in store along with a few other designs."></prominent-img>
 
 ### Service:
 
@@ -112,7 +112,7 @@ _Serves meat, many Vegan options_
 
 To be real, if the Cat House removed the meat options from their menu - even if they didn't add anything to replace them - I would have had no choice but to tie them first place with Vegan Heaven 2. But just because they give some of their profits towards the murdering of animals, it doesn't take away from the exceptional quality of their vegan meals.
 
-<prominent-img src="chiang-mai-food/cathouse-art" caption="An artists impression of the main Cat House location."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/cathouse-art" caption="An artists impression of the main Cat House location."></prominent-img>
 
 Even though it says "serves meat, vegan options" just above, it almost seems more appropriate to label The Cat House "vegan food with meat options". The menu seems to be laid out as follows: "Burrito, add your choice of tofu, chicken, beef, pork... Lentil curry, add your choice of tofu, chicken, beef, pork, Green Curry, add your choice of tofu, chicken, beef, pork..." and so forth. This was the first menu I'd seen anywhere that was designed almost entirely vegan with the option to add the animal flesh in afterwards. It was very refreshing. (The exception to this was meals with dairy.)
 
@@ -122,7 +122,7 @@ The Cat House is only open for dinner, but has a little cousin that's open for 
 
 There really was not a bad item on the menu - except for the meat of course. Everything I tried (most of the vegan options) far exceeded my expectations. Including brand new meals I'd never experienced anywhere before, like Gado Gado and a life-changing Burmese Tea Leaf Salad.
 
-<prominent-img src="chiang-mai-food/cathouse-tealeaf" caption="Their famous Burmese Tea Leaf Salad, served with Black Rice and raw garden salad. This modest looking meal is, taste-wise, quite possibly the best in Chiang Mai. Usually comes with coconut milk over the rice and sweet tamarind sauce over the salad."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/cathouse-tealeaf" caption="Their famous Burmese Tea Leaf Salad, served with Black Rice and raw garden salad. This modest looking meal is, taste-wise, quite possibly the best in Chiang Mai. Usually comes with coconut milk over the rice and sweet tamarind sauce over the salad."></prominent-img>
 
 If you're only half as much of a food snob as I'm becoming, you may have noticed that, even at expensive places in the west, black rice is hard to come by. (Black rice is [the most nutrient-dense rice](http://nutritionwithryan.com/white-rice-vs-brown-red-black-rice/) available) But here in little ole' Chiang Mai, at the Cat House, black rice is the only rice they offer, and comes standard along with a side salad for every meal. They cover the black rice in warm coconut milk, which is a magnificent combination, but you can ask not to have the coconut milk if you don't like it.
 
@@ -130,7 +130,7 @@ The menu is divided into the following sections: all day breakfast (including br
 
 You can see photos of the whole menu [here](https://www.tripadvisor.com/Restaurant_Review-g293917-d1930335-Reviews-Cat_House_Restaurant-Chiang_Mai.html#photos;geo=293917&detail=1930335&ff=248008648&albumViewMode=hero&aggregationId=101&albumid=101&baseMediaId=248008648&thumbnailMinWidth=50&cnt=30&offset=-1&filter=7&autoplay=).
 
-<prominent-img src="chiang-mai-food/cathouse-burrito" caption="Their famous vegan burrito, absolutely covered in lentil curry. Get it filled with tofu and veggies, or just lots of veggies, plus black rice, grab your knife and fork and enjoy a unique take on this Mexicanish meal. The side salad is sitting under their sweet tamarind sauce. (Photo courtesy of The Banana Relish Blog.)"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/cathouse-burrito" caption="Their famous vegan burrito, absolutely covered in lentil curry. Get it filled with tofu and veggies, or just lots of veggies, plus black rice, grab your knife and fork and enjoy a unique take on this Mexicanish meal. The side salad is sitting under their sweet tamarind sauce. (Photo courtesy of The Banana Relish Blog.)"></prominent-img>
 
 ### Vomad Cat House Favourites:
 
@@ -138,7 +138,7 @@ You can see photos of the whole menu [here](https://www.tripadvisor.com/Restaura
 - **Burrito** - Unlike most burritos, this one is eaten with a knife and fork. It's filled with veggies and beans (and tofu, if you choose) and covered with their awesome lentil curry. Of course, green salad is on the side.
 - **Falafel and Hummus in Pita** - Deep fried as hell, but very delicious. Pictured below.
 
-<prominent-img src="chiang-mai-food/cathouse-falafel" caption="Deliciously deep-fried falafels and hummus. Served with warm pita-bread and side salad. (Photo courtesy of aparikh12.)"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/cathouse-falafel" caption="Deliciously deep-fried falafels and hummus. Served with warm pita-bread and side salad. (Photo courtesy of aparikh12.)"></prominent-img>
 
 ### Service:
 
@@ -182,13 +182,13 @@ If you said yes, you _need_ to go here. If you said no, I'm sorry, but I can't 
 
 But don't worry, they have a lot of other stuff too... Their A5 menu reads like a Robert Greene book: dense. It's almost confusing as there are so many options stuffed into the little pages all in a seemingly random order. A lot of their dishes have accompanying graphics, photos and further descriptions that serve both to sell their meals a little better, and to make your decision a little harder.
 
-<prominent-img src="chiang-mai-food/amrita-entrance" caption="What an attractive place to eat a healthy vegan meal in. Look out for the vegan flag as you walk down the alley."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-entrance" caption="What an attractive place to eat a healthy vegan meal in. Look out for the vegan flag as you walk down the alley."></prominent-img>
 
 The setting at Amrita is truly beautiful. If you can, try to sit outside in the garden. You can tell they put a lot of work into maintaining the garden area and it really pays off, as it creates a serene and relaxing atmosphere to enjoy your healthy meal in. Free self-service cold water and mosquito spray is available, and you'll probably want lots of both.
 
 Amrita Garden also boasts a second story, traditional Thai "homestay", complete with two spacious guestrooms - one with a king-size bed, one with two twin beds - both with high-ceilings, lots of windows and plenty of storage room. There also have a common area and a balcony area, both with seating. The indoor common area has a kettle, coffee machine, toaster oven, microwave oven, rice-cooker and mini-fridge.
 
-<prominent-img src="chiang-mai-food/amrita-garden" caption="A snapshot of part of the garden seating area at Amrita. God bless your home indeed. The outside area leaks a little in the rain, and a lot in the heavy rain, but is well shaded in summer."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-garden" caption="A snapshot of part of the garden seating area at Amrita. God bless your home indeed. The outside area leaks a little in the rain, and a lot in the heavy rain, but is well shaded in summer."></prominent-img>
 
 The only major downside to this place is that they close early, at 8PM. The last orders are usually at 730PM. I assume they did this to encourage lunchtime visitors. If they stayed open just another hour, we would have definitely eaten here way more often. Even so, it was probably still the 3rd most visited restaurant in the city, and they didn't seem to mind us staying and chatting at our table for up to an hour past closing time.
 
@@ -196,7 +196,7 @@ The only major downside to this place is that they close early, at 8PM. The last
 
 Once you get around the distracting apparent lack of order of the menu, you'll start to realise it's not just packed with options, but packed with _healthy_ options.
 
-<prominent-img src="chiang-mai-food/amrita-greensalad" caption="Green Salad + freshly made vegan wholemeal bread in the back there. Their salad's change often, but damn this one looks good."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-greensalad" caption="Green Salad + freshly made vegan wholemeal bread in the back there. Their salad's change often, but damn this one looks good."></prominent-img>
 
 Their website states it better than I ever could:
 
@@ -204,7 +204,7 @@ Their website states it better than I ever could:
 
 And when eating here, you can tell.
 
-<prominent-img src="chiang-mai-food/amrita-redcake" caption="All vegan, gluten free strawberry cheesecake. Their range of desserts change often, but this is a great example of what they are capable of."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-redcake" caption="All vegan, gluten free strawberry cheesecake. Their range of desserts change often, but this is a great example of what they are capable of."></prominent-img>
 
 On top of their organic local veggies, they seem to be quite proud of their miso, kombucha and other macro-biotic items that promote healthy digestion as well. They also had a first that I'd never seen on a vegan menu before: a cheese platter. It was clear from reading the menu that they were very proud of their nut-based cheeses, and even though I never ordered the platter, some other meals we got came with vegan cheese and it's easy to see why.
 
@@ -212,7 +212,7 @@ Inside the restaurant they have a cabinet with vegan and vegetarian deserts in i
 
 You can see a sample of their menu - though definitely not the whole thing - [here on their website](http://amritagarden.net/en/cafe/) or [here on their Facebook](https://www.facebook.com/pg/amritagarden/photos/?tab=album&album_id=596954167050660).
 
-<prominent-img src="chiang-mai-food/amrita-tempeh" caption="The famous Amrita melt-in-your-mouth Tempeh Ribs. My favourite thing on their menu. Highly recommended with brown rice. Great combo."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-tempeh" caption="The famous Amrita melt-in-your-mouth Tempeh Ribs. My favourite thing on their menu. Highly recommended with brown rice. Great combo."></prominent-img>
 
 ### Vomad Amrita Favourites:
 
@@ -220,7 +220,7 @@ You can see a sample of their menu - though definitely not the whole thing - [he
 - **Whole-Wheat Spaghetti** - with added vegetables and cashew parmesan... Surprisingly filling!
 - **Vegan Burger** - They just brought out a new [Summer Vegan Burger](https://www.facebook.com/amritagarden/photos/a.389884167757662.94464.389876864425059/1377821562297246/?type=3&theater) while we were there, with a bean-based patty, and we thought it was much better than their already internet-famous other vegan burger. What makes these burgers next level was the cheese they added to them. So definitely ask for that.
 
-<prominent-img src="chiang-mai-food/amrita-burgerpatty" caption="The mixing pot that ended up making the patty for the best vegan burger in Chiang Mai: the Amrita Garden Summer Burger. Who wouldn't want a concentrated dose of those ingredients? Especially when its covered in vegan cheese!"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-burgerpatty" caption="The mixing pot that ended up making the patty for the best vegan burger in Chiang Mai: the Amrita Garden Summer Burger. Who wouldn't want a concentrated dose of those ingredients? Especially when its covered in vegan cheese!"></prominent-img>
 
 ### The Service:
 
@@ -230,7 +230,7 @@ But I wish his friendliness and truly flawless service was matched by the rest
 
 Due solely to the quality of the food, this intermittent lack-of-service strangely didn't turn us away one bit... it just created some more dialogue at the table and an unusual way to convince other friends of seeing the place.
 
-<prominent-img src="chiang-mai-food/amrita-raspberrycrumble" caption="Apple and raspberry gluten-free crumble. Hot damn it's good to be alive."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/amrita-raspberrycrumble" caption="Apple and raspberry gluten-free crumble. Hot damn it's good to be alive."></prominent-img>
 
 ### The Price:
 
@@ -264,15 +264,15 @@ _Now Fully Vegan_
 
 Possibly the second best setting in Chiang Mai, Reform Kafé seats you in a lush, tranquil, tropical garden. Actually very similar vibe to Amrita Garden I wrote about just above. This was probably our 4th most visited restaurant during our 3-month stay, and not only because of the nice garden. The food was pretty good too...
 
-<prominent-img src="chiang-mai-food/reform-main"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/reform-main"></prominent-img>
 
 Looking back, everything they served was good. _Everything_. We didn't have one bad meal here. All the food we ordered was of a very high quality and presentation. In fact, the whole establishment is the same, everything from the decor to the food to the service seemed to be kept to the highest standard they could manage. Which luckily, is higher than just about anywhere else in Chiang Mai.
 
-<prominent-img src="chiang-mai-food/reform-seating" caption="A small sample of the lovely seating area in Reform Kafe."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/reform-seating" caption="A small sample of the lovely seating area in Reform Kafe."></prominent-img>
 
 Unfortunately, unlike Amrita above, they don't focus as much on the "healthy" side of things. Which is understandable, as Amrita really focus on it. It's still basically all whole-foods, and they make a point on the front page of their menu to state they don't use MSG, but they use a bit too much oil and salt in some dishes, which is really just an easy way of adding flavour, at the expense of [proper arterial function](http://www.thevegetariansite.com/health_oliveoil.htm).
 
-<prominent-img src="chiang-mai-food/reform-cat" caption="The Adorable House Cat that runs the day to day operations at Reform Kafé - pictured here working hard at the front desk. Quite well fed compared to most cats you see around Thailand."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/reform-cat" caption="The Adorable House Cat that runs the day to day operations at Reform Kafé - pictured here working hard at the front desk. Quite well fed compared to most cats you see around Thailand."></prominent-img>
 
 ### The Menu:
 
@@ -280,13 +280,13 @@ We turned up here one evening and discovered that the menu looked a little dif
 
 My go-to first meal for the initial four or five times we ate here was their Avocado Salad. My goodness, it was great - a huge plate of leafy greens, one chopped up and always ripe avocado, all covered in oil and [dashed with salt](https://nutritionfacts.org/video/sodium-and-arterial-function-a-salting-our-endothelium/), making this a surprisingly high-fat meal, but damn, it was tasty.
 
-<prominent-img src="chiang-mai-food/reform-greentigersalad" caption="Green Tiger Salad, named after the adjoining guesthouse. This is on a huge plate so it looks smaller than it really is."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/reform-greentigersalad" caption="Green Tiger Salad, named after the adjoining guesthouse. This is on a huge plate so it looks smaller than it really is."></prominent-img>
 
 Their Papaya Salad was great too, and much lower in fat, as was the Burmese Tea Leaf Salad, but the latter didn't hold a candle to the same meal at the Cat House (maybe due to the Burmese staff there - review above). It sounds weird, but their fried potato chips was a memorable meal too, as were any of the curries we tried.
 
 You can expect to find about [half a page](https://www.tripadvisor.co.uk/Restaurant_Review-g293917-d10239150-Reviews-Reform_Kafe-Chiang_Mai.html#photos;geo=293917&detail=10239150&ff=280450362&albumViewMode=hero&aggregationId=101&albumid=101&baseMediaId=280450362&thumbnailMinWidth=50&cnt=30&offset=-1&filter=7&autoplay=) of menu items (3 - 6 meals each) for the following categories: starters, salads, soups, stir-fried meals, rice-based meals, curries, fried noodles and noodle soups, as well as drinks and desserts.
 
-<prominent-img src="chiang-mai-food/reform-kaosoi" caption="Kao Soi Noodle Soup presented excellently."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/reform-kaosoi" caption="Kao Soi Noodle Soup presented excellently."></prominent-img>
 
 ### The Service:
 
@@ -330,7 +330,7 @@ Once your meal arrives, however, you will quickly discover that the food is actu
 
 So when you go here, just expect to be paying more than you're used to in Thailand, unlike I was, and do your body some good and make the most of their luxury cuisine.
 
-<prominent-img src="chiang-mai-food/alices-rawbarleypestosaucemarinatedtempeh" caption="Look at this work of art. Raw Barley Pesto on Marinated Tempeh with a lot of other 100% organic raw vegetables. This meal is a lot bigger than it looks; at Alice's they use extra-large plates. This place will redefine what you thought raw foods were capable of."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/alices-rawbarleypestosaucemarinatedtempeh" caption="Look at this work of art. Raw Barley Pesto on Marinated Tempeh with a lot of other 100% organic raw vegetables. This meal is a lot bigger than it looks; at Alice's they use extra-large plates. This place will redefine what you thought raw foods were capable of."></prominent-img>
 
 As you enter the place you would never guess the quality of the food. It is located on Loi Kroh Road, just a little further down than Vegan Heaven 1, right in there with all the "Girly Bars". In fact, the owner told us that his restaurant used to be a "girly bar" (which mean's a bar from where you can meet and bring home prostitutes, by the way) and that's where the name comes from.
 
@@ -338,7 +338,7 @@ As you enter the place you would never guess the quality of the food. It is loca
 
 Alice's is famous for its raw meals and raw desserts. It does, of course, have cooked meals, but I don't know why you would order them in the light of the mouthwatering raw options. Especially considering the warm, tropical climate of Thailand which is perfect for raw foods. If you've never had a raw meal, just the name "raw food" might sound gross to you, but it shouldn't, and I urge you to try one here, especially if you never have before.
 
-<prominent-img src="chiang-mai-food/alices-cakes" caption="An awesome selection of mostly raw desserts at Alice's that is always changing. I think you'd be wasting your time trying to find more upscale desserts options than this in Chiang Mai."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/alices-cakes" caption="An awesome selection of mostly raw desserts at Alice's that is always changing. I think you'd be wasting your time trying to find more upscale desserts options than this in Chiang Mai."></prominent-img>
 
 _Vomad Alice's Organic Highlights:_
 
@@ -355,7 +355,7 @@ After we ordered he proceeded to sit down and have a chat with us like we were o
 
 Chris seemed to truly live the age-old customer service method of treating your customers like old friends, and for us, it only made the meal that much more enjoyable.
 
-<prominent-img src="chiang-mai-food/alices-cashewcoconut" caption="Organic, Raw Cashew & Coconut Cheesecake."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/alices-cashewcoconut" caption="Organic, Raw Cashew & Coconut Cheesecake."></prominent-img>
 
 ### The Price:
 
@@ -398,7 +398,7 @@ Two vegan options.
 
 We waited over a month for the disappointment to die down before even looking at the menu again, and when we did, we were happy to find another two vegan items we initially missed, in the entreé section, plus a "design your own salad" feature. After this, we decided to give it a fair go and actually eat there. And we were very glad we did.
 
-<prominent-img src="chiang-mai-food/saladconcept-staff" caption="The friendly staff members at Salad Concept are always ready to serve you and get you consuming their culinary delights as quick as they can."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/saladconcept-staff" caption="The friendly staff members at Salad Concept are always ready to serve you and get you consuming their culinary delights as quick as they can."></prominent-img>
 
 The story of the Salad Concept is pretty unique. It was started by two sisters, Poy and Pye, after they saw their father recover from final-stage colorectal cancer through a combination of a healthy vegan diet and Gerson therapy. Truly an inspiring story and the perfect motivation to open a health-conscious restaurant, I think.
 
@@ -412,13 +412,13 @@ The menu is pretty cool though. It's huge, about A3 size, and has nice colour pi
 
 On our first visit, I remember we looked at the menu thoroughly and both ordered two different things. I got the Quinoa Energy Salad (pictures below) and Hish got the Organic Tofu Salad. Mine was epic and I happily ate it every time we went back, which was roughly once a week after this. Hish's was disgusting and he didn't finish it, let alone ever order it again. Apparently, the tofu was like you imagine tofu is before you've ever had good tofu: white, tasteless and rubbery. Exactly as it is pictured on the menu. The accompanying fresh salad didn't make up for the lack of taste.
 
-<prominent-img src="chiang-mai-food/saladconcept-qinoaenergy" caption="The Number One vegan option at the Salad Concept and by far our most ordered meal: the Quinoa Energy Salad. Absolutely delicious and one of the few ready-to-go options that are labelled vegan on the menu."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/saladconcept-qinoaenergy" caption="The Number One vegan option at the Salad Concept and by far our most ordered meal: the Quinoa Energy Salad. Absolutely delicious and one of the few ready-to-go options that are labelled vegan on the menu."></prominent-img>
 
 The other vegan options were guacamole with dipping vegetables (cucumber and carrot), which was great because they give you so much guacamole. So much that I couldn't finish it with the dipping veggies they gave me so I ordered the other vegan entreé, wedges, to help complete the task. Which they did wonderfully.
 
 I'm pretty certain the only other thing close to a vegan option on the menu, aside from drinks, was the Tofu Steak with Rice and Quinoa that I mentioned earlier - you just have to ask for it to be veganised. It usually comes with a fish-sauce based marinade, but we were able to successfully order it without the dead fish juice many times. For this meal to be feasible though, you just have to compensate for the lack of marinade and cover it with another sauce of your choice, as the "steak" is supremely dry otherwise. Many common sauces - ketchup, mustard etc - are freely available if you ask one of the super helpful staff members.
 
-<prominent-img src="chiang-mai-food/saladconcept-smoothie" caption="Delicious looking carrot, mango and orange smoothie. Just ask for no cows milk!"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/saladconcept-smoothie" caption="Delicious looking carrot, mango and orange smoothie. Just ask for no cows milk!"></prominent-img>
 
 The only other thing we could eat on the menu was the design your own salad, which I got only once, and chose to get it all wrapped up in a tortilla. It was really nice, but nothing compared to the Quinoa Energy Salad, they just really nailed that meal.
 
@@ -455,7 +455,7 @@ What's there is *great*. There's just not much of it.
 
 ## Maya Lifestyle Shopping Center - Food Court
 
-<prominent-img src="chiang-mai-food/mayamall"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/mayamall"></prominent-img>
 
 Vegans-on-a-budget will be happy to find two delicious options directly across from each other in the below-ground food-court at the fancy Maya Mall, located at the big intersection of Nimman Rd and Huay Kaew Rd.
 
@@ -471,7 +471,7 @@ The first place we ate at here is the very modestly titled "Veg Food Stall". Bu
 
 It would actually be quite easy to walk past this place, have a look at all their food on display in the heated cabinet, and not even be aware it's entirely vegan cuisine. Which it is, except for a couple eggs sitting to one side. This is because a lot of the options include "soy protein", which is a mincey looking addition to the otherwise vegetable based stir-frys, soups and currys. They also have some snacks and sides that I didn't try because they looked too deep fried.
 
-<prominent-img src="chiang-mai-food/mayamall-vegfoodstall" caption="The Maya Mall Veg Food Stall has all their food on display, you pick what looks good, then you eat it. Three options for only 60 baht. (This collage I made from photos from Happy Cow.)"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/mayamall-vegfoodstall" caption="The Maya Mall Veg Food Stall has all their food on display, you pick what looks good, then you eat it. Three options for only 60 baht. (This collage I made from photos from Happy Cow.)"></prominent-img>
 
 How it works here is you pick what meals you want from the display, they scoop them out and put them on a plate, either with or without rice, then ask you if you want it heated up in the microwave. Which of course I always did. The owner is really nice and is interested in improving his meals, one time doing asking me for advice on what new ingredients to include (I said, "beans!"). All the staff gave top notch service actually, very friendly.
 
@@ -491,13 +491,13 @@ The set up at Wrap Master is exactly like Subway. Except better. You take a litt
 
 The base price is 80 THB (2.5 USD) and includes the wrap and rice, beans and some veggies, all mixed in with some nice Mexican salsa. Then any additional fillings you desire are 10 THB extra each (0.3 USD). Except for avocado which is 30 THB (0.95 USD). If you really want the avo, I would recommend getting there before about 7PM because they often sell out.
 
-<prominent-img src="chiang-mai-food/mayamall-wrapmaster-staff" caption="The Wrap Master's themselves ready to make you the biggest burrito in Chiang Mai."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/mayamall-wrapmaster-staff" caption="The Wrap Master's themselves ready to make you the biggest burrito in Chiang Mai."></prominent-img>
 
 The standout feature of this place, aside from how incredibly good value for money it is, is the long list of fillings they have for their burritos, totally about twenty. My standard fare included: sweet potato, pumpkin, chickpeas, lentils, broccoli and Thai kale. On top of the mandatory beans, rice and salsa. All this wrapped up in a massive tortilla that's home-made on site, for only 4.4 USD or 140 THB? Amazing.
 
 At nearly every other place we ate at in Chiang Mai, most of those ingredients I just mentioned are not even on the menu at all. Brocolli is a very rare treat here, as is sweet potato. Chickpeas? Unless they're in falafel form, forget it. Lentils? Only the Cat House had these. Just having these ingredients in stock every day alone made Wrap Master stand out, and is enough to recommend it here in this list.
 
-<prominent-img src="chiang-mai-food/mayamall-wrapmaster-preparing" caption="Once you've placed your order, you get to watch them make your meal. This lady is wrapping up one soft shell taco here, the burritos are three times the size."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/mayamall-wrapmaster-preparing" caption="Once you've placed your order, you get to watch them make your meal. This lady is wrapping up one soft shell taco here, the burritos are three times the size."></prominent-img>
 
 These burritos were truly great. Part of me wants to say they are possibly the best burritos I've had anywhere, but that's a big call considering my love for Zambreros. Wrap Master was at least as good though I think, considering they have more options of what to get inside. The finished product was noticeably different, however, the main difference being how soft Zambrero's wraps are. But they are not made in store, so they are no way near as fresh. You'd also have to go to Australia to eat at Zambreros, and pay twice the price... for a smaller burrito.
 
@@ -529,27 +529,27 @@ Blue Diamond is both full on restaurant and full on bakery.
 
 If only it was full on vegan.
 
-<prominent-img src="chiang-mai-food/bluediamond-produce" caption="A mouthwatering selection of fresh produce available daily at Blue Diamond. This is what you see as you walk through the front door."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/bluediamond-produce" caption="A mouthwatering selection of fresh produce available daily at Blue Diamond. This is what you see as you walk through the front door."></prominent-img>
 
 But don't let the animal ingredients turn you away too fast, what vegan things they do have are really worth your baht.
 
 What they lack in cruelty-free support, I think they tried to make up for in dessert options. Blue Diamond truly has an unmatched desert range. Their selections include, but are definitely not limited to, pastry rolls with vegan chocolate in side, croissants, muffins, cakes, chocolates, truffles, and best vegan cinnamon buns you've ever had. There is potentially too many delicious dessert choices, which may result in unexpected weight gain. This is the only restaurant I've ever been to where I've spent more on dessert than on the rest of my meals. Purchase at your own risk.
 
-<prominent-img src="chiang-mai-food/bluediamond-desserts" caption="Just a small sample of Blue Diamond's dessert and bakery options. When we were there they had about 3x as much desserts as you can see here, found in different cabinets and fridges in the store."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/bluediamond-desserts" caption="Just a small sample of Blue Diamond's dessert and bakery options. When we were there they had about 3x as much desserts as you can see here, found in different cabinets and fridges in the store."></prominent-img>
 
 Of course, they also have a huge menu of proper meals too. The stand out of which is one of the best Pad Thais in Chiang Mai. Pad Thai is standard Thai cuisine. It's rice-noodle based meal that is available at most Thai restaurants in the country. So when a meal this common stands out, you know it's going to be good.
 
 A memorable meal is their tofu nuggets, quite an uncommon meal, especially in Thailand, but they nailed it alright. Definitely try these if you can. They look like normal chicken nuggets and come with a peanut sauce.
 
-<prominent-img src="chiang-mai-food/bluediamond-tempehavosalad" caption="Tempeh and Avocado salad. I'll take two please."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/bluediamond-tempehavosalad" caption="Tempeh and Avocado salad. I'll take two please."></prominent-img>
 
 To put it simply: Blue Diamond has very high quality food. Everything on their menu is the freshest it could ever be. Nothing is microwaved, everything cooked to order with the freshest ingredients. The extent of this is made clearer by the range of fresh fruit and veg for sale in the "store section" accompanying the restaurant (pictures above). This section is large enough to be a stand alone store.
 
-<prominent-img src="chiang-mai-food/bluediamond-store" caption="Part, but not all of, Blue Diamond's store section. It goes further on both sides of this picture. It really is big enough that if they closed the restaurant, it will still be bigger than a lot of other stores."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/bluediamond-store" caption="Part, but not all of, Blue Diamond's store section. It goes further on both sides of this picture. It really is big enough that if they closed the restaurant, it will still be bigger than a lot of other stores."></prominent-img>
 
 As the name might suggest, Blue Diamond Breakfast Club is great for breakfast. Most notably they have vegan friendly coffee, meaning with your choice of plant-based milks (including soy). We found this to be surprisingly rare in Chiang Mai.
 
-<prominent-img src="chiang-mai-food/bluediamond-setting" caption="This is just a sample of the beautiful garden area where you can sit and eat on a nice day. Note: You do not have to sit on the floor if you don't want to... they have chairs."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/bluediamond-setting" caption="This is just a sample of the beautiful garden area where you can sit and eat on a nice day. Note: You do not have to sit on the floor if you don't want to... they have chairs."></prominent-img>
 
 The setting here at the Breakfast Club is, once you walk through the store, really quite pleasant considering it's located in the alleys of the Old Town. You sit and eat in a nice garden area has lots of seats but, in our experience always get's busy, so doesnt really seem that big.
 
@@ -575,15 +575,15 @@ no website | [facebook](https://www.facebook.com/peppermaintgh)
 
 Peppermaint Guesthouse has a unique homely feel to it. As you sit down to eat it almost feels like your Thai step-mother has just invited you over to sample her latest home-cooked delight; the service is super friendly and the seating and layout all appear as if it's in the living room of someone's house - which, it is, actually, as this cafe doubles as a guesthouse, with quite a sizeable library.
 
-<prominent-img src="chiang-mai-food/peppermint-store" caption="Peppermaint Cafe hosting one of their famous clay-pot buffets. Not sure if they still run these, but they should!"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/peppermint-store" caption="Peppermaint Cafe hosting one of their famous clay-pot buffets. Not sure if they still run these, but they should!"></prominent-img>
 
 Peppermaint Cafe has got arguably the best location of any restaurant in Chiang Mai. You can find them right in the heart of the "vegan district" (the north-east corner of the Old Town where there is the highest concentration of vegan restaurants) on the corner of Moon Muang Soi 6 and Ratvithi Soi 1. Those names are probably meaningless to you, but trust me, it's a good spot. It's also maybe a 4-minute walk from Zoe in Yellow and the main bar area in Chiang Mai. After getting a feel for the city, this area was our favourite to stay in and eat in.
 
-<prominent-img src="chiang-mai-food/peppermint-pizza" caption="Vegan Pizza anyone? They regularly have different pizza's available."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/peppermint-pizza" caption="Vegan Pizza anyone? They regularly have different pizza's available."></prominent-img>
 
 This kitchen creates a big range of food for very good prices, which includes curries, noodles, salads, fruit based meals, smoothies, and sticky rice desserts. Aside from their specials, which change regularly, our favourites included their pancakes with fruit and chocolate syrup on top, their range of tasty vegetable stir fry's, and their vegan burgers. They also have fresh baked vegan bread in store, which is hard to find in Chiang Mai.
 
-<prominent-img src="chiang-mai-food/peppermint-stirfrypumpkin" caption="Pumpkin Stir Fry with rice, veggies and tofu. Covered in sesame seeds."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/peppermint-stirfrypumpkin" caption="Pumpkin Stir Fry with rice, veggies and tofu. Covered in sesame seeds."></prominent-img>
 
 Meals go for the very competitive price of about 60 - 70 THB per dish (~2 USD). Definitely check this place out for good Thai vegan food. The handy location of this restaurant makes their food super accessible.
 
@@ -603,13 +603,13 @@ If you judge restaurants on how they look, you'd probably never eat at May Kaide
 
 There are no decorations, we assumed, because all the effort goes into the food, and their website. On which you'll notice theres not many pictures of the store... just the food and their famous cooking classes.
 
-<prominent-img src="chiang-mai-food/maykaidee-school" caption="We didn't take any classes, but May Kaidee's Veg Cooking School is just as popular as their restaurant is."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/maykaidee-school" caption="We didn't take any classes, but May Kaidee's Veg Cooking School is just as popular as their restaurant is."></prominent-img>
 
 The menu is here simple, which is good because the staff don't speak much English. Once you sit down they come round and give you the menu's and a little piece of paper and a pen. Each menu item has a number next to it, and once you've decided what you want you write down the number of your order on the piece of paper. As robotic as this system is, the language barrier seemed to add to the authentic Thai experience.
 
 Once the meals arrive however, all you'll be thinking is what are they doing in that kitchen?? As it becomes quite clear that what they lack in decorations, they more than make up for in taste.
 
-<prominent-img src="chiang-mai-food/maykaidee-curry" caption="One of May Kaidee's famous curry's."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/maykaidee-curry" caption="One of May Kaidee's famous curry's."></prominent-img>
 
 In true Thai style, the main stand out is their range of great curries. One of the best curry's in Chiang Mai, according to Hish, who was always ordering curries everywhere we went.
 
@@ -617,7 +617,7 @@ They have a delicious peanut sauce that they seem to put on everything. Which is
 
 A unique addition is their pumpkin hummus dish. Which I ordered after seeing how good it looked when someone else ordered it. Highly recommended by myself and the American couple sat next to us.
 
-<prominent-img src="chiang-mai-food/maykaidee-mangostickyrice" caption="A healthier take on this Thai classic: Mango and Black Sticky Rice with banana."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/maykaidee-mangostickyrice" caption="A healthier take on this Thai classic: Mango and Black Sticky Rice with banana."></prominent-img>
 
 This place has really limited seating, I think you could count the inside tables on one hand. The last time we came here they were full and we had to sit outside and around the corner. The food was still epic though.
 
@@ -637,13 +637,13 @@ I know I've been banging on about great settings in the above reviews. I did th
 
 Because it's... psychedelic. There is "trippy" artwork found on the walls and a very relaxing vibe found in-between them. They have shisha's ("hookahs") available to smoke (inside or out) while you're there too. The outside seating loses a little of the psychedelic vibe, but, even if it is right next to a main road, the little garden you eat in - pictured below - is pretty nice.
 
-<prominent-img src="chiang-mai-food/lostlounge" caption="Some hungry travellers choosing their meal before going inside to order."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/lostlounge" caption="Some hungry travellers choosing their meal before going inside to order."></prominent-img>
 
 The menu prices seemed higher than usual, but once our meals arrived we realised why: the serving sizes are also above average. We usually had two or three meals to fill us up, but one meal and a smoothie was enough here.
 
 It's possibly a little too dark inside for some people's tastes, but we liked the unique atmosphere. All the inside tables, except one, seemed to be strangely low, which made eating a little awkward. As weird as this was, the couches we were sitting on were so comfortable that leaning back and relaxing was even more inviting, and actually made us eat slower than usual. (Which is a good thing.)
 
-<prominent-img src="chiang-mai-food/lostlounge-salad" caption="Massive salad and a smoothie. Would you eat more than one of these?"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/lostlounge-salad" caption="Massive salad and a smoothie. Would you eat more than one of these?"></prominent-img>
 
 Our meals took the longest to arrive out of anywhere I can remember, it seemed as though they only had one staff member on duty when we were there. There was a very friendly kitten that kept us company though, jumping all over us, meowing and cuddling-up on our laps. Maybe not that hygienic, but it was good pre-meal entertainment (we passed on the shisha).
 
@@ -659,7 +659,7 @@ _Vegetarian with vegan options_
 
 no website | [facebook](https://www.facebook.com/AnchanVegetarianRestaurant)
 
-<prominent-img src="chiang-mai-food/anchan" caption="Chaing Mai Eats presented Anchan Restaurant with an award for being Food Fight Champions of 2016."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/anchan" caption="Chaing Mai Eats presented Anchan Restaurant with an award for being Food Fight Champions of 2016."></prominent-img>
 
 Anchan Vegetarian is quite a popular, award-winning vegetarian restaurant. It has a history of very solid online reviews, with heaps of people raving about it online, so we were excited to go there. But after eating we were left wondering why it had ever been hyped up so much.
 
@@ -681,7 +681,7 @@ This little stall at the night-food-markets near the South Gate is probably the 
 
 Their menu is pretty basic. It essentially consists of lots of different vegetable stir fry options. You can choose to have the vegetables with or without rice. The owner/manager is a lovely lady who speaks good English, which makes ordering very easy.
 
-<prominent-img src="chiang-mai-food/lada-cover" caption="Just a sample of some of the choices from the large menu at Lada Vegetarian."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/lada-cover" caption="Just a sample of some of the choices from the large menu at Lada Vegetarian."></prominent-img>
 
 Because all the meals here will only set you back 50 baht per plate, you can get two to four options for the price of one meal at nearly every other place that's on this guide. However, you can literally taste the difference.
 
@@ -689,7 +689,7 @@ Once when Amrita Garden's (featured above) early closing time caught us by surpr
 
 To be fair though, it's an incredibly unfair comparison, as Amrita has some of the best food in the city and costs three times as much.
 
-<prominent-img src="chiang-mai-food/lada-stall" caption="Look out for the bright yellow stall at the South Gate Night Markets (open every night). Even if there's a bit of a line, you won't be waiting too long don't worry."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/lada-stall" caption="Look out for the bright yellow stall at the South Gate Night Markets (open every night). Even if there's a bit of a line, you won't be waiting too long don't worry."></prominent-img>
 
 All in all, the Lada Food Stall is a great option for vegans who find themselves in the South Gate market (which has very little other vegan food) OR just want to spend the absolute minimum for a vege stir fry based meal.
 
@@ -707,13 +707,13 @@ _Serves meat, some vegan options_
 
 Kad Suan Kaew is a massive shopping center on Huay Kaew Rd, just to the west of the north side of the old city. You will nearly always go past it when heading to Nimman Rd from the old town.
 
-<prominent-img src="chiang-mai-food/kadsuan-central" caption="Kad Suan Kaew shopping complex from across the main road that also borders the north side of the Old Town."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/kadsuan-central" caption="Kad Suan Kaew shopping complex from across the main road that also borders the north side of the Old Town."></prominent-img>
 
 Hish ate here more than anywhere else. We lived about a three-minute walk from this 10 story shopping centre, it's appropriately sized food courts and it's accompanying big supermarket. For the three months we stayed there, Hish must have been their most loyal customer. Which really says something when you realise the food court he frequented (there's 3) only sell one vegan main-meal and one vegan side.
 
 He favourited the smaller of the food courts right outside of Tops Supermarket, at the biggest stall, named **Mama's Kitchen**. The vegan main meal they serve is the Veg Biryani. Essentially a plate of steamed white rice with potatoes, onions, chillis and some chopped vegetables with a side of garden salad, as you see pictured below. The empty sauce container you see there Hish has described as "super spicy biryani sauce with real chillis and possibly vinegar". Despite Hish having this exact meal at least 45 times the specific type of sauce in this authentic Thai-style Indian meal still remains a mystery.
 
-<prominent-img src="chiang-mai-food/kadsuan-briyani" caption="The famous Kad Suan Kaew Foodcourt Mama's Kitchen Veg Biryani."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/kadsuan-briyani" caption="The famous Kad Suan Kaew Foodcourt Mama's Kitchen Veg Biryani."></prominent-img>
 
 The vegan side was a freshly-made-in-front-of-your-eyes garlic naan-bread. You order it, then you see them make the dough, then you see them put in the garlic, the oil, and then fry it. Then you eat it. I had three of these in a row once because they're so good and fresh. They also sell smoothies and samosas, but we don't recommend either of these, as we found them to be too flavourless (smoothies) and way too oily (samosas).
 
@@ -721,13 +721,13 @@ In the same Tops Supermarket Foodcourt is an epic **make-your-own salad bar**. T
 
 The Huay Keaw food court is huge, by the way. There are several sections that by Australian standards would each qualify as their own food court. Right up near the other end of the food court from the Tops Supermarket, just above the set of stairs, on the right, is a more authentic Indian restaurant, **The Curry Pot**. This eatery a little more like a "real restaurant" as it has it's own dedicated seating space and a much bigger menu than anything at any of the other food courts.
 
-<prominent-img src="chiang-mai-food/kadsuan-currypot"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/kadsuan-currypot"></prominent-img>
 
 **The Curry Pot** was good for getting a healthy dose of beans. I would routinely order a big plate of yellow rice and a red kidney bean or chickpea curry. They had a full menu that you would expect from a legit restaurant, but most of the meals have meat in them. We found about five or six good vegan choices.
 
 The Curry Pot is getting a mention here because the meals I liked there (the bean-based ones) were not freely available elsewhere in Chiang Mai for this price. There's something going on all over Thailand where the Indian restaurants are just ridiculously expensive compared to everywhere else. You can notice this in Bangkok just as much as you can in Chiang Mai. But the Curry Pot was actually decently priced. It's probably because they are located in a food court, and I'm pretty sure they just microwaved most of their meals, but when you're ordering a bean curry for three dollars that's not really a big deal.
 
-<prominent-img src="chiang-mai-food/kadsuan-outside"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/kadsuan-outside"></prominent-img>
 
 Outside this shopping centre, on Friday nights, is a **small night market**. This night market has only a few vegan options, none of which enticed me, such as deep-fried things, greasy noodles, and mango sticky rice (ew). This stuff is pretty standard at all the night markets in Chiang Mai, and this particular night market is considerably smaller than the two main ones, the Saturday and Sunday night "walking street" markets.
 
@@ -745,13 +745,13 @@ Most people, I would assume...
 
 So, I would also assume, most people will fall in love with Chiang Mai's best vegan ice cream place just as deeply as we did.
 
-<prominent-img src="chiang-mai-food/iceloveyou-main" caption="YES PLEASE THANK YOU MA'AM"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/iceloveyou-main" caption="YES PLEASE THANK YOU MA'AM"></prominent-img>
 
 Ice Love You is located a bit out of the way compared to nearly everywhere else you'll want to eat, but we found the 15-minute walk back to our near-Nimman Rd apartment quite handy considering all the excess calories we just consumed at this magnificent desert house.
 
 They have a range of dessert options, but only a few of them are vegan. I would recommend exactly what the owner recommended to us: the puffy, sweet roti with ice cream on the side. My goodness, I'd never had a dessert like this in my life, and I spent the first 25 years of it seeking out all the best desserts.
 
-<prominent-img src="chiang-mai-food/iceloveyou-colours" caption="Look at those colourful plant-based flavours and try and tell me you don't want a scoop or two."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/iceloveyou-colours" caption="Look at those colourful plant-based flavours and try and tell me you don't want a scoop or two."></prominent-img>
 
 After you choose what type of dessert you would like, you then choose what flavour ice cream you want with it. All their more than 300 flavours aren't vegan, but about half of them are. And even though they boast so many options, on any given night, "only" about 40 are actually on offer.
 
@@ -763,11 +763,11 @@ It's a highly unique flavour combination they have going on here, and I feel li
 
 The rest of the flavours we had were all very tasty - nothing even came close to being disappointing - but nothing also came close to the Blueberry Sorbet.
 
-<prominent-img src="chiang-mai-food/iceloveyou-rotti" caption="One of my sweet puffy rotti's with cornflakes, oats and raisins on top and vegan ice-cream on the side."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/iceloveyou-rotti" caption="One of my sweet puffy rotti's with cornflakes, oats and raisins on top and vegan ice-cream on the side."></prominent-img>
 
 We love you too, Ice Love You. Thank you, thank you for everything you've done for my taste-buds.
 
-<prominent-img src="chiang-mai-food/iceloveyou-flag" caption="The Ice Love You flag planted high upon a mountain of cruelty-free sweetness."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/iceloveyou-flag" caption="The Ice Love You flag planted high upon a mountain of cruelty-free sweetness."></prominent-img>
 
 _4 / 5 stars_
 
@@ -779,7 +779,7 @@ _Serves a lot of meat, and one vegan burger_
 
 [website](http://www.beastburgercafe.com/) | [facebook](https://www.facebook.com/beast.burger)
 
-<prominent-img src="chiang-mai-food/beastburger-vegan" caption="The Best Vegan Burger in Chiang Mai?"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/beastburger-vegan" caption="The Best Vegan Burger in Chiang Mai?"></prominent-img>
 
 Living in Thailand changed my opinion on western food. Even well before I came here, as I just started eating more and more vegan whole-foods at home in Australia, I naturally drifted away from most western food, as it's nearly entirely animal-based, and when it's not, it uses a lot of processed or refined ingredients. When I started travelling around Europe after being in Asia for 4 months and was re-introduced to western food quite suddenly, I was struck by an obvious realisation: western food sucks, compared to Thai, Indian and Mexican cuisine.
 
@@ -799,7 +799,7 @@ If you really like burgers, you will also enjoy the choices at Amrita Garden, re
 
 _Vegan option(s)_
 
-<prominent-img src="chiang-mai-food/mayamallnightmarket"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/mayamallnightmarket"></prominent-img>
 
 If you head to Maya Mall on some nights, you'll find a heap of temporary stalls set up on both sides of the main entrance. As you stand and look at the shopping center from outside the main entrance, on the right-hand side they sell clothes, belts, wallets and the like, and on the left they sell food.
 
@@ -821,7 +821,7 @@ _Fully Vegan_
 
 The Free Bird Cafe is a brightly coloured NGO cafe located on the north side of the border of the Old Town. They serve coffee, smoothies and fruit shakes, grilled sandwiches, hummus, salads, and Thai food.
 
-<prominent-img src="chiang-mai-food/freebird" caption="The spirit of this charitable cafe is encapsulated in their saying, &quot;No one is free while others are oppressed.&quot; Which could stand strong as a slogan for just any vegan cafe... but even more so considering why the Free Bird Cafe exists."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/freebird" caption="The spirit of this charitable cafe is encapsulated in their saying, &quot;No one is free while others are oppressed.&quot; Which could stand strong as a slogan for just any vegan cafe... but even more so considering why the Free Bird Cafe exists."></prominent-img>
 
 Aside from running the cafe, all of the money you spend here goes directly to The Thai Freedom House, a language and arts community centre for hill tribe and refugee families from Burma.
 
@@ -829,13 +829,13 @@ The owner, Lisa, [says](http://thaifreedomhouse.org/origins-and-history/) that t
 
 _Sounds like a good place to spend some money to me!_
 
-<prominent-img src="chiang-mai-food/freebird-bowl" caption="I highly recommend the smoothie bowls at The Free Bird: A Cafe with a Cause!"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/freebird-bowl" caption="I highly recommend the smoothie bowls at The Free Bird: A Cafe with a Cause!"></prominent-img>
 
 Unsurprisingly for a business with these kind of ambitions, The Free Bird Cafe was the second most expensive place we visited in Chiang Mai, after Alice's Organic Vegetarian (reviewed in full above). Think of it as a normal Thai-priced cafe plus a mandatory donation to those who need it more than we can imagine having grown up in the West.
 
 Aside from the cuisine mentioned above, they also sell second hand clothes to further help with their mission of being "dedicated to assisting families and individuals who are refugees from Burma and members of minority groups of Thailand."
 
-<prominent-img src="chiang-mai-food/freebird-inside" caption="To further support the cause, The Free Bird Cafe is home to a second-hand charity shop selling shirts, books and more. Head down there to see what they have on offer at the moment."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/freebird-inside" caption="To further support the cause, The Free Bird Cafe is home to a second-hand charity shop selling shirts, books and more. Head down there to see what they have on offer at the moment."></prominent-img>
 
 The Free Bird closes at 6pm, so it's not really a dinner venue. Which may explain why their menu is dominated by a huge range of pancakes, with the healthy, organic, whole-food ingredients listed for each pancake. These and their range of smoothie bowls I would recommend the most. But when the hearts of the owners are beating this strong, hopefully you will buy a lot more.
 
@@ -851,7 +851,7 @@ _All serve meat - vegan option(s)_
 
 Sometime during our stay Hish had a craving for pizza, and after some mad research he found that while there is no fully vegan pizza place in Chiang Mai, there are 3 pizza places that catered for vegans.
 
-<prominent-img src="chiang-mai-food/veganpizza"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/veganpizza"></prominent-img>
 
 **Why Not?** is an Italian restaurant and was the first we went to. It is located just off Nimman Rd. It had great pizzas. Huge pizzas, actually. Appropriately thin bases but about 40cm in diameter. In true Thai fashion, they're very casual about everything and have a design-your-own option where you just choose from their list of ingredients and they chuck them on. This was music to my ears and I just got ALL the veggies. It was so good I walked back after and ordered another one exactly the same.
 
@@ -873,7 +873,7 @@ Considering about half of the food I ate during our stay was fruit, this post w
 
 Expect tropical fruits such as many different types of mangoes and bananas that are never available in the west, pomegranates, rambutans, durians, pineapples, papaya, dragon fruits, guava, jackfruit, longan, lychee, coconuts, snake fruit and watermelons just to name a few. These can be found in many small road-side stalls like the one pictured below, as well as much bigger, fully functioning fruit market places.
 
-<prominent-img src="chiang-mai-food/thaifruitstall" caption="One of many refreshing road-side fruit stalls conveniently found around the warm streets of Chiang Mai. Much smaller than any of the full-fledged markets mentioned below."></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/thaifruitstall" caption="One of many refreshing road-side fruit stalls conveniently found around the warm streets of Chiang Mai. Much smaller than any of the full-fledged markets mentioned below."></prominent-img>
 
 My favourite market was the **Somphet Market** mainly just because of its location. It's open from the early morning through to the afternoon inside the Old City just 5 minute walk north of Tha Phae Gate (East Gate). It contains plenty of fresh tropical fruit and vegetables. You can even walk by here after dark, sometimes as late as 10PM and still find a few stalls open along the side of the main Mun Mueang Rd selling left over fruit much cheaper than usual. I regularly bought fruit at this time to eat the next day.
 
@@ -885,6 +885,6 @@ Aside from these markets - where fruit is always the cheapest - you can find als
 
 Not that I ever went a day here without eating fruit, but I found Koh Phangan (a southern Thai island) easier to find quality fruits at any time of day. I think because of the lay out of the fruit stalls on that island, there seemed to be stalls placed very conveniently and they always had very ripe produce. [Click here to read my Vegan Guide to Koh Phanang](/delicious-koh-phangan).
 
-<prominent-img src="chiang-mai-food/chiangmailove"></prominent-img>
+<prominent-img alt="The Best of the Best: All Vegan Guide to Chiang Mai, Thailand" src="chiang-mai-food/chiangmailove"></prominent-img>
 
 PS. The above photos whose sources are not credited mostly came from the corresponding restaurants Facebook page, but I took some of them myself.
