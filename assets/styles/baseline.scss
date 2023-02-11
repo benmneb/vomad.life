@@ -51,13 +51,6 @@ a {
 	}
 }
 
-hr {
-	width: 25%;
-	margin: 2rem auto;
-	color: $grey;
-	border-radius: 50%;
-}
-
 * {
 	box-sizing: border-box;
 }
@@ -92,19 +85,26 @@ h6 {
 	}
 }
 
-li:not(:last-child) {
-	margin-bottom: 0.5rem;
-}
-
-li > ul {
-	margin-top: 0.5rem;
-}
-
-article > table {
-	width: 100%;
-}
-
 article {
+	hr {
+		width: 25%;
+		margin: 2rem auto;
+		color: $grey;
+		border-radius: 50%;
+	}
+
+	li:not(:last-child) {
+		margin-bottom: 0.5rem;
+	}
+
+	li > ul {
+		margin-top: 0.5rem;
+	}
+
+	table {
+		width: 100%;
+	}
+
 	code {
 		background-color: $secondary;
 		font-family: inherit;
