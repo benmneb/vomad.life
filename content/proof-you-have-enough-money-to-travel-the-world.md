@@ -48,7 +48,7 @@ When I was living in Australia, unemployed and "looking for work", I was receivi
 
 (If this amount seems generous to you, also remember that the cost of living is quite high in Australia, especially where I'm from. For example, about 80% of that amount I received went straight to [rent](https://www.numbeo.com/cost-of-living/country_price_rankings?displayCurrency=USD&itemId=26).)
 
-**Since leaving Australia over a year ago, we at Vomad have each been living off somewhere between 600 and 700 AUD per month.**
+**Since leaving Australia over a year ago, we at Vomad have each been living off our generous self-paid salary of... somewhere between 600 and 700 AUD per month.**
 
 So lets go to the high end and use the figure of 700 AUD per month, or [540 USD](http://www.xe.com/currencyconverter/convert/?Amount=700&From=AUD&To=USD) from here on.
 
@@ -114,7 +114,7 @@ The point of this post is not to handle your specific logistical issues, it's ju
 
 And we really do travel for around 700 AUD per month. We do not stay at fancy hotels, I'm writing this from a common area in a Romanian hostel (there are sexy French accents all around me right now, it's awesome), we normally catch night busses from place to place because it's cheaper, and the most expensive thing I have bought in the last year - aside from a plane ticket from Asia to Europe - is a 100 AUD winter jacket (on sale from 180 AUD).
 
-Yes, we live cheap. Even though we earn a bit more, we don't need to pay ourselves any more to live comfortably. While some people might be repulsed at bootstrapping for a lifestyle like this, for us, the experience alone is priceless.
+Yes, we live cheap. Even though we earn more, we don't need to pay ourselves any more to live comfortably. While some people might be repulsed at bootstrapping for a lifestyle like this, for us, the experience alone is priceless.
 
 The value of memories and experiences can not be quantified, yet most people would agree they are infinitely more valuable than owning a large house in an expensive neighbourhood filled with expensive but meaningless material possessions, and waiting there doing something wholly unfulfilling until you are old enough to be allowed to do what your heart desires - the apparent situation of the more traditional, location dependent lifestyle.
 
