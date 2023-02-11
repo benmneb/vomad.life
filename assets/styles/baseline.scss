@@ -109,4 +109,21 @@ article {
 		background-color: $secondary;
 		font-family: inherit;
 	}
+
+	blockquote {
+		font-style: italic;
+		margin: 2rem 1rem;
+		padding-left: 1rem;
+		border-left-width: 2px;
+		border-left-style: solid;
+		border-image: linear-gradient(
+				to bottom,
+				rgba(0, 0, 0, 0),
+				$primary,
+				$success,
+				$secondary,
+				rgba(0, 0, 0, 0)
+			)
+			0 100%;
+	}
 }
