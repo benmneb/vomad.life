@@ -1,3 +1,7 @@
+<script setup>
+import Balancer from 'vue-wrap-balancer'
+</script>
+
 <template>
 	<main>
 		<content-doc v-slot="{ doc }">
@@ -15,8 +19,12 @@
 						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 					/>
 				</div>
-				<div>
-					<h1>{{ doc.title }}</h1>
+				<div class="header-text">
+					<h1>
+						<Balancer>
+							{{ doc.title }}
+						</Balancer>
+					</h1>
 					<p class="reading-time">{{ doc.readingTime.text }}</p>
 					<!-- <p>#{{ doc.tag }}</p> -->
 				</div>
@@ -66,6 +74,12 @@ header {
 		line-height: 150%;
 	}
 
+	.header-text {
+		width: 1200px;
+		max-width: 80vw;
+		text-align: center;
+	}
+
 	.reading-time {
 		font-weight: bold;
 		color: $grey;
@@ -74,9 +88,13 @@ header {
 }
 
 article,
-header > div:last-of-type,
 footer {
 	max-width: 800px;
+}
+
+article,
+.header-text,
+footer {
 	margin: auto;
 	padding: 0 1rem;
 }

@@ -5944,6 +5944,13 @@ vue-router@^4.1.6:
   dependencies:
     "@vue/devtools-api" "^6.4.5"
 
+vue-wrap-balancer@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/vue-wrap-balancer/-/vue-wrap-balancer-0.4.1.tgz#b344c34ca77c068a0c86532ae00a6be1408d9325"
+  integrity sha512-VK7bIVw+eQXWt46w1adCoFRAT2bVqzpZnXM4i7RwA0XjfAfpyefY8A+uvq0ubevCkOM4NLArdMI1lcQffyz57A==
+  dependencies:
+    nanoid "^4.0.0"
+
 vue@^3.2.45:
   version "3.2.45"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.45.tgz#94a116784447eb7dbd892167784619fef379b3c8"
