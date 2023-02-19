@@ -25,11 +25,13 @@ defineProps({
 
 <template>
 	<figure>
-		<nuxt-img
-			:src="`content/${src}.webp`"
-			:alt="`${alt} @ https://Vomad.Life`"
-			:format="format"
-		/>
+		<div>
+			<nuxt-img
+				:src="`content/${src}.webp`"
+				:alt="`${alt} @ https://Vomad.Life`"
+				:format="format"
+			/>
+		</div>
 		<figcaption v-if="caption">{{ caption }}</figcaption>
 	</figure>
 </template>
@@ -40,10 +42,19 @@ figure {
 	margin: 2rem 0;
 	margin-left: calc(-1 * (80vw - (800px - 2rem)) / 2);
 
-	img {
+	div {
 		width: 100%;
-		max-height: calc(80vh - 2rem); // 2rem for the margin
-		object-fit: contain;
+		height: calc(80vh - 2rem); // 2rem for the margin
+		display: flex;
+		justify-content: center;
+
+		img {
+			width: auto;
+			height: auto;
+			max-width: 100%;
+			max-height: 100%;
+			border-radius: 1rem;
+		}
 	}
 
 	figcaption {
