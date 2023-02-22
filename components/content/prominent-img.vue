@@ -32,7 +32,7 @@ defineProps({
 				:format="format"
 			/>
 		</div>
-		<figcaption v-if="caption">{{ caption }}</figcaption>
+		<figcaption v-if="caption" v-html="caption"></figcaption>
 	</figure>
 </template>
 
