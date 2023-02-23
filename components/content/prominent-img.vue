@@ -44,7 +44,7 @@ figure {
 
 	div {
 		width: 100%;
-		height: calc(80vh - 2rem); // 2rem for the margin
+		max-height: calc(80vh - 2rem); // 2rem for the margin
 		display: flex;
 		justify-content: center;
 
@@ -52,7 +52,7 @@ figure {
 			width: auto;
 			height: auto;
 			max-width: 100%;
-			max-height: 100%;
+			max-height: calc(80vh - 2rem); // 2rem for the margin
 			border-radius: 1rem;
 		}
 	}
