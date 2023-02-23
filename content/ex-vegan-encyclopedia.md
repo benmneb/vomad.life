@@ -10,7 +10,7 @@ _The Internet's Largest Collection of "Why I Quit Veganism" and "I'm Not Vegan A
 
 With a foreword featuring Gary, of course.
 
-<youtube id="-LKPgRix-A4"></youtube>
+<youtube id="-LKPgRix-A4" start="55"></youtube>
 
 ---
 
