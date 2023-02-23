@@ -1,7 +1,7 @@
 <template>
 	<figure>
 		<iframe
-			:src="`https://www.youtube.com/embed/${id}`"
+			:src="`https://www.youtube.com/embed/${id}?start=${start || 0}`"
 			:title="`${title} @ Vomad.Life`"
 			frameborder="0"
 			allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture"
@@ -39,5 +39,6 @@ defineProps({
 	id: String,
 	title: String,
 	caption: String,
+	start: String,
 })
 </script>
