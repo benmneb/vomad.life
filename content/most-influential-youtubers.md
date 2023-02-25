@@ -1,5 +1,5 @@
 ---
-title: 'The Top 5 Most Influential Vegan YouTube Activists for 2019'
+title: 'The Top 5 Most Influential Vegan YouTube Activists'
 tag: 'high-five'
 image: 'most-influential-youtubers'
 author: 'Ben'
