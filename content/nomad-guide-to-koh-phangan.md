@@ -1,6 +1,6 @@
 ---
 title: "The Complete Digital Nomad & Traveller's Guide to Koh Phangan, Thailand"
-tag: 'travel'
+tag: 'guide'
 image: 'nomad-guide-to-koh-phangan'
 author: 'Hish'
 date: 'May 03, 2018'

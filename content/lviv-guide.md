@@ -1,6 +1,6 @@
 ---
 title: 'The Vegan Guide to Lviv, Ukraine'
-tag: 'travel'
+tag: 'guide'
 image: 'lviv-guide'
 author: 'Ben'
 date: 'November 8, 2018'

@@ -3,7 +3,6 @@ const tags = ref([
 	'article',
 	'guide',
 	'high-five',
-	'travel',
 	'book-review',
 	'interview',
 	'survey',

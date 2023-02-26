@@ -1,6 +1,6 @@
 ---
 title: 'Vegan Travellers Guide to Perth, Australia'
-tag: 'travel'
+tag: 'guide'
 image: 'travellers-guide-to-perth'
 author: 'Ben'
 date: 'December 19, 2016'
