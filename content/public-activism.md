@@ -1,5 +1,5 @@
 ---
-title: 'A Note on the Effectiveness of Public Activism (Re: 2019 Global Vegan Survey Results)'
+title: 'The Effectiveness of Public Vegan Activism'
 tag: 'article'
 image: 'public-activism'
 author: 'Ben'
@@ -22,11 +22,11 @@ Here is the image representing the part of the 2019 Global Vegan Survey in quest
 
 As you can see in the image above, the actual question that was asked in the survey was not "Have you ever been positively influenced by public activism?", nor was it "Did public activism ever play a role in turning you vegan?" but it was "What was the _first thing_ that made you seriously consider going vegan?"
 
-So it could easily have not been a factor at all, but it could also have been the second, third or the very last thing they needed to experience to remove the final shred of doubt in their mind that veganism is the right thing to do.
+So public activism could easily have not been a factor at all, but it could also have been the second, third or the very last thing they needed to experience to remove the final shred of doubt in their mind that veganism is the right thing to do.
 
-Anyone who's taken part in a form of public activism like the Cube of Truth events hosted by Anonymous for the Voiceless will know that public outreach can not only be very effective (it's hard to deny it when you see people going vegan right in front of you) but also that the easiest people to talk to at these events - that is, to get through to - are those who already have at least a little knowledge of or experience with veganism and animal rights.
+Anyone who's taken part in a form of public activism like the Cube of Truth events hosted by Anonymous for the Voiceless will know that public outreach can not only be very effective (it's hard to deny it when you see people going vegan right in front of you) but also that the easiest people to talk to at these events - that is, to get through to - are those who already have at least a little knowledge of or experience with veganism or animal rights.
 
-> I will suggest that the people who are most receptive to public activism are people who have already come into contact with veganism previously. Therefore, for the people who we have the most productive conversations with on the street, the first thing that made them consider veganism could not be public activism.
+> So I will suggest that the people who are most receptive to public activism are those who have already come into contact with veganism previously. Therefore, for nearly everyone on the street who we have the most productive conversations with, the first thing that made them consider veganism could not be public activism.
 
 It evokes strong, memorable reactions in people when you have a solid, logical conversation with them in conjunction with showing them footage of horrific, legal, RSPCA approved animal abuse like that shown at a Cube of Truth event. The dynamic duo of logic and emotion is precisely the required combination to form the [most persuasive argument](http://www.jrmyprtr.com/modes-of-persuasion/) a human being can be exposed to. (This is just one reason why feature length documentaries topped the list, because they are designed to achieve this potent mix with surgical precision.)
 
