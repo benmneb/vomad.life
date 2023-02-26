@@ -76,6 +76,6 @@ So, now that you know you can be just as healthy, if not healthier, without payi
 
 <prominent-img src="is-veganism-nutritious/sidekick" alt="Vegan Sidekick!"></prominent-img>
 
-Click here to see [44 more excuses not to be vegan debunked](/every-argument-against-veganism-debunked).
+Click here to see [44 more excuses not to be vegan debunked](/every-argument-against-veganism).
 
 PS. The above list was inspired by [this Reddit post](https://www.reddit.com/r/vegan/wiki/dieteticorgs).
