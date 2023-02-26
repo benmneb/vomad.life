@@ -53,6 +53,11 @@ async function handleTagClick(tag) {
 					/>
 				</nuxt-link>
 			</div>
+			<div v-if="!appliedTag">
+				<nuxt-link to="https://vomad.guide?ref=vomad.life">
+					<nuxt-img src="guide.webp" sizes="sm:25vw md:25vw lg:25vw xl:25vw" />
+				</nuxt-link>
+			</div>
 			<div v-for="post of relevantPosts" :key="post._path">
 				<nuxt-link :to="post._path">
 					<nuxt-img
