@@ -6,19 +6,7 @@ import Balancer from 'vue-wrap-balancer'
 	<main>
 		<content-doc v-slot="{ doc }">
 			<header>
-				<div>
-					<nuxt-img
-						preload
-						:src="`content/${doc.image}/hero.webp`"
-						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-						class="blur"
-					/>
-					<nuxt-img
-						preload
-						:src="`content/${doc.image}/hero.webp`"
-						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-					/>
-				</div>
+				<post-hero :image="`content/${doc.image}/hero`" />
 				<div class="header-text">
 					<h1>
 						<Balancer>
@@ -46,27 +34,6 @@ import Balancer from 'vue-wrap-balancer'
 <style scoped lang="scss">
 header {
 	margin: 100px 0 0;
-
-	.blur {
-		background-size: cover;
-		background-position: center;
-		height: 100vh;
-		width: 100vw;
-		top: 0;
-		position: absolute;
-		filter: blur(50px);
-	}
-
-	img:not(.blur) {
-		max-height: calc(100vh - 100px);
-		max-width: 100vw;
-		margin: auto;
-		display: block;
-		position: relative;
-		z-index: 10;
-		border-radius: 4rem;
-		padding: 2rem;
-	}
 
 	h1 {
 		font-size: $font-size-extra-large;
