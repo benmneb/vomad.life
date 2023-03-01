@@ -47,7 +47,7 @@ async function handleTagClick(tag) {
 			<div v-if="!appliedTag">
 				<nuxt-link to="/travel-log">
 					<nuxt-img
-						src="travel-log.webp"
+						src="travel-log/hero.webp"
 						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
