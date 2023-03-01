@@ -1,4 +1,10 @@
 <script setup>
+defineProps({
+	imgSrc: {
+		type: String,
+		required: true,
+	},
+})
 const imgLoaded = ref(false)
 
 function handleLoad() {
@@ -9,12 +15,11 @@ function handleLoad() {
 <template>
 	<section>
 		<h1 v-show="imgLoaded">
-			Travel World.<br />
-			Eat Plants.
+			<slot></slot>
 		</h1>
 		<nuxt-img
 			preload
-			src="powerlines.webp"
+			:src="imgSrc"
 			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 			@load="handleLoad"
 		/>
