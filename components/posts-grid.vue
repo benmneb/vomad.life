@@ -57,6 +57,14 @@ async function handleTagClick(tag) {
 					<nuxt-img src="guide.webp" sizes="sm:25vw md:25vw lg:25vw xl:25vw" />
 				</nuxt-link>
 			</div>
+			<div v-if="!appliedTag">
+				<nuxt-link to="https://veganise.it?ref=vomad.life">
+					<nuxt-img
+						src="veganise-it.webp"
+						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+					/>
+				</nuxt-link>
+			</div>
 			<div v-for="post of relevantPosts" :key="post._path">
 				<nuxt-link :to="post._path">
 					<nuxt-img
