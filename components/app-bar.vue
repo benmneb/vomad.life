@@ -1,6 +1,4 @@
 <script setup>
-import { InfoIcon } from '~/assets/icons'
-
 const showAppBar = ref(true)
 const lastScrollPosition = ref(0)
 
@@ -17,12 +15,16 @@ function onScroll() {
 	showAppBar.value = currentScrollPosition < lastScrollPosition.value
 	lastScrollPosition.value = currentScrollPosition
 }
+
+function handleInfoClick() {
+	alert('TODO: add Info modal...')
+}
 </script>
 
 <template>
 	<header :class="{ 'hide-header': !showAppBar }">
 		<div>
-			<info-icon />
+			<icon-btn name="mdi:information-outline" @click="handleInfoClick" />
 		</div>
 		<nuxt-img src="logo.webp" />
 		<div></div>
