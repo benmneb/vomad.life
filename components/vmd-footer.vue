@@ -16,7 +16,7 @@ function handleClickGitHub() {
 			<icon-btn name="mdi:github" @click="handleClickGitHub" />
 		</section>
 		<nuxt-img
-			src="fruit.webp"
+			src="footer.webp"
 			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 			loading="lazy"
 		/>

@@ -26,7 +26,7 @@ function handleInfoClick() {
 		<div>
 			<icon-btn name="mdi:information-outline" @click="handleInfoClick" />
 		</div>
-		<nuxt-img src="logo.webp" />
+		<nuxt-img src="app-bar/logo.webp" />
 		<div></div>
 	</header>
 </template>

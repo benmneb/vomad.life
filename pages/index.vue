@@ -1,6 +1,6 @@
 <template>
 	<main>
-		<hero imgSrc="powerlines.webp">Travel world.<br />Eat plants.</hero>
+		<hero imgSrc="home/hero.webp">Travel world.<br />Eat plants.</hero>
 		<posts-grid />
 		<social-proof />
 	</main>

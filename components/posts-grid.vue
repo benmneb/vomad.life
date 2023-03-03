@@ -54,13 +54,16 @@ async function handleTagClick(tag) {
 			</div>
 			<div v-if="!appliedTag">
 				<nuxt-link to="https://vomad.guide?ref=vomad.life">
-					<nuxt-img src="guide.webp" sizes="sm:25vw md:25vw lg:25vw xl:25vw" />
+					<nuxt-img
+						src="guide/hero.webp"
+						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+					/>
 				</nuxt-link>
 			</div>
 			<div v-if="!appliedTag">
 				<nuxt-link to="https://veganise.it?ref=vomad.life">
 					<nuxt-img
-						src="veganise-it.webp"
+						src="veganise-it/hero.webp"
 						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
