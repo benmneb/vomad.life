@@ -138,7 +138,6 @@ nav {
 
 	a {
 		display: flex;
-		// overflow: hidden;
 
 		img {
 			width: 100%;
