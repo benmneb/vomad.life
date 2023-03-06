@@ -36,30 +36,33 @@ function handleModalClose() {
 		<nuxt-img src="app-bar/logo.webp" />
 		<div></div>
 	</header>
-	<Teleport to="body">
-		<modal-base :show="showModal" @close="handleModalClose">
-			<hgroup>
-				<h1>vomad</h1>
-				<p>[ v(egan) + (n)omad ]</p>
-			</hgroup>
 
-			<main>
-				<span class="italic">noun</span>
-				<p>
-					one who travels indefinitely, with no long-term abode, while avoiding
-					all forms of animal exploitation and abuse as far as is possible and
-					practicable
-				</p>
+	<modal-with-image
+		:show="showModal"
+		imageSrc="modals/info.webp"
+		@close="handleModalClose"
+	>
+		<hgroup>
+			<h1>vomad</h1>
+			<p>[ v(egan) + (n)omad ]</p>
+		</hgroup>
 
-				<span class="italic">origin</span>
-				<p>
-					early 21st century;<br />from <b>vegan</b> - ‘a person who does not
-					eat or use animal products’,<br />and <b>nomad</b> - ‘a person who
-					does not stay long in the same place’
-				</p>
-			</main>
-		</modal-base>
-	</Teleport>
+		<main>
+			<span class="italic">noun</span>
+			<p>
+				one who travels indefinitely, with no long-term abode, while avoiding
+				all forms of animal exploitation and abuse as far as is possible and
+				practicable
+			</p>
+
+			<span class="italic">origin</span>
+			<p>
+				early 21st century;<br />from <b>vegan</b> - ‘a person who does not eat
+				or use animal products’,<br />and <b>nomad</b> - ‘a person who does not
+				stay long in the same place’
+			</p>
+		</main>
+	</modal-with-image>
 </template>
 
 <style scoped lang="scss">

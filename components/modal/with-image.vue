@@ -1,50 +1,33 @@
 <script setup lang="ts">
 defineProps({
 	show: { type: Boolean, required: true },
-	image: String,
+	imageSrc: String,
 })
+defineEmits(['close'])
 
 const imgLoaded = ref<boolean>(false)
 </script>
 
 <template>
-	<transition name="modal">
-		<backdrop v-if="show" @click.self="$emit('close')">
-			<main>
-				<section>
-					<nuxt-img
-						:src="image || 'modals/info.webp'"
-						preload
-						@load="imgLoaded = true"
-					/>
-					<aside v-show="imgLoaded">
-						<slot name="overlay-text">This is the Vomad Life.</slot>
-					</aside>
-				</section>
-				<section>
-					<article>
-						<slot></slot>
-					</article>
-					<icon-btn name="mdi:close-circle-outline" @click="$emit('close')" />
-				</section>
-			</main>
-		</backdrop>
-	</transition>
+	<modal-base :show="show" @close="$emit('close')">
+		<main>
+			<section>
+				<nuxt-img :src="imageSrc" preload @load="imgLoaded = true" />
+				<aside v-show="imgLoaded">
+					<slot name="overlay-text">This is the Vomad Life.</slot>
+				</aside>
+			</section>
+			<section>
+				<article>
+					<slot></slot>
+				</article>
+				<icon-btn name="mdi:close-circle-outline" @click="$emit('close')" />
+			</section>
+		</main>
+	</modal-base>
 </template>
 
 <style scoped lang="scss">
-backdrop {
-	position: fixed;
-	z-index: 9998;
-	inset: 0;
-	backdrop-filter: blur(0.5rem);
-	display: flex;
-	padding: 2rem;
-	transition: opacity 0.3s ease;
-	overflow: auto;
-	cursor: zoom-out;
-}
-
 main {
 	position: relative;
 	width: 1000px;

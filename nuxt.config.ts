@@ -27,7 +27,7 @@ export default defineNuxtConfig({
 	},
 	vue: {
 		compilerOptions: {
-			isCustomElement: (tag) => ['hgroup', 'backdrop'].includes(tag),
+			isCustomElement: (tag) => ['hgroup'].includes(tag),
 		},
 	},
 })

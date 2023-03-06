@@ -29,70 +29,69 @@ function handleClickGitHub() {
 			loading="lazy"
 		/>
 	</footer>
-	<Teleport to="body">
-		<modal-base
-			:show="showModal"
-			@close="handleModalClose"
-			image="modals/license.webp"
-		>
-			<template #overlay-text>Welcome to the Vomad Life.</template>
 
-			<hgroup>
-				<h1>CopyLeft {{ new Date().getFullYear() }}</h1>
-				<p>
-					CC BY-SA 4.0&nbsp;<a
-						href="https://creativecommons.org/licenses/by-sa/4.0/"
-						target="_blank"
-						><icon-btn name="ri:external-link-line"
-					/></a>
-				</p>
-			</hgroup>
+	<modal-with-image
+		:show="showModal"
+		@close="handleModalClose"
+		imageSrc="modals/license.webp"
+	>
+		<template #overlay-text>Welcome to the Vomad Life.</template>
 
-			You are free to:
-			<ul>
-				<li>Copy and redistribute our work in any medium or format.</li>
-				<li>
-					Remix, transform, and build upon our work for any purpose, even
-					commercially.
-				</li>
-			</ul>
-
-			Under the following terms:
-			<ul>
-				<li>
-					You must give
-					<nuxt-link
-						to="https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart"
-						target="_blank"
-						>appropriate credit</nuxt-link
-					>, provide a link to
-					<nuxt-link
-						to="https://creativecommons.org/licenses/by-sa/4.0/"
-						target="_blank"
-						>the license</nuxt-link
-					>, and indicate if changes were made. You may do so in any reasonable
-					manner, but not in any way that suggests we endorse you or your use.
-				</li>
-				<li>
-					If you remix, transform, or build upon our work, you must distribute
-					your contributions under this
-					<nuxt-link
-						to="https://creativecommons.org/licenses/by-sa/4.0/"
-						target="_blank"
-						>same license</nuxt-link
-					>.
-				</li>
-			</ul>
+		<hgroup>
+			<h1>CopyLeft {{ new Date().getFullYear() }}</h1>
 			<p>
-				This is a human-readable summary of (and not a substitute for)
+				CC BY-SA 4.0&nbsp;<a
+					href="https://creativecommons.org/licenses/by-sa/4.0/"
+					target="_blank"
+					><icon-btn name="ri:external-link-line"
+				/></a>
+			</p>
+		</hgroup>
+
+		You are free to:
+		<ul>
+			<li>Copy and redistribute our work in any medium or format.</li>
+			<li>
+				Remix, transform, and build upon our work for any purpose, even
+				commercially.
+			</li>
+		</ul>
+
+		Under the following terms:
+		<ul>
+			<li>
+				You must give
+				<nuxt-link
+					to="https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart"
+					target="_blank"
+					>appropriate credit</nuxt-link
+				>, provide a link to
 				<nuxt-link
 					to="https://creativecommons.org/licenses/by-sa/4.0/"
 					target="_blank"
 					>the license</nuxt-link
+				>, and indicate if changes were made. You may do so in any reasonable
+				manner, but not in any way that suggests we endorse you or your use.
+			</li>
+			<li>
+				If you remix, transform, or build upon our work, you must distribute
+				your contributions under this
+				<nuxt-link
+					to="https://creativecommons.org/licenses/by-sa/4.0/"
+					target="_blank"
+					>same license</nuxt-link
 				>.
-			</p>
-		</modal-base>
-	</Teleport>
+			</li>
+		</ul>
+		<p>
+			This is a human-readable summary of (and not a substitute for)
+			<nuxt-link
+				to="https://creativecommons.org/licenses/by-sa/4.0/"
+				target="_blank"
+				>the license</nuxt-link
+			>.
+		</p>
+	</modal-with-image>
 </template>
 
 <style scoped lang="scss">
