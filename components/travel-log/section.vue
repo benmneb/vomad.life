@@ -99,6 +99,7 @@ header {
 		z-index: 1;
 		font-size: $font-size-large;
 		color: $bg-color-light;
+		text-shadow: $black 0 0 2rem;
 	}
 }
 
