@@ -138,14 +138,17 @@ nav {
 
 	a {
 		display: flex;
-		overflow: hidden;
+		// overflow: hidden;
 
 		img {
 			width: 100%;
-			transition: transform $transition-duration-slow ease;
+			transition: all $transition-duration-slow ease;
 
 			&:hover {
-				transform: scale(1.01);
+				transform: scale(1.0275);
+				border-radius: 1rem;
+				box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+				z-index: 50;
 			}
 		}
 	}
