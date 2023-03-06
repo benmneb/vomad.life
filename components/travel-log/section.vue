@@ -22,10 +22,10 @@ const imgUrl = $img(props.image, {
 	<article>
 		<header>
 			<div :style="`background-image: url('${imgUrl}')`" />
-			<h1>{{ location }}</h1>
+			<h1 data-aos="fade-up">{{ location }}</h1>
 		</header>
 		<main>
-			<section>
+			<section data-aos="fade-right">
 				<h2>{{ title }}</h2>
 				<Balancer>
 					<p v-for="paragraph in description" v-html="paragraph"></p>
@@ -40,7 +40,7 @@ const imgUrl = $img(props.image, {
 					</p>
 				</Balancer>
 			</section>
-			<section class="stats">
+			<section class="stats" data-aos="fade-left">
 				<div>
 					<div class="label">Cost of living:</div>
 					<div class="value" v-for="line in costOfLiving">
