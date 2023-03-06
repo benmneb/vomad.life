@@ -25,4 +25,9 @@ export default defineNuxtConfig({
 	content: {
 		markdown: { remarkPlugins: ['remark-reading-time'] },
 	},
+	vue: {
+		compilerOptions: {
+			isCustomElement: (tag) => ['hgroup', 'backdrop'].includes(tag),
+		},
+	},
 })
