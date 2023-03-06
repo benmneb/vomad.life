@@ -122,9 +122,9 @@ _(Appeal to Tradition fallacy.)_
 
 _(This usually results from an Appeal to False Authority fallacy.)_
 
-“Necessary for what? Survival? To be healthy? Athletic? No, it’s not. The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has categorically stated that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease.”
+“Necessary for what? Survival? To be healthy? Athletic? No, it’s not. The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/is-veganism-adequately-nutritious) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease.”
 
-“There is nothing necessary about eating animals. It is a cruel and inhuman tradition that can no longer be justified—so should no longer be practised. Did you know that the World Health Organisation has classified processed meat as a class 1A carcinogen? Meaning we know it causes cancer in humans with the same certainty that tobacco and asbestos do?”
+“There is nothing necessary about eating animals. It is a cruel and inhuman tradition that can no longer be justified—so should no longer be practised. Did you know that the World Health Organisation has [classified](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat) processed meat as a class 1A carcinogen? Meaning we know it causes cancer in humans with the same certainty that tobacco and asbestos do?”
 
 ---
 
@@ -132,7 +132,9 @@ _(This usually results from an Appeal to False Authority fallacy.)_
 
 _(Appeal to Nature fallacy.)_
 
-“What do you mean by natural? Does that make it moral, though? It’s also ‘natural’ to kill and eat your own babies, as other animals do that in the wild, but that doesn’t make it moral for us to do, does it? We have the capacity for moral reasoning, so we have an obligation to use it.”
+“Does that make it the right thing to do, though? It’s also ‘natural’ to kill and eat your own babies, as other animals do that in the wild... but that doesn’t make it okay for us to do it too, does it?”
+
+“Lots of things happen in nature that we collectively consider morally wrong, like killing your children because they are weak, for example. Just because something is "natural" doesn’t mean it’s _right_.”
 
 ---
 
@@ -142,7 +144,7 @@ _(Appeal to Nature fallacy.)_
 
 “So? We can be completely healthy, and decrease our chances of all chronic diseases by being vegan. Eating meat, dairy and eggs is always less healthy than eating whole plant alternatives, and it causes incredible harm to the animals we exploit to make these products. We shouldn’t do it because we don’t need to do it.”
 
-“The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has categorically stated that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease. This is why the longest living populations on Earth all eat the most plants. Did you know that the World Health Organisation has [classified processed meat as a class 1A carcinogen](https://www.cancer.org/latest-news/world-health-organization-says-processed-meat-causes-cancer.html)? Meaning we know it causes cancer with the same certainty that tobacco and asbestos do?”
+“The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/is-veganism-adequately-nutritious) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease. This is why the longest living populations on Earth all eat the most plants. Did you know that the World Health Organisation has [classified processed meat as a class 1A carcinogen](https://www.cancer.org/latest-news/world-health-organization-says-processed-meat-causes-cancer.html)? Meaning we know it causes cancer with the same certainty that tobacco and asbestos do?”
 
 ---
 
@@ -160,7 +162,7 @@ _(This usually results from an Appeal to False Authority fallacy.)_
 
 _(Just plain wrong.)_
 
-“It’s not really a personal choice when there is an innocent victim though, is it? And what about the animals personal choice not to be treated as property and have their life taken against their will? It is never a personal choice to harm animals for your trivial and unnecessary pleasures, which is exactly what eating them is.”
+“It’s not really a personal choice when there is an innocent victim though, is it? And what about the animals personal choice not to be treated as property and have their life taken against their will? It is never a personal choice to harm animals for your trivial and unnecessary pleasures, which is exactly what eating and wearing them is.”
 
 ---
 
