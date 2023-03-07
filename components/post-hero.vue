@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 defineProps({
 	image: {
 		type: String,
@@ -25,6 +25,8 @@ defineProps({
 
 <style scoped lang="scss">
 div {
+	height: calc(100vh - 100px);
+
 	.blur {
 		background-size: cover;
 		background-position: center;
