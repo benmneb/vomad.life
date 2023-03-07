@@ -30,11 +30,12 @@ div {
 	.blur {
 		background-size: cover;
 		background-position: center;
-		height: 100vh;
+		height: 97%;
 		width: 100vw;
 		top: 0;
 		position: absolute;
 		filter: blur(50px);
+		scale: 1.06;
 	}
 
 	img:not(.blur) {
