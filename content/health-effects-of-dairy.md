@@ -14,7 +14,7 @@ With headings like "Milk that's real milk", the ABC article opening paragraphs s
 >
 > \- Nicole Dynan, DAA spokeswoman
 
-The article was published in February this year, just conveniently and perfectly timed for [Februdairy](https://www.bbc.com/news/newsbeat-42990941), a month-long campaign created by dairy farmers encouraging people to drink more milk as a response for the ever-growing vegan movement and the record-breaking sign-ups for Veganuary.
+The article was published in February this year, just conveniently and perfectly timed for [Februdairy](https://www.bbc.com/news/newsbeat-42990941), a month-long campaign created by dairy farmers encouraging people to drink more milk as a response for the ever-growing vegan movement and the record-breaking sign-ups for [Veganuary](https://veganuary.com).
 
 The re-occurrence of these dishonest stories are emerging more and more in mainstream media since the rise of veganism in Australia and they all seem to be written to mainly "educate" the public about how "[dangerous veganism is](/dangers-of-veganism)" and how "nutritional" animal products are for us - either overlooking or contradicting the conclusions of many solid scientific studies linking animal products to chronic diseases and advising us of doing just the opposite of what The ABC and their chosen experts are promoting.
 
