@@ -34,7 +34,7 @@ function showOldPostDisclaimer(date: string, tag: string) {
 				<div>by {{ doc.author || 'Anonymous' }}</div>
 				<div>
 					{{
-						new Date(doc.date).toLocaleDateString('en-AU', {
+						new Date(doc.date).toLocaleDateString('en-US', {
 							dateStyle: 'long',
 						})
 					}}
