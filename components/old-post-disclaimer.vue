@@ -24,13 +24,11 @@ const yearsAgo = rtf.format(
 				This post was written about {{ yearsAgo }}, so most likely contains
 				out-dated information.
 			</p>
-			<tooltip v-if="showSelf" text="Don't show again for this post">
-				<icon-btn
-					name="mdi:close-circle-outline"
-					size="1.5rem"
-					@click="showSelf = false"
-				/>
-			</tooltip>
+			<icon-btn
+				name="mdi:close-circle-outline"
+				size="2rem"
+				@click="showSelf = false"
+			/>
 		</article>
 	</transition>
 </template>
