@@ -19,7 +19,7 @@ const yearsAgo = rtf.format(
 <template>
 	<transition>
 		<article v-show="showSelf">
-			<icon name="mdi:alert-octagram" size="2rem" />
+			<icon name="mdi:alert-octagon" size="2rem" />
 			<p>
 				This post was written about {{ yearsAgo }}, so most likely contains
 				out-dated information.
@@ -27,7 +27,7 @@ const yearsAgo = rtf.format(
 			<tooltip v-if="showSelf" text="Don't show again for this post">
 				<icon-btn
 					name="mdi:close-circle-outline"
-					size="2rem"
+					size="1.5rem"
 					@click="showSelf = false"
 				/>
 			</tooltip>
@@ -44,10 +44,6 @@ article {
 	align-items: center;
 	gap: 1rem;
 	color: $bg-color-light;
-
-	&:svg {
-		color: $bg-color-light;
-	}
 }
 
 .v-enter-active,

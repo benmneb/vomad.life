@@ -16,12 +16,13 @@ defineProps({
 <style scoped lang="scss">
 span {
 	position: relative;
+	font-size: inherit;
 
 	&::before {
 		content: attr(aria-label);
 		position: absolute;
 		width: 200px;
-		top: calc(-100% - 1.25rem);
+		bottom: calc(100% + 0.25rem);
 		left: calc(-100px + 0.5rem);
 		padding: 0.5rem;
 		border-radius: 0.5rem;
