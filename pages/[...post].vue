@@ -15,7 +15,7 @@ function showOldPostDisclaimer(date: string, tag: string) {
 		<content-doc v-slot="{ doc }">
 			<header>
 				<post-hero :image="`content/${doc.image}/hero`" />
-				<div class="header-text">
+				<hgroup>
 					<h1>
 						<Balancer>
 							{{ doc.title }}
@@ -23,7 +23,7 @@ function showOldPostDisclaimer(date: string, tag: string) {
 					</h1>
 					<p class="reading-time">{{ doc.readingTime.text }}</p>
 					<!-- <p>#{{ doc.tag }}</p> -->
-				</div>
+				</hgroup>
 			</header>
 			<old-post-disclaimer
 				v-if="showOldPostDisclaimer(doc.date, doc.tag)"
@@ -53,7 +53,7 @@ header {
 		line-height: 150%;
 	}
 
-	.header-text {
+	hgroup {
 		width: 1200px;
 		max-width: 80vw;
 		text-align: center;
@@ -72,7 +72,7 @@ footer {
 }
 
 article,
-.header-text,
+hgroup,
 footer {
 	margin: auto;
 	padding: 0 1rem;

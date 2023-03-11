@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-	<div>
+	<section>
 		<nuxt-img
 			preload
 			:src="`${image}.webp`"
@@ -20,22 +20,21 @@ defineProps({
 			:src="`${image}.webp`"
 			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 		/>
-	</div>
+	</section>
 </template>
 
 <style scoped lang="scss">
-div {
+section {
 	height: calc(100vh - 100px);
 
 	.blur {
 		background-size: cover;
 		background-position: center;
-		height: 97%;
+		height: 100vh;
 		width: 100vw;
 		top: 0;
 		position: absolute;
 		filter: blur(50px);
-		scale: 1.06;
 	}
 
 	img:not(.blur) {
