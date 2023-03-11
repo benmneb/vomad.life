@@ -8,7 +8,7 @@ const tags = ref([
 	'survey',
 ])
 const appliedTag = ref(null)
-const allPosts = await queryContent().find()
+const allPosts = await queryContent().sort({ date: -1 }).find()
 const relevantPosts = ref(allPosts)
 
 async function handleTagClick(tag) {
@@ -20,6 +20,7 @@ async function handleTagClick(tag) {
 
 	const postsWithTag = await queryContent()
 		.where({ tag: { $eq: tag } })
+		.sort({ date: -1 })
 		.find()
 
 	appliedTag.value = tag
