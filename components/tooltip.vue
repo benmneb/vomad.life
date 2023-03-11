@@ -23,7 +23,7 @@ span {
 		position: absolute;
 		width: 200px;
 		bottom: calc(100% + 0.25rem);
-		left: calc(-100px + 0.5rem);
+		left: -95px;
 		padding: 0.5rem;
 		border-radius: 0.5rem;
 		background-color: $black;
@@ -31,14 +31,18 @@ span {
 		text-align: center;
 		font-size: $font-size-small;
 		opacity: 0;
+		scale: 0;
 		pointer-events: none;
 		transition: all $transition-duration-fast ease-in;
+		transform-origin: bottom center;
 	}
 
 	&:focus::before,
 	&:hover::before {
 		opacity: 1;
+		scale: 1;
 		transition: all $transition-duration-fast ease-in;
+		transform-origin: bottom center;
 	}
 }
 </style>
