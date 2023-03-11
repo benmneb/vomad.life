@@ -2,6 +2,7 @@
 	@return calc(15px + $multiplier);
 }
 
+$font-size-small: get-font-size(0.2vw); // ??
 $font-size-base: get-font-size(0.390625vw); // 20px?
 $font-size-base-plus: get-font-size(0.6vw); // ???
 $font-size-medium: get-font-size(1vw); // ???
