@@ -26,7 +26,7 @@ Here is what they specifically have to say on the subject, with source links in 
 
 [**Academy of Nutrition and Dietetics**](https://www.ncbi.nlm.nih.gov/pubmed/27886704/) (formerly known as American Dietetic Association)
 
-> It is the position of the Academy of Nutrition and Dietetics that appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases. These diets are appropriate for all stages of the life cycle, including pregnancy, lactation, infancy, childhood, adolescence, older adulthood, and for athletes. See also.
+> It is the position of the Academy of Nutrition and Dietetics that appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases. These diets are appropriate for all stages of the life cycle, including pregnancy, lactation, infancy, childhood, adolescence, older adulthood, and for athletes. [See also](http://www.eatrightpro.org/~/media/eatrightpro%20files/practice/position%20and%20practice%20papers/position%20papers/vegetarian-diet.ashx).
 
 [**Dietitians of Canada**](https://www.dietitians.ca/Downloads/Factsheets/Guidlines-for-Vegans.aspx)
 
