@@ -1,5 +1,13 @@
-<script setup>
+<script setup lang="ts">
 import Balancer from 'vue-wrap-balancer'
+
+function showOldPostDisclaimer(date: string, tag: string) {
+	if (!['guide', 'high-five'].includes(tag)) return false
+	const diff = new Date(date).getTime() - Date.now()
+	const estimatedYearsAgo = Math.round(diff / (1000 * 60 * 60 * 24 * 365))
+	if (estimatedYearsAgo <= -1) return true
+	else return false
+}
 </script>
 
 <template>
@@ -17,6 +25,10 @@ import Balancer from 'vue-wrap-balancer'
 					<!-- <p>#{{ doc.tag }}</p> -->
 				</div>
 			</header>
+			<old-post-disclaimer
+				v-if="showOldPostDisclaimer(doc.date, doc.tag)"
+				:date="doc.date"
+			/>
 			<content-renderer :value="doc" tag="article" />
 			<footer>
 				<div>by {{ doc.author || 'Anonymous' }}</div>
