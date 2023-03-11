@@ -12,7 +12,12 @@ const imgLoaded = ref<boolean>(false)
 	<modal-base :show="show" @close="$emit('close')">
 		<main>
 			<section>
-				<nuxt-img :src="imageSrc" preload @load="imgLoaded = true" />
+				<nuxt-img
+					:src="imageSrc"
+					preload
+					@load="imgLoaded = true"
+					height="700px"
+				/>
 				<aside v-show="imgLoaded">
 					<slot name="overlay-text">This is the Vomad Life.</slot>
 				</aside>
