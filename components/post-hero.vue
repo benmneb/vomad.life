@@ -26,6 +26,7 @@ defineProps({
 <style scoped lang="scss">
 section {
 	height: calc(100vh - 100px);
+	display: flex;
 
 	.blur {
 		background-size: cover;
