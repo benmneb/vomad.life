@@ -31,7 +31,7 @@ section {
 }
 
 h2 {
-	margin-top: 0;
+	margin: 0 0 2rem;
 }
 
 .logo-container {
