@@ -120,6 +120,12 @@ footer {
 			&:hover {
 				cursor: zoom-in;
 			}
+
+			&:nth-of-type(2) {
+				&:hover {
+					cursor: pointer;
+				}
+			}
 		}
 	}
 }
