@@ -3,7 +3,7 @@ title: 'Essential Viewing: Master List of All Vegan Documentaries'
 tag: 'guide'
 image: 'all-vegan-documentaries'
 author: 'Ben'
-date: 'April 27, 2018'
+date: '2018-04-27'
 ---
 
 > This page might take a minute to load because there are trailers for every film embedded here.

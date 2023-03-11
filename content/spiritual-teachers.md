@@ -3,7 +3,7 @@ title: "Why Aren't More Spiritual Teachers Vegan? The Enlightening Truth"
 tag: 'article'
 image: 'spiritual-teachers'
 author: 'Ben'
-date: 'May 25, 2017'
+date: '2017-05-25'
 ---
 
 Have you ever wondered why more spiritual teachers don’t completely give up animal products? These are compassionate people, right? "Enlightened beings" who've seen through the illusion of separateness of form and into the oneness that connects all life, right? Well yes, they are. But this, unfortunately, doesn't always translate back living a vegan lifestyle.

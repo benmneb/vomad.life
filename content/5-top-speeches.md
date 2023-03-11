@@ -3,7 +3,7 @@ title: 'Five Life-Changing Vegan Speeches Everyone Needs To Hear'
 tag: 'high-five'
 image: '5-top-speeches'
 author: 'Hish'
-date: 'March 2, 2017'
+date: '2017-03-02'
 ---
 
 A speech can be a powerful tool to change minds and inspire people. It can be for good or for evil. It can start a war or end one. Martin Luther King and many other great speakers used their art to connect with people on a deep level. Their speeches were effective in making real social and behavioral change for the good of mankind, from raising equality for all to fighting discrimination to spreading peace and kindness.

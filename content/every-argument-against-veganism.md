@@ -3,8 +3,7 @@ title: 'Every Argument Against Veganism DEBUNKED'
 tag: 'article'
 image: 'every-argument-against-veganism'
 author: 'Ben'
-date: 'October 10, 2018'
-contentsEnabled: true
+date: '2018-10-10'
 ---
 
 > **Carnist reasoning refuted, speciesist excuses exposed, and common animal-rights misconceptions corrected.**

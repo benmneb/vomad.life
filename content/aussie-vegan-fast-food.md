@@ -3,7 +3,7 @@ title: 'Top 5 Aussie Vegan-Friendly Fast-Food Joints'
 tag: 'high-five'
 image: 'aussie-vegan-fast-food'
 author: 'Ben'
-date: 'April 10, 2017'
+date: '2017-04-10'
 ---
 
 Fast food can be pretty tasty, and I’ve certainly had my fair share of it. But thankfully, since going vegan, the fast food options have decreased dramatically. Which makes it so much easier to stay a healthy vegan, especially in the beginning.

@@ -3,7 +3,7 @@ title: 'The Happy Vegan by Russell Simmons - Book Review, Quotes & Highlights'
 tag: 'book-review'
 image: 'happy-vegan'
 author: 'Ben'
-date: 'November 22, 2017'
+date: '2017-11-22'
 ---
 
 The Happy Vegan: A Guide to Living a Long, Healthy, and Successful Life

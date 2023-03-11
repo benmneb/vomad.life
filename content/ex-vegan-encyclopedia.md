@@ -3,7 +3,7 @@ title: 'The Ex-Vegan Encyclopedia'
 tag: 'article'
 image: 'ex-vegan-encyclopedia'
 author: 'Ben'
-date: 'February 7, 2018'
+date: '2018-02-07'
 ---
 
 _The Internet's Largest Collection of "Why I Quit Veganism" and "I'm Not Vegan Anymore" Blog Posts, Articles, Interviews and Message Board Posts_

@@ -3,7 +3,7 @@ title: 'The Single Most Influential Document in the History of Animal Welfare'
 tag: 'book-review'
 image: 'animal-liberation'
 author: 'Ben'
-date: 'January 16, 2017'
+date: '2017-01-16'
 ---
 
 The core of the spirit of veganism can be summarised in one word: non-speciesism. So to live a vegan lifestyle means the daily practice of non-speciesism. Even though I most definitely have not read all the books on the subject (yet), I find it hard to believe that there could be a better document that exists to describe exactly why the daily practice of non-speciesism is the most logically justifiable lifestyle than Peter Singer's classic Animal Liberation.

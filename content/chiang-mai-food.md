@@ -3,7 +3,7 @@ title: 'The Best of the Best: All Vegan Guide to Chiang Mai, Thailand'
 tag: 'guide'
 image: 'chiang-mai-food'
 author: 'Ben'
-date: 'February 18, 2018'
+date: '2018-02-18'
 ---
 
 > If you want to see all our recommendations on a fully functioning Google Maps page that you can use to find directions, [click here](https://drive.google.com/open?id=1AgMJhYbiPRc--7N9ym2Gld9SsdX5WdmC&usp=sharing).

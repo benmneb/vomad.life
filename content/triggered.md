@@ -3,7 +3,7 @@ title: 'Top 5 Ways to Trigger Vegans'
 tag: 'high-five'
 image: 'triggered'
 author: 'Ben'
-date: 'May 16, 2018'
+date: '2018-05-16'
 ---
 
 ## 1. Don't Use Logic in Your Arguments

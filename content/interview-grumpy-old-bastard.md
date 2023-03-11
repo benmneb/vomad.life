@@ -3,7 +3,7 @@ title: 'Interviews with Vegan Veterans #2: Shawn Fosnight - "If I Can Go Vegan, 
 tag: 'interview'
 image: 'interview-grumpy-old-bastard'
 author: 'Ben'
-date: 'April 11, 2018'
+date: '2018-04-11'
 ---
 
 > Interviews with Vegan Veterans is an ongoing interview series where I get to pick the brains of long-time vegans and give the world access to the knowledge, wisdom and understanding that they have spent decades accumulating.

@@ -3,7 +3,7 @@ title: 'Exposing The Dieticians Association of Australia'
 tag: 'article'
 image: 'dangers-of-veganism'
 author: 'Hish'
-date: 'April 11, 2018'
+date: '2018-04-11'
 ---
 
 > _This article does not comment on individuals within the association but is just a reflection of how the association as a whole represents itself._

@@ -3,7 +3,7 @@ title: 'Top 5 Weirdest Things That Happened to Me While Going Vegan'
 tag: 'high-five'
 image: 'weird-things'
 author: 'Ben'
-date: 'October 25, 2017'
+date: '2017-10-25'
 ---
 
 If you spend enough time on the internet you will end up reading some [very obscure tales](/ex-vegan-encyclopedia) of people who "tried and failed" to go vegan. Usually, they jumped head first into something they [knew little about](http://erikaawakening.com/my-break-up-with-veganism-ex-vegan/), fucked-up in a [glaringly obvious](http://thewholetara.com/why-im-not-vegan-anymore/) way, then proceed to blame it on [something unrelated](http://www.thebalancedblonde.com/2014/06/23/why-im-transitioning-away-from-veganism/) but that allows for a blog post with an alarming title.

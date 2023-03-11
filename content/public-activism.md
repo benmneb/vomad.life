@@ -3,7 +3,7 @@ title: 'The Effectiveness of Public Vegan Activism'
 tag: 'article'
 image: 'public-activism'
 author: 'Ben'
-date: 'March 6, 2019'
+date: '2019-03-06'
 ---
 
 Judging by the reception thus far, the most controversial aspect of [The 2019 Global Vegan Survey](/survey) released earlier this week was that it showed that only 1.4% of survey participants (or 184 out of 12,814 people) turned vegan as a result of public activism.

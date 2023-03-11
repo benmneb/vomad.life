@@ -3,7 +3,7 @@ title: "The Cold Truth about Dairy the Media Don't Want to Spill"
 tag: 'article'
 image: 'health-effects-of-dairy'
 author: 'Hish'
-date: 'March 13, 2019'
+date: '2019-03-13'
 ---
 
 This article is a response to some incomplete and misleading claims made in an article published by ABC Australia titled “[Almond, soy or coconut? How plant-based milks compare to regular dairy](https://www.abc.net.au/news/health/2019-02-09/almond-soy-coconut-milk-and-how-they-compare/10793040)."

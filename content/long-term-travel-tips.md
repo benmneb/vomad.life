@@ -3,7 +3,7 @@ title: '5 Essential Tips to Prepare for Long Term Travel'
 tag: 'high-five'
 image: 'long-term-travel-tips'
 author: 'Hish'
-date: 'April 4, 2017'
+date: '2017-04-04'
 ---
 
 ## Tip 1: Prepare, But Prepare Less

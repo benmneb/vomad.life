@@ -3,7 +3,7 @@ title: 'Interviews with Vegan Veterans #3 - Geoff Russell - Curing Asthma with a
 tag: 'interview'
 image: 'interview-geoff'
 author: 'Ben'
-date: 'May 23, 2018'
+date: '2018-05-23'
 ---
 
 > Interviews with Vegan Veterans is an ongoing interview series where I get to pick the brains of long-time vegans and give the world access to the knowledge, wisdom and understanding that they have spent decades accumulating.

@@ -3,7 +3,7 @@ title: 'Online Activism: How Well Intentioned Vegans Are Hurting The Cause'
 tag: 'article'
 image: 'vegan-cyber-bully'
 author: 'Hish'
-date: 'October 11, 2017'
+date: '2017-10-11'
 ---
 
 It's hard not to notice the enormous amount of vile comments and cringy arguments on social media. The topic of Veganism is no exception. Many vegans get fired up sometimes, especially when they constantly get to witness the most absurd, illogical and uninformed arguments there is or when they hear the same eye-rolling excuse over and over for the millionth time or when they get mocked by many others for their stance against consuming animal products.

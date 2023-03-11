@@ -3,7 +3,7 @@ title: 'Interviews with Vegan Veterans #1: Veg from Birth & Bringing up Vegan Ch
 tag: 'interview'
 image: 'interview-aj'
 author: 'Ben'
-date: 'March 4, 2018'
+date: '2018-03-04'
 ---
 
 > Interviews with Vegan Veterans is an ongoing interview series where I get to pick the brains of long-time vegans and give the world access to the knowledge, wisdom and understanding that they have spent decades accumulating.

@@ -3,7 +3,7 @@ title: 'Book Review: The Blue Zones (Second Edition) by Dan Buettner'
 tag: 'book-review'
 image: 'blue-zones'
 author: 'Ben'
-date: 'February 8, 2017'
+date: '2017-02-08'
 ---
 
 This book is dangerously easy to read. I'm not a fast reader, but I was pleasantly surprised to find myself gliding through these pages with exceptional ease.

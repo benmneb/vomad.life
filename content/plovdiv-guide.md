@@ -3,7 +3,7 @@ title: "The Vegan's Survival Guide to Plovdiv, Bulgaria"
 tag: 'guide'
 image: 'plovdiv-guide'
 author: 'Ben'
-date: 'March 23, 2018'
+date: '2018-03-23'
 ---
 
 You know that feeling you get when you go to a social event, like a family gathering, and sit at a table full of carnists and you find yourself looking around and notice that everyone you can see is eating animal flesh like their lives depend on it? And you understandably feel very out of place, because these people are clearly operating on a very different set of ethical beliefs?

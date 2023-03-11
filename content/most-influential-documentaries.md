@@ -3,7 +3,7 @@ title: 'The Top 5 Documentaries to Turn Your Friends Vegan'
 tag: 'high-five'
 image: 'most-influential-documentaries'
 author: 'Ben'
-date: 'April 30, 2019'
+date: '2019-04-30'
 ---
 
 This post is not my opinion.

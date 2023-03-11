@@ -3,7 +3,7 @@ title: 'Could This Book Actually Save Your Life?'
 tag: 'book-review'
 image: 'how-not-to-die'
 author: 'Ben'
-date: 'March 21, 2017'
+date: '2017-03-21'
 ---
 
 The book in question is...

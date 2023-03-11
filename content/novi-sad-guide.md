@@ -3,7 +3,7 @@ title: 'The Vegan Guide to Novi Sad, Serbia'
 tag: 'guide'
 image: 'novi-sad-guide'
 author: 'Ben'
-date: 'August 15, 2018'
+date: '2018-08-15'
 ---
 
 Strangely, as of July 2018, even though there are over 1.7 million people in Belgrade, the Serbian capital, and only 240,000 people in Novi Sad, there are zero vegan restaurants in Belgrade, but at least five in Novi Sad.

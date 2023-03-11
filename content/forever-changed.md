@@ -3,7 +3,7 @@ title: 'Forever Changed: Books To Help You Stay Vegan for Life'
 tag: 'book-review'
 image: 'forever-changed'
 author: 'Ben'
-date: 'October 15, 2018'
+date: '2018-10-15'
 ---
 
 ## Animal Liberation

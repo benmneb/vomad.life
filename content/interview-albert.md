@@ -3,7 +3,7 @@ title: 'Interviews with Vegan Veterans #5: Albert Mah - The Bright Side of Human
 tag: 'interview'
 image: 'interview-albert'
 author: 'Ben'
-date: 'March 28, 2019'
+date: '2019-03-28'
 ---
 
 > Interviews with Vegan Veterans is an ongoing interview series where I get to pick the brains of long-time vegans and give the world access to the knowledge, wisdom and understanding that they have spent decades accumulating.

@@ -3,7 +3,7 @@ title: 'The Vegan Guide to Lviv, Ukraine'
 tag: 'guide'
 image: 'lviv-guide'
 author: 'Ben'
-date: 'November 8, 2018'
+date: '2018-11-08'
 ---
 
 Lviv is certainly one of the cheapest places to live in Eastern Europe, and also home to the most beautiful old city centre I've ever seen. The [cost of living](https://www.numbeo.com/cost-of-living/in/Lviv) is so affordable here that it's not surprising so many expats end up staying in Lviv long term.

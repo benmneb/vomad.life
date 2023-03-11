@@ -3,7 +3,7 @@ title: 'Interviews with Vegan Veterans #4: Karina Inkster - The No-Bullshit Vega
 tag: 'interview'
 image: 'interview-karina'
 author: 'Ben'
-date: 'October 23, 2018'
+date: '2018-10-23'
 ---
 
 > Interviews with Vegan Veterans is an ongoing interview series where I get to pick the brains of long-time vegans and give the world access to the knowledge, wisdom and understanding that they have spent decades accumulating.

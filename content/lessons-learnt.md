@@ -3,7 +3,7 @@ title: '7 Lessons Learnt in My First Year of Being a Vegan Digital Nomad'
 tag: 'article'
 image: 'lessons-learnt'
 author: 'Ben'
-date: 'June 13, 2018'
+date: '2018-06-13'
 ---
 
 This is my personal notes after travelling, working online and living in Thailand and Eastern Europe for the last 1.5 years.

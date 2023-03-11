@@ -3,7 +3,7 @@ title: 'Why People Go Vegan: 2019 Global Survey Results'
 tag: 'survey'
 image: 'survey'
 author: 'Ben & Hish'
-date: 'March 4, 2019'
+date: '2019-03-04'
 ---
 
 The original incentive for conducting this large international survey was to see the most common motivation for people to become vegan, thinking that this would help vegan activists be more effective in their work. However, as the results below make clear, the survey ended up answering, and raising, many other interesting questions about the growing vegan movement.

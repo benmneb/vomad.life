@@ -3,7 +3,7 @@ title: 'The Missing Piece from Earth Day - One Habit Makes All The Difference'
 tag: 'article'
 image: 'every-day-is-earth-day'
 author: 'Hish'
-date: 'April 25, 2019'
+date: '2019-04-25'
 ---
 
 > “I used to think that top environmental problems were biodiversity loss, ecosystem collapse and climate change. I thought that thirty years of good science could address these problems. I was wrong. The top environmental problems are selfishness, greed and apathy, and to deal with these we need a cultural and spiritual transformation. And we scientists don’t know how to do that.”

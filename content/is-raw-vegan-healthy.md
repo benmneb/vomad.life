@@ -3,7 +3,7 @@ title: 'Is Going Raw REALLY Healthy? Raw vs. Regular Vegan'
 tag: 'article'
 image: 'is-raw-vegan-healthy'
 author: 'Ben'
-date: 'March 30, 2017'
+date: '2017-03-30'
 ---
 
 About a year after going vegan I began to wonder, what are the health benefits of eating a fully raw diet compared to a regular vegan diet? Are there any? This post is basically what I have learned since that question first started burning in my mind several years ago.

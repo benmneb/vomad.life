@@ -33,7 +33,11 @@ function showOldPostDisclaimer(date: string, tag: string) {
 			<footer>
 				<div>by {{ doc.author || 'Anonymous' }}</div>
 				<div>
-					{{ doc.date }}
+					{{
+						new Date(doc.date).toLocaleDateString('en-AU', {
+							dateStyle: 'long',
+						})
+					}}
 				</div>
 				<div>
 					<nuxt-link to="/">← Back to home</nuxt-link>

@@ -3,7 +3,7 @@ title: 'Vegan Travellers Guide to Perth, Australia'
 tag: 'guide'
 image: 'travellers-guide-to-perth'
 author: 'Ben'
-date: 'December 19, 2016'
+date: '2016-12-19'
 ---
 
 It's summer in Australia, which means backpackers and travellers from all over the world are flocking to Perth in record numbers for our great weather, beautiful beaches and sexy accents.

@@ -3,7 +3,7 @@ title: 'The Most Common Questions About Staying Vegan for Life'
 tag: 'article'
 image: 'common-questions-about-staying-vegan'
 author: 'Ben'
-date: 'October 30, 2018'
+date: '2018-10-30'
 ---
 
 ## "How do I know I am going to be getting all the nutrients my body needs?"

@@ -3,7 +3,7 @@ title: 'What Do The Biggest Nutrition Organisations Say About Veganism?'
 tag: 'article'
 image: 'is-veganism-nutritious'
 author: 'Ben'
-date: 'June 25, 2019'
+date: '2019-06-25'
 ---
 
 One of the most common excuses animal-eaters give as to why they "could never go vegan" is that it's **not healthy**.

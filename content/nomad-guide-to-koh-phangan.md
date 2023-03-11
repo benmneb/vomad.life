@@ -3,7 +3,7 @@ title: "The Complete Digital Nomad & Traveller's Guide to Koh Phangan, Thailand"
 tag: 'guide'
 image: 'nomad-guide-to-koh-phangan'
 author: 'Hish'
-date: 'May 03, 2018'
+date: '2018-05-03'
 ---
 
 When we think of a holiday destination where we can just relax, escape our fast-paced day-to-day life, unwind ourselves from the stress of work and the urban life, many of us often would imagine ourselves in a tropical island surrounded by nature, breathtaking views, clear waters and soft sandy beaches.

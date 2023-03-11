@@ -3,7 +3,7 @@ title: 'The Most Important Book on Veganism in 30 Years'
 tag: 'book-review'
 image: 'introduction-to-carnism'
 author: 'Ben'
-date: 'September 18, 2017'
+date: '2017-09-18'
 ---
 
 The book is...

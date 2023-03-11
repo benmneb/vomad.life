@@ -3,7 +3,7 @@ title: 'The Most Delicious Vegan Guide to Koh Phangan, Thailand'
 tag: 'guide'
 image: 'delicious-koh-phangan'
 author: 'Ben'
-date: 'October 2, 2017'
+date: '2017-10-02'
 ---
 
 The internet's most authoritative source for vegan restaurants worldwide, [The Happy Cow](https://www.happycow.net/), once described the southern Thai island of Koh Phangan as potentially "the world's first vegan island." We at Vomad thought that sounded pretty damn cool, so we decided to live there for a month to see if the reality lived up to the hype.

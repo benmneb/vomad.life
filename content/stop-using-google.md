@@ -3,7 +3,7 @@ title: 'Stop Using Google & Start Helping the Environment'
 tag: 'article'
 image: 'stop-using-google'
 author: 'Ben'
-date: 'November 1, 2017'
+date: '2017-11-01'
 ---
 
 In the world today, for better or worse, most people are [too busy](http://blog.tempo.io/2013/7-time-consuming-things-an-average-joe-spends-in-a-lifetime/) to do a lot of the things that are important to them. The same things that would provide them with immense joy if they did have the time and resources to do. For most people, this includes altruistic things like giving money or time to charities whose purpose resonates with them.

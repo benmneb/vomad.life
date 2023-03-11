@@ -3,7 +3,7 @@ title: 'The Ultimate Vegan Guide to Perth, Australia'
 tag: 'guide'
 image: 'perth'
 author: 'Ben'
-date: 'March 8, 2017'
+date: '2017-03-08'
 ---
 
 I go out with my (non-vegan) family once a week to get together, catch up and enjoy some fine cuisine, and over the last year or so we have eaten at nearly all the vegan-friendly restaurants in and around Perth. This wonderful weekly practice is where the inspiration for this "best of " list comes from.

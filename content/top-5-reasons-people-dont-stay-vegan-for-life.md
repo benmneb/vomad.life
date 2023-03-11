@@ -3,7 +3,7 @@ title: 'Top 5 Reasons People Quit Veganism'
 tag: 'high-five'
 image: 'top-5-reasons-people-dont-stay-vegan-for-life'
 author: 'Ben'
-date: 'October 18, 2018'
+date: '2018-10-18'
 ---
 
 Have you ever noticed that some people don't stick with veganism for more than a few months, even if they appear to be 100% on-board with the idea?

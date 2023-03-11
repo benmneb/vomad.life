@@ -3,7 +3,7 @@ title: 'Proof You Currently Have Enough Money To Travel the World'
 tag: 'article'
 image: 'proof-you-have-enough-money-to-travel-the-world'
 author: 'Ben'
-date: 'April 2, 2018'
+date: '2018-04-02'
 ---
 
 Obviously, I don't know how much money you actually have.

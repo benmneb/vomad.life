@@ -3,7 +3,7 @@ title: 'Thrive Fitness by Brendan Brazier - Book Info, Highlights & Quotes'
 tag: 'book-review'
 image: 'thrive-book-review'
 author: 'Ben'
-date: 'July 5, 2018'
+date: '2018-07-05'
 ---
 
 **Thrive Fitness: The Vegan-Based Training Program for Maximum Strength, Health, and Fitness**

@@ -3,7 +3,7 @@ title: 'Why No Vegan Options is a GOOD Thing'
 tag: 'article'
 image: 'no-vegan-options'
 author: 'Ben'
-date: 'November 15, 2017'
+date: '2017-11-15'
 ---
 
 I'm writing this from one of the oldest cities on Earth that is still inhabited and functioning.

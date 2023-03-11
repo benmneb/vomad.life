@@ -3,7 +3,7 @@ title: 'The Top 5 Most Influential Vegan YouTube Activists'
 tag: 'high-five'
 image: 'most-influential-youtubers'
 author: 'Ben'
-date: 'March 21, 2019'
+date: '2019-03-21'
 ---
 
 This post is not my opinion. The list of amazing vegan activists just below is based on data collected from a large international survey we at Vomad conducted earlier this year.

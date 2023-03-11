@@ -3,7 +3,7 @@ title: 'The 5 Best Drama-Free Vegan YouTubers'
 tag: 'high-five'
 image: 'drama-free-youtubers'
 author: 'Ben'
-date: 'December 1, 2017'
+date: '2017-12-01'
 ---
 
 _The only drama the following YouTubers bring is on the animal agriculture industry._
