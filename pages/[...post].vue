@@ -8,6 +8,17 @@ function showOldPostDisclaimer(date: string, tag: string) {
 	if (estimatedYearsAgo <= -1) return true
 	else return false
 }
+
+onMounted(() => {
+	document
+		.querySelectorAll<HTMLAnchorElement>(
+			'a[href^="https://"],a[href^="http://"]'
+		)
+		.forEach((element) => {
+			element.target = '_blank'
+			element.rel = 'noopener'
+		})
+})
 </script>
 
 <template>
