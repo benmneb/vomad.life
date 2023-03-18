@@ -1,3 +1,12 @@
+<script setup lang="ts">
+defineProps({
+	id: String,
+	title: String,
+	caption: String,
+	start: String,
+})
+</script>
+
 <template>
 	<figure>
 		<iframe
@@ -33,12 +42,3 @@ figcaption {
 	margin: 1rem auto 0;
 }
 </style>
-
-<script setup>
-defineProps({
-	id: String,
-	title: String,
-	caption: String,
-	start: String,
-})
-</script>
