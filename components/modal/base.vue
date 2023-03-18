@@ -8,15 +8,15 @@ defineEmits(['close'])
 <template>
 	<Teleport to="body">
 		<transition name="modal">
-			<div v-if="show" @click.self="$emit('close')">
+			<section id="modal-base" v-if="show" @click.self="$emit('close')">
 				<slot></slot>
-			</div>
+			</section>
 		</transition>
 	</Teleport>
 </template>
 
-<style scoped lang="scss">
-div {
+<style lang="scss">
+#modal-base {
 	position: fixed;
 	z-index: 9998;
 	inset: 0;

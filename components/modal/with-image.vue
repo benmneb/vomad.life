@@ -97,25 +97,4 @@ main {
 		}
 	}
 }
-
-/*
- * The following styles are auto-applied to elements with
- * transition="modal" when their visibility is toggled.
- */
-
-.modal-enter-from {
-	opacity: 0;
-
-	main {
-		scale: 0.8;
-	}
-}
-
-.modal-leave-to {
-	opacity: 0;
-
-	main {
-		scale: 1.05;
-	}
-}
 </style>
