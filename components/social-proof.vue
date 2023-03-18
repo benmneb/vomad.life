@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import * as rawLogos from '~/assets/images/social-proof'
 
 const logos = ref(Object.values(rawLogos).map((l) => l.split('/images')[1]))
@@ -27,7 +27,7 @@ section {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin: 4rem 0;
+	margin: 2rem 0 4rem;
 }
 
 h2 {
