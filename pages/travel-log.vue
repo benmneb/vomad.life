@@ -2,6 +2,17 @@
 import Balancer from 'vue-wrap-balancer'
 import { travelLogData } from '~~/assets/data/travel-log'
 
+useHead({
+	title: 'Travel Log | Vomad Life',
+	meta: [
+		{
+			name: 'description',
+			content:
+				"This is the Vomad Life. Our nomadic lifestyle means we change countries about every 3 months. There's a whole world out there to see, and we intend on seeing it. Slow-traveller style.",
+		},
+	],
+})
+
 const showModal = ref<boolean>(false)
 const isMapLoaded = ref<boolean>(false)
 
