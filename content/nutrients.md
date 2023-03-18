@@ -1,7 +1,7 @@
 ---
 title: 'What Do The Biggest Nutrition Organisations Say About Veganism?'
 tag: 'article'
-image: 'is-veganism-nutritious'
+image: 'nutrients'
 author: 'Ben'
 date: '2019-06-25'
 ---
@@ -74,7 +74,7 @@ Here is what they specifically have to say on the subject, with source links in 
 
 So, now that you know you can be just as healthy, if not healthier, without paying people to kill animals so you can filter nutrients through their bodies... what's your reason for not being vegan?
 
-<prominent-img src="is-veganism-nutritious/sidekick" alt="Vegan Sidekick!"></prominent-img>
+<prominent-img src="nutrients/sidekick" alt="Vegan Sidekick!"></prominent-img>
 
 Click here to see [44 more excuses not to be vegan debunked](/every-argument-against-veganism).
 

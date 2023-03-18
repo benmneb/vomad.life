@@ -121,7 +121,7 @@ _(Appeal to Tradition fallacy.)_
 
 _(This usually results from an Appeal to False Authority fallacy.)_
 
-“Necessary for what? Survival? To be healthy? Athletic? No, it’s not. The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/is-veganism-adequately-nutritious) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease.”
+“Necessary for what? Survival? To be healthy? Athletic? No, it’s not. The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/nutrients) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease.”
 
 “There is nothing necessary about eating animals. It is a cruel and inhuman tradition that can no longer be justified—so should no longer be practised. Did you know that the World Health Organisation has [classified](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat) processed meat as a class 1A carcinogen? Meaning we know it causes cancer in humans with the same certainty that tobacco and asbestos do?”
 
@@ -143,7 +143,7 @@ _(Appeal to Nature fallacy.)_
 
 “So? We can be completely healthy, and decrease our chances of all chronic diseases by being vegan. Eating meat, dairy and eggs is always less healthy than eating whole plant alternatives, and it causes incredible harm to the animals we exploit to make these products. We shouldn’t do it because we don’t need to do it.”
 
-“The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/is-veganism-adequately-nutritious) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease. This is why the longest living populations on Earth all eat the most plants. Did you know that the World Health Organisation has [classified processed meat as a class 1A carcinogen](https://www.cancer.org/latest-news/world-health-organization-says-processed-meat-causes-cancer.html)? Meaning we know it causes cancer with the same certainty that tobacco and asbestos do?”
+“The largest organisation of nutrition and dietetic professionals in the world, The Academy of Nutrition and Dietetics, has [categorically stated](/nutrients) that vegan diets are healthful for all stages of life from birth to old age, and for athletes, and can prevent against disease. This is why the longest living populations on Earth all eat the most plants. Did you know that the World Health Organisation has [classified processed meat as a class 1A carcinogen](https://www.cancer.org/latest-news/world-health-organization-says-processed-meat-causes-cancer.html)? Meaning we know it causes cancer with the same certainty that tobacco and asbestos do?”
 
 ---
 
