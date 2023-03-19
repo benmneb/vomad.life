@@ -33,7 +33,9 @@ function handleModalClose() {
 		<div>
 			<icon-btn name="mdi:information-outline" @click="handleInfoClick" />
 		</div>
-		<nuxt-img src="app-bar/logo.webp" />
+		<nuxt-link to="/">
+			<nuxt-img src="app-bar/logo.webp" />
+		</nuxt-link>
 		<div></div>
 	</header>
 
@@ -94,8 +96,12 @@ header {
 		}
 	}
 
-	img {
-		margin-top: 10px; // To account for the tail on the "f" in VOMADlife
+	a {
+		box-shadow: none;
+
+		img {
+			margin-top: 12px; // To account for the tail on the "f" in VOMADlife
+		}
 	}
 }
 
