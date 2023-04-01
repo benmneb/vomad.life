@@ -2,6 +2,9 @@
 export default defineNuxtConfig({
 	nitro: {
 		preset: 'netlify',
+		prerender: {
+			crawlLinks: true,
+		},
 	},
 	modules: ['@nuxt/content', '@nuxt/image-edge', 'nuxt-icon'],
 	css: ['@/assets/styles/baseline.scss'],
