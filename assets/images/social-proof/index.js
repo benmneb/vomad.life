@@ -1,5 +1,0 @@
-export { default as petaAu } from './peta-au.webp'
-export { default as veganAus } from './vegan-australia.webp'
-export { default as pbn } from './pbn.webp'
-export { default as liveKindly } from './live-kindly.webp'
-export { default as tavm } from './tavm.webp'
