@@ -1,8 +1,8 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-	nitro: {
-		preset: 'netlify',
-	},
+	// nitro: {
+	// 	preset: 'netlify',
+	// },
 	modules: ['@nuxt/content', '@nuxt/image-edge', 'nuxt-icon'],
 	css: ['@/assets/styles/baseline.scss'],
 	vite: {
