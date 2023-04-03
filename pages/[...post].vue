@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import Balancer from 'vue-wrap-balancer'
-
 function showOldPostDisclaimer(date: string, tag: string) {
 	if (!['guide', 'high-five'].includes(tag)) return false
 	const diff = new Date(date).getTime() - Date.now()
@@ -23,37 +21,42 @@ onMounted(() => {
 
 <template>
 	<main>
-		<content-doc v-slot="{ doc }">
-			<header>
-				<post-hero :image="`content/${doc.image}/hero`" />
-				<hgroup>
-					<h1>
-						<Balancer>
-							{{ doc.title }}
-						</Balancer>
-					</h1>
-					<p class="reading-time">{{ doc.readingTime.text }}</p>
-					<!-- <p>#{{ doc.tag }}</p> -->
-				</hgroup>
-			</header>
-			<old-post-disclaimer
-				v-if="showOldPostDisclaimer(doc.date, doc.tag)"
-				:date="doc.date"
-			/>
-			<content-renderer :value="doc" tag="article" />
-			<footer>
-				<div>by {{ doc.author || 'Anonymous' }}</div>
-				<div>
-					{{
-						new Date(doc.date).toLocaleDateString('en-US', {
-							dateStyle: 'long',
-						})
-					}}
-				</div>
-				<div>
-					<nuxt-link to="/">← Back to home</nuxt-link>
-				</div>
-			</footer>
+		<content-doc>
+			<template v-slot="{ doc }">
+				<header>
+					<post-hero :image="`content/${doc.image}/hero`" />
+					<hgroup>
+						<h1>
+							<Balancer>
+								{{ doc.title }}
+							</Balancer>
+						</h1>
+						<p class="reading-time">{{ doc.readingTime.text }}</p>
+						<!-- <p>#{{ doc.tag }}</p> -->
+					</hgroup>
+				</header>
+				<old-post-disclaimer
+					v-if="showOldPostDisclaimer(doc.date, doc.tag)"
+					:date="doc.date"
+				/>
+				<content-renderer :value="doc" tag="article" />
+				<footer>
+					<div>by {{ doc.author || 'Anonymous' }}</div>
+					<div>
+						{{
+							new Date(doc.date).toLocaleDateString('en-US', {
+								dateStyle: 'long',
+							})
+						}}
+					</div>
+					<div>
+						<nuxt-link to="/">← Back to home</nuxt-link>
+					</div>
+				</footer>
+			</template>
+			<template #not-found>
+				<not-found />
+			</template>
 		</content-doc>
 	</main>
 </template>
