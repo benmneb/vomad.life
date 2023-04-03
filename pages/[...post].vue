@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import Balancer from 'vue-wrap-balancer'
+
 function showOldPostDisclaimer(date: string, tag: string) {
 	if (!['guide', 'high-five'].includes(tag)) return false
 	const diff = new Date(date).getTime() - Date.now()
@@ -27,9 +29,9 @@ onMounted(() => {
 					<post-hero :image="`content/${doc.image}/hero`" />
 					<hgroup>
 						<h1>
-							<Balancer>
+							<balancer>
 								{{ doc.title }}
-							</Balancer>
+							</balancer>
 						</h1>
 						<p class="reading-time">{{ doc.readingTime.text }}</p>
 						<!-- <p>#{{ doc.tag }}</p> -->

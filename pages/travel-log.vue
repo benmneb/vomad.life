@@ -34,7 +34,7 @@ function handleModalClose() {
 	</header>
 
 	<section class="intro">
-		<Balancer>
+		<balancer>
 			<p>
 				Our nomadic lifestyle means we change countries about every 3 months.
 			</p>
@@ -42,7 +42,7 @@ function handleModalClose() {
 				There's a whole world out there to see, and we intend on seeing it.
 				Slow-traveller style.
 			</p>
-		</Balancer>
+		</balancer>
 	</section>
 
 	<travel-log-section v-for="place in travelLogData" v-bind="place" />

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Balancer from 'vue-wrap-balancer'
 // import type { TravelLogTypes } from '@/assets/data/travel-log'
+
 const props = defineProps([
 	'location',
 	'image',
@@ -27,10 +28,10 @@ const imgUrl = $img(props.image, {
 		<main>
 			<section data-aos="fade-right">
 				<h2>{{ title }}</h2>
-				<Balancer>
+				<balancer>
 					<p v-for="paragraph in description" v-html="paragraph"></p>
-				</Balancer>
-				<Balancer>
+				</balancer>
+				<balancer>
 					<p v-if="relatedArticles" class="related-articles">
 						Related article(s):
 						<span v-for="(article, index) in relatedArticles">
@@ -38,7 +39,7 @@ const imgUrl = $img(props.image, {
 							><span v-if="index !== relatedArticles.length - 1">, </span>
 						</span>
 					</p>
-				</Balancer>
+				</balancer>
 			</section>
 			<section class="stats" data-aos="fade-left">
 				<div>
