@@ -9,6 +9,7 @@ const tags = ref([
 ])
 const appliedTag = ref<string | null>(null)
 const allPosts = await queryContent().sort({ date: -1 }).find()
+const allPostsRef = ref(allPosts)
 const relevantPosts = ref(allPosts)
 const showVideoModal = ref<boolean>(false)
 const isVideoLoaded = ref<boolean>(false)
@@ -16,17 +17,12 @@ const isVideoLoaded = ref<boolean>(false)
 async function handleTagClick(tag: string) {
 	if (appliedTag.value === tag) {
 		appliedTag.value = null
-		relevantPosts.value = allPosts
+		relevantPosts.value = allPostsRef.value
 		return
 	}
 
-	const postsWithTag = await queryContent()
-		.where({ tag: { $eq: tag } })
-		.sort({ date: -1 })
-		.find()
-
 	appliedTag.value = tag
-	relevantPosts.value = postsWithTag
+	relevantPosts.value = allPostsRef.value.filter((p) => p.tag === tag)
 }
 
 function handleModalOpen() {
