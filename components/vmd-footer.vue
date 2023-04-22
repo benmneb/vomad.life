@@ -19,7 +19,7 @@ function handleClickGitHub() {
 
 <template>
 	<footer>
-		<section v-show="imgLoaded">
+		<section :show="imgLoaded" data-aos="fade-up">
 			<icon-btn name="mdi:copyleft" @click="handleClickCopyLeft" />
 			2016 - {{ new Date().getFullYear() }}
 			<icon-btn name="mdi:github" @click="handleClickGitHub" />

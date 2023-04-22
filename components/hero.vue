@@ -1,27 +1,24 @@
-<script setup>
+<script setup lang="ts">
 defineProps({
 	imgSrc: {
 		type: String,
 		required: true,
 	},
 })
-const imgLoaded = ref(false)
 
-function handleLoad() {
-	imgLoaded.value = true
-}
+const imgLoaded = ref<boolean>(false)
 </script>
 
 <template>
 	<section>
-		<h1 v-show="imgLoaded">
+		<h1 :show="imgLoaded">
 			<slot></slot>
 		</h1>
 		<nuxt-img
 			preload
 			:src="imgSrc"
 			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-			@load="handleLoad"
+			@load="imgLoaded = true"
 		/>
 	</section>
 </template>
