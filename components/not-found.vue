@@ -40,7 +40,7 @@ useHead({
 					</div>
 				</main>
 				<footer>
-					<nuxt-link to="/">← Back to home</nuxt-link>
+					<nuxt-link to="/">← Go home</nuxt-link>
 				</footer>
 			</article>
 		</div>
