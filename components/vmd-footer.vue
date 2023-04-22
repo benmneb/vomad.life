@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const imgLoaded = ref<boolean>(false)
 const showModal = ref<boolean>(false)
 
 function handleClickCopyLeft() {
@@ -18,7 +19,7 @@ function handleClickGitHub() {
 
 <template>
 	<footer>
-		<section>
+		<section v-show="imgLoaded">
 			<icon-btn name="mdi:copyleft" @click="handleClickCopyLeft" />
 			2016 - {{ new Date().getFullYear() }}
 			<icon-btn name="mdi:github" @click="handleClickGitHub" />
@@ -27,6 +28,7 @@ function handleClickGitHub() {
 			src="footer.webp"
 			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
 			loading="lazy"
+			@load="imgLoaded = true"
 		/>
 	</footer>
 
