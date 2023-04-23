@@ -48,5 +48,11 @@ section {
 			}
 		}
 	}
+
+	img {
+		object-fit: cover;
+		height: 100%;
+		min-width: 100%;
+	}
 }
 </style>
