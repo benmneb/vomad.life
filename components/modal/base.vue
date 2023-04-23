@@ -8,7 +8,7 @@ defineEmits(['close'])
 <template>
 	<Teleport to="body">
 		<transition name="modal">
-			<section id="modal-base" v-if="show" @click.self="$emit('close')">
+			<section id="modal-base" v-show="show" @click.self="$emit('close')">
 				<slot></slot>
 			</section>
 		</transition>
