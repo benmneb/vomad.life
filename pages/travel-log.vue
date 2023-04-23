@@ -52,7 +52,7 @@ function handleModalClose() {
 	</aside>
 
 	<modal-base :show="showModal" @close="handleModalClose">
-		<main>
+		<main v-if="showModal">
 			<div v-if="isMapLoaded === false" class="lds-ripple">
 				<div></div>
 				<div></div>
