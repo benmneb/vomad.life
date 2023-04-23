@@ -97,7 +97,7 @@ function handleModalClose() {
 		</nav>
 	</section>
 	<modal-base :show="showVideoModal" @close="handleModalClose">
-		<main>
+		<main v-if="showVideoModal">
 			<div v-if="isVideoLoaded === false" class="lds-ripple">
 				<div></div>
 				<div></div>
