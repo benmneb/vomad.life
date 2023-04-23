@@ -166,7 +166,7 @@ We don't really need to wait for slow governments and politicians to act and we 
 
 Even if you're a climate change sceptic or denier, wouldn’t you agree that with something this serious, we better be safe than sorry?
 
-<prominent-img src="every-day-is-earth-day/mark-berkoff" alt="The Missing Piece from Earth Day - One Habit Makes All The Difference"></prominent-img>
+<prominent-img src="every-day-is-earth-day/marc-bekoff" alt="The Missing Piece from Earth Day - One Habit Makes All The Difference"></prominent-img>
 
 It’s great to see that many people use less plastic, recycle more, spend less time in the shower, walk or cycle to work and so on. However, rest assured that nothing comes close in term of reducing your ecological footprint than joining the fastest growing movement in the planet.
 
