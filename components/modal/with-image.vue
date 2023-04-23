@@ -18,7 +18,7 @@ const imgLoaded = ref<boolean>(false)
 					@load="imgLoaded = true"
 					height="700px"
 				/>
-				<aside v-show="imgLoaded">
+				<aside :show="imgLoaded">
 					<slot name="overlay-text">This is the Vomad Life.</slot>
 				</aside>
 			</section>
