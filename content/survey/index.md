@@ -86,7 +86,7 @@ A summary of the survey results can be found at the [end of the article](#summar
 ### Where do you live?
 
 <div style="display: flex; align-items: center; flex-direction: column; gap: 1rem; margin: 2rem 0;">
-<iframe seamless="" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ3RqbFbq2WqRU31ATPVLf01E_Yu8TfbUz6uqd51vQQ3VpaH_cqlO1oaSa_AAsbz9FEM3S-0PuQV6C/pubchart?oid=227299669&amp;format=interactive" width="600" height="371" frameborder="0" style="border-radius: 1rem;"></iframe>
+<iframe seamless="" scrolling="auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ3RqbFbq2WqRU31ATPVLf01E_Yu8TfbUz6uqd51vQQ3VpaH_cqlO1oaSa_AAsbz9FEM3S-0PuQV6C/pubchart?oid=227299669&amp;format=interactive" width="600" height="371" frameborder="0" style="border-radius: 1rem; max-width: 100%;"></iframe>
 <span style="text-align: center; font-style: italic;">The greener a country is the more data taken from that country. The redder the lesser. Yellow signifies mid range. You can hover over the map to see specific countries information.</span>
 </div>
 
