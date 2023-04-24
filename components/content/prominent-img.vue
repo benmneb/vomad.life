@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 defineProps({
 	src: {
 		type: String,
@@ -14,7 +14,7 @@ defineProps({
 	format: {
 		type: String,
 		default: 'webp',
-		validator(value) {
+		validator(value: string) {
 			return ['webp', 'avif', 'jpeg', 'jpg', 'png', 'gif', 'svg'].includes(
 				value
 			)
@@ -37,10 +37,17 @@ defineProps({
 </template>
 
 <style scoped lang="scss">
+$article-max-width: 800px;
+
 figure {
 	width: 80vw;
 	margin: 2rem 0;
-	margin-left: calc(-1 * (80vw - (800px - 2rem)) / 2);
+	margin-left: calc(-1 * (80vw - ($article-max-width - 2rem)) / 2);
+
+	@media screen and (max-width: $article-max-width) {
+		width: unset;
+		margin-left: unset;
+	}
 
 	div {
 		width: 100%;
