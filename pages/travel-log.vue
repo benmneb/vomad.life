@@ -107,6 +107,14 @@ aside {
 	box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
 	transition: all $transition-duration-normal ease-in-out;
 
+	@media screen and (max-width: 1100px) {
+		font-size: $font-size-extra-large;
+	}
+
+	@media screen and (max-width: 600px) {
+		font-size: $font-size-massive;
+	}
+
 	&:hover {
 		scale: 1.05;
 		box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Balancer from 'vue-wrap-balancer'
 // import type { TravelLogTypes } from '@/assets/data/travel-log'
+// The generic type argument passed to defineProps cannot be an imported type: https://vuejs.org/guide/typescript/composition-api.html#syntax-limitations
 
 const props = defineProps([
 	'location',
@@ -110,6 +111,11 @@ main {
 	align-self: center;
 	max-width: 1800px;
 
+	@media screen and (max-width: 700px) {
+		display: unset;
+		margin: 2rem 0;
+	}
+
 	section {
 		display: flex;
 		justify-content: center;
@@ -119,6 +125,10 @@ main {
 		margin: auto;
 		max-width: 800px;
 		text-align: center;
+
+		@media screen and (max-width: 700px) {
+			padding: 1rem 2rem;
+		}
 
 		h2 {
 			font-size: $font-size-medium;

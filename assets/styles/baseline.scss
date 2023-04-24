@@ -10,6 +10,7 @@ body {
 	background-color: $bg-color-light;
 	color: $black;
 	font-size: $font-size-base;
+	overflow-x: hidden; // for AOS on mobile
 }
 
 ::selection {
