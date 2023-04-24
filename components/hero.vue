@@ -17,7 +17,7 @@ const imgLoaded = ref<boolean>(false)
 		<nuxt-img
 			preload
 			:src="imgSrc"
-			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
+			sizes="sm:200vw md:200vw lg:100vw xl:100vw"
 			@load="imgLoaded = true"
 		/>
 	</section>
@@ -40,6 +40,10 @@ section {
 
 		animation: $transition-duration-turtle $transition-duration-normal fade
 			backwards ease-out;
+
+		@media screen and (max-width: 1100px) {
+			font-size: $font-size-enormous;
+		}
 
 		@keyframes fade {
 			from {
