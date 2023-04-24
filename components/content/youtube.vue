@@ -25,6 +25,11 @@ figure {
 	width: 80vw;
 	margin: 2rem 0;
 	margin-left: calc(-1 * (80vw - (800px - 2rem)) / 2);
+
+	@media screen and (max-width: 800px) {
+		width: unset;
+		margin-left: unset;
+	}
 }
 
 iframe {
