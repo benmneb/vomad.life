@@ -105,7 +105,7 @@ footer {
 	align-items: center;
 
 	@media screen and (max-width: 1100px) {
-		height: 80vh;
+		height: 50vh;
 	}
 
 	section {
