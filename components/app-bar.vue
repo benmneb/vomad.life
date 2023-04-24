@@ -91,6 +91,14 @@ header {
 	svg {
 		font-size: $font-size-base-plus;
 
+		@media screen and (max-width: 1100px) {
+			font-size: $font-size-large;
+		}
+
+		@media screen and (max-width: 600px) {
+			font-size: $font-size-extra-large;
+		}
+
 		&:hover {
 			cursor: zoom-in;
 		}
