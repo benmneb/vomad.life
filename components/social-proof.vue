@@ -66,6 +66,18 @@ section {
 
 h2 {
 	margin: 0 0 2rem;
+
+	@media screen and (max-width: 600px) {
+		width: 100%;
+		text-align: left;
+		padding: 0 1rem;
+		font-size: $font-size-medium;
+	}
+	@media screen and (max-width: 1100px) {
+		width: 100%;
+		text-align: left;
+		padding: 0 1rem;
+	}
 }
 
 .logo-container {
@@ -77,6 +89,15 @@ h2 {
 	gap: 2rem;
 	margin: 0 2rem;
 
+	@media screen and (max-width: 1100px) {
+		width: 100%;
+		overflow-x: scroll;
+		height: 25vw;
+		justify-content: start;
+		padding: 0 1rem;
+		scrollbar-width: none;
+	}
+
 	div {
 		height: 100%;
 		width: 20%; // There's five images
@@ -84,6 +105,10 @@ h2 {
 		align-items: center;
 		justify-content: center;
 		gap: 2rem;
+
+		@media screen and (max-width: 1100px) {
+			min-width: max-content;
+		}
 
 		img {
 			max-width: 100%;
