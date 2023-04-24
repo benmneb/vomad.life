@@ -46,6 +46,7 @@ function handleModalClose() {
 					v-for="tag of tags"
 					:key="tag"
 					class="tag"
+					tabindex="0"
 					:class="{ active: tag === appliedTag }"
 					@click="handleTagClick(tag)"
 				>
@@ -125,6 +126,13 @@ section {
 h2 {
 	color: $grey;
 	margin: 0;
+
+	@media screen and (max-width: 1100px) {
+		width: 100%;
+		text-align: left;
+		padding: 0 1rem;
+		font-size: $font-size-medium;
+	}
 }
 
 .tags-section {
@@ -138,9 +146,19 @@ h2 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	flex-wrap: wrap;
 	gap: 1rem;
 	height: 120px;
+
+	@media screen and (max-width: 1100px) {
+		text-align: left;
+		justify-content: start;
+		width: 100%;
+		overflow-x: scroll;
+		scrollbar-width: none;
+		-ms-overflow-style: none;
+		padding: 0 1rem;
+		height: 80px;
+	}
 }
 
 .tag {
@@ -148,15 +166,28 @@ h2 {
 	font-weight: bold;
 	font-size: $font-size-large;
 	cursor: pointer;
-	transition: font-size $transition-duration-normal ease-in-out,
-		color $transition-duration-normal ease-in-out;
+	mask: linear-gradient(-60deg, $black 30%, $grey, $black 70%) right/300% 100%;
 
-	&:hover {
-		font-size: calc(15px + 2.2vw);
-		mask: linear-gradient(-60deg, $black 30%, $grey, $black 70%) right/300% 100%;
-		animation: shimmer 2s 1;
+	@media screen and (min-width: 1100px) {
+		transition: font-size $transition-duration-normal ease-in-out,
+			color $transition-duration-normal ease-in-out;
+
+		&:hover {
+			font-size: calc(15px + 2.2vw);
+			animation: shimmer 2s 1;
+		}
 	}
 
+	@media screen and (max-width: 1100px) {
+		font-size: $font-size-massive;
+
+		&:focus {
+			animation: shimmer 2s 1;
+		}
+		&:active {
+			animation: none;
+		}
+	}
 	@keyframes shimmer {
 		100% {
 			mask-position: left;
