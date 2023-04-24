@@ -26,7 +26,7 @@ function handleClickGitHub() {
 		</section>
 		<nuxt-img
 			src="footer.webp"
-			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
+			sizes="sm:200vw md:200vw lg:100vw xl:100vw"
 			loading="lazy"
 			@load="imgLoaded = true"
 		/>
@@ -104,6 +104,10 @@ footer {
 	justify-content: center;
 	align-items: center;
 
+	@media screen and (max-width: 1100px) {
+		height: 80vh;
+	}
+
 	section {
 		position: absolute;
 		font-size: $font-size-large;
@@ -114,6 +118,10 @@ footer {
 		display: flex;
 		align-items: center;
 		gap: 1rem;
+
+		@media screen and (max-width: 1100px) {
+			font-size: $font-size-massive;
+		}
 
 		svg {
 			box-shadow: $black 0 0 2rem;
@@ -129,6 +137,11 @@ footer {
 				}
 			}
 		}
+	}
+
+	img {
+		height: 100%;
+		object-fit: cover;
 	}
 }
 
