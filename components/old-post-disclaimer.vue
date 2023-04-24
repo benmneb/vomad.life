@@ -18,15 +18,15 @@ const yearsAgo = rtf.format(
 
 <template>
 	<transition>
-		<article v-show="showSelf">
-			<icon name="mdi:alert-octagon" size="2rem" />
+		<article v-show="showSelf" class="old-post-disclaimer">
+			<icon name="mdi:alert-octagon" class="icon" />
 			<p>
 				This post was written about {{ yearsAgo }}, so most likely contains
 				out-dated information.
 			</p>
 			<icon-btn
 				name="mdi:close-circle-outline"
-				size="2rem"
+				class="icon"
 				@click="showSelf = false"
 			/>
 		</article>
@@ -34,7 +34,7 @@ const yearsAgo = rtf.format(
 </template>
 
 <style scoped lang="scss">
-article {
+article.old-post-disclaimer {
 	padding: 1rem;
 	background-color: $primary;
 	border-radius: 1rem;
@@ -42,6 +42,18 @@ article {
 	align-items: center;
 	gap: 1rem;
 	color: $bg-color-light;
+
+	@media screen and (max-width: 800px) {
+		margin: 0 1rem;
+	}
+
+	.icon {
+		font-size: 2rem;
+
+		@media screen and (max-width: 800px) {
+			font-size: 3rem;
+		}
+	}
 }
 
 .v-enter-active,
