@@ -59,7 +59,7 @@ function handleModalClose() {
 				<nuxt-link to="/travel-log">
 					<nuxt-img
 						src="travel-log/hero.webp"
-						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+						sizes="sm:100vw md:50vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
 			</div>
@@ -67,7 +67,7 @@ function handleModalClose() {
 				<nuxt-link to="https://vomad.guide?ref=vomad.life" target="_blank">
 					<nuxt-img
 						src="guide/hero.webp"
-						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+						sizes="sm:100vw md:50vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
 			</div>
@@ -75,7 +75,7 @@ function handleModalClose() {
 				<nuxt-link to="https://veganise.it?ref=vomad.life" target="_blank">
 					<nuxt-img
 						src="veganise-it/hero.webp"
-						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+						sizes="sm:100vw md:50vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
 			</div>
@@ -83,7 +83,7 @@ function handleModalClose() {
 				<nuxt-link :to="post._path">
 					<nuxt-img
 						:src="`content/${post.image}/hero.webp`"
-						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+						sizes="sm:100vw md:50vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
 			</div>
@@ -91,7 +91,7 @@ function handleModalClose() {
 				<nuxt-link>
 					<nuxt-img
 						src="respect-existence.webp"
-						sizes="sm:25vw md:25vw lg:25vw xl:25vw"
+						sizes="sm:100vw md:50vw lg:25vw xl:25vw"
 					/>
 				</nuxt-link>
 			</div>
@@ -155,7 +155,6 @@ h2 {
 		width: 100%;
 		overflow-x: scroll;
 		scrollbar-width: none;
-		-ms-overflow-style: none;
 		padding: 0 1rem;
 		height: 80px;
 	}
@@ -203,6 +202,18 @@ nav {
 	width: 100%;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
+
+	@media screen and (max-width: 1400px) {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	@media screen and (max-width: 1100px) {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	@media screen and (max-width: 600px) {
+		grid-template-columns: repeat(1, 1fr);
+	}
 
 	a {
 		display: flex;
