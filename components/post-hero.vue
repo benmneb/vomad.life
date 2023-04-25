@@ -33,7 +33,7 @@ section {
 	}
 
 	@media screen and (max-width: 1000px) {
-		height: unset;
+		height: auto;
 		margin: 0 0 2rem;
 	}
 
@@ -49,10 +49,6 @@ section {
 		@media screen and (max-width: 1250px) {
 			height: calc(90vw - 4rem);
 		}
-
-		@media screen and (max-width: 1000px) {
-			display: none;
-		}
 	}
 
 	img:not(.blur) {
@@ -66,14 +62,15 @@ section {
 		padding: 2rem;
 
 		@media screen and (max-width: 1250px) {
-			margin: 0 auto;
+			margin-top: 0;
 		}
 
 		@media screen and (max-width: 1000px) {
 			border-radius: 0;
 			padding: 0;
 			margin: 0;
-			width: 100%;
+			max-width: 100%;
+			height: auto;
 		}
 	}
 }
