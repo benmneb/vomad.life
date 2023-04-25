@@ -66,7 +66,6 @@ function handleModalClose() {
 				@load="isMapLoaded = true"
 				width="100%"
 				height="600px"
-				style="background: #f9f9f9"
 				src="https://nomadlist.com/@benmneb/embed"
 				scrolling="no"
 				frameborder="0"
@@ -131,7 +130,7 @@ main {
 	height: 600px;
 	border-radius: 1rem;
 	margin: auto;
-	background-color: $bg-color-light;
+	background-color: $bg-color-dark;
 	box-shadow: 0 0 2rem $grey;
 	transition: all 0.3s ease;
 	cursor: auto;
