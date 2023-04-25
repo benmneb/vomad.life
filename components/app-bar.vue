@@ -31,7 +31,10 @@ function handleModalClose() {
 <template>
 	<header :class="{ 'hide-header': !showAppBar }">
 		<div>
-			<icon-btn name="mdi:information-outline" @click="handleInfoClick" />
+			<icon-btn
+				name="mdi:information-slab-circle-outline"
+				@click="handleInfoClick"
+			/>
 		</div>
 		<nuxt-link to="/">
 			<nuxt-img src="app-bar/logo.webp" />
