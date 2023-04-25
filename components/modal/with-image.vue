@@ -45,6 +45,12 @@ main {
 	grid-template-columns: 1fr 1fr;
 	cursor: auto;
 
+	@media screen and (max-width: 750px) {
+		width: 100%;
+		display: unset;
+		border-radius: 1rem;
+	}
+
 	section {
 		grid-row: 1 / 2;
 		display: flex;
@@ -54,6 +60,11 @@ main {
 
 		&:first-of-type {
 			border-radius: 1rem 0 0 1rem;
+
+			@media screen and (max-width: 750px) {
+				border-radius: 1rem 1rem 0 0;
+				height: 60vh;
+			}
 		}
 
 		svg {
@@ -63,6 +74,11 @@ main {
 			color: $grey;
 			font-size: $font-size-medium;
 			transition: all $transition-duration-fast ease-in-out;
+
+			@media screen and (max-width: 750px) {
+				font-size: $font-size-massive;
+				color: $slate;
+			}
 
 			&:hover {
 				color: $black;
@@ -75,6 +91,10 @@ main {
 			min-width: 100%;
 			height: 700px;
 			min-height: 100%;
+
+			@media screen and (max-width: 750px) {
+				height: 100%;
+			}
 		}
 
 		aside {
