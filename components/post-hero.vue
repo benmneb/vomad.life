@@ -30,6 +30,7 @@ section {
 
 	@media screen and (max-width: 1250px) {
 		height: calc(90vw - 4rem);
+		max-height: calc(100vh - 100px);
 	}
 
 	@media screen and (max-width: 1000px) {
@@ -48,6 +49,7 @@ section {
 
 		@media screen and (max-width: 1250px) {
 			height: calc(90vw - 4rem);
+			max-height: 100vh;
 		}
 	}
 
@@ -65,7 +67,7 @@ section {
 			margin-top: 0;
 		}
 
-		@media screen and (max-width: 1000px) {
+		@media screen and (max-width: 1000px) and (orientation: portrait) {
 			border-radius: 0;
 			padding: 0;
 			margin: 0;
