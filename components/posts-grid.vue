@@ -239,9 +239,10 @@ nav {
 main {
 	position: relative;
 	width: 1000px;
+	max-height: 100%;
 	border-radius: 1rem;
 	margin: auto;
-	background-color: $bg-color-light;
+	background-color: $bg-color-dark;
 	box-shadow: 0 0 2rem $grey;
 	transition: all 0.3s ease;
 	cursor: auto;
@@ -251,9 +252,6 @@ main {
 	justify-content: center;
 
 	.streamable {
-		width: 100%;
-		height: 0px;
-		position: relative;
 		padding-bottom: 56.25%;
 
 		iframe {
