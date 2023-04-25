@@ -1,7 +1,0 @@
-# redirects for netflify - https://docs.netlify.com/routing/redirects/
-
-https://vomadlife.com/* https://vomad.life/:splat 301!
-http://vomadlife.com/ https://vomad.life/:splat 301!
-
-/blogs/news/what-do-the-biggest-nutrition-organisations-say-about-veganism /nutrients
-/old-path /new-path
