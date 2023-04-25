@@ -73,6 +73,7 @@ section {
 			border-radius: 0;
 			padding: 0;
 			margin: 0;
+			width: 100%;
 		}
 	}
 }
