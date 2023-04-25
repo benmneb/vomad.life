@@ -141,6 +141,7 @@ footer {
 
 	img {
 		height: 100%;
+		min-width: 100%;
 		object-fit: cover;
 	}
 }
