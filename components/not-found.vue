@@ -9,7 +9,7 @@ useHead({
 		<div>
 			<nuxt-img preload src="not-found.webp" width="500" />
 			<article>
-				<header>404</header>
+				<header>Page not found</header>
 				<main>
 					<div>
 						<b>
@@ -49,20 +49,41 @@ useHead({
 
 <style scoped lang="scss">
 section {
-	margin-top: 100px;
-	height: calc(100vh - 100px);
+	height: min-content;
+	min-height: calc(100vh - 100px);
+	margin: calc(100px + 2rem) 0 2rem;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	overflow: hidden;
-	z-index: 100;
 	position: relative;
 
-	div {
+	@media screen and (max-width: 1000px) {
+		height: auto;
+		min-height: calc(100vh - 100px);
+		width: 100vw;
+		margin: 100px 0 0 0;
+	}
+
+	> div {
 		display: flex;
+		margin: 0 2rem;
+
+		@media screen and (max-width: 1000px) {
+			flex-direction: column;
+			width: 100%;
+			padding: 1rem;
+			margin: 0;
+		}
 
 		img {
-			z-index: 100;
+			@media screen and (max-width: 1000px) {
+				width: auto;
+				max-width: 100%;
+				max-height: 40vh;
+				object-fit: contain;
+				align-self: baseline;
+			}
 		}
 
 		article {
@@ -72,14 +93,27 @@ section {
 			margin-left: 1rem;
 			padding: 1rem 0;
 
+			@media screen and (max-width: 1000px) {
+				margin-left: 0;
+			}
+
 			header {
 				font-weight: bold;
 				color: $grey;
 				font-size: $font-size-extra-large;
+
+				@media screen and (max-width: 1000px) {
+					margin-top: 0.5rem;
+				}
 			}
 
 			main {
 				line-height: 2.5;
+
+				@media screen and (max-width: 1000px) {
+					line-height: 2;
+					margin: 1rem 0;
+				}
 
 				div {
 					display: block;
