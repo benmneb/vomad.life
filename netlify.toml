@@ -1,21 +1,21 @@
-# example netlify.toml
-# more info on configuring this file: https://docs.netlify.com/configure-builds/file-based-configuration/
+# # example netlify.toml
+# # more info on configuring this file: https://docs.netlify.com/configure-builds/file-based-configuration/
 
-[[redirects]]
-from = "https://vomadlife.com/*" 
-to = "https://vomad.life/:splat" 
-force = true 
-status = 301 # default
+# [[redirects]]
+# from = "https://vomadlife.com/*" 
+# to = "https://vomad.life/:splat" 
+# force = true 
+# status = 301 # default
 
-[[redirects]]
-from = "http://vomadlife.com/*"
-to = "https://vomad.life/:splat"
-force = true
+# [[redirects]]
+# from = "http://vomadlife.com/*"
+# to = "https://vomad.life/:splat"
+# force = true
 
-[[redirects]]
-from = "/blogs/news/what-do-the-biggest-nutrition-organisations-say-about-veganism" 
-to = "/nutrients"
+# [[redirects]]
+# from = "/blogs/news/what-do-the-biggest-nutrition-organisations-say-about-veganism" 
+# to = "/nutrients"
 
-[[redirects]]
-from = "/old-path" 
-to = "/new-path" 
+# [[redirects]]
+# from = "/old-path" 
+# to = "/new-path" 
