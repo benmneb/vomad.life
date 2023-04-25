@@ -79,6 +79,12 @@ const imgUrl = $img(props.image, {
 article {
 	display: flex;
 	flex-direction: column;
+
+	@media screen and (max-width: 1100px) {
+		& > * {
+			overflow-x: hidden;
+		}
+	}
 }
 
 header {
