@@ -13,6 +13,7 @@ useHead({
 			async: true,
 			src: 'https://umamalytics.vercel.app/script.js',
 			'data-website-id': 'ee02363d-e9c5-41be-93de-621b7cc231e4',
+			'data-domains': 'vomad.life,vomadlife.com',
 		},
 	],
 })
