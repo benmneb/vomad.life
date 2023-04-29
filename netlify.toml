@@ -1,21 +1,218 @@
-# example netlify.toml
-# more info on configuring this file: https://docs.netlify.com/configure-builds/file-based-configuration/
+# For Netlify to redirect from a domain that is not the site’s main custom domain, the domain must be assigned to the site — probably as a domain alias
+# https://docs.netlify.com/domains-https/custom-domains/multiple-domains/#domain-aliases
+
+# Custom redirects from shopify 
 
 [[redirects]]
-from = "https://vomadlife.com/*" 
-to = "https://vomad.life/:splat" 
-force = true 
-status = 301 # default
+from = "/pages/travel-log" 
+to = "/travel-log" 
 
 [[redirects]]
-from = "http://vomadlife.com/*"
-to = "https://vomad.life/:splat"
-force = true
+from = "/travellog" 
+to = "/travel-log" 
+
+[[redirects]]
+from = "/pages/previous-places" 
+to = "/travel-log" 
+
+[[redirects]]
+from = "/allveganfilms" 
+to = "/all-vegan-documentaries" 
+
+# All standard shopify blog URLs...
+
+[[redirects]]
+from = "/blogs/news/the-internets-most-complete-vegan-product-guide" 
+to = "https://vomad.guide?ref=vomad.life"
 
 [[redirects]]
 from = "/blogs/news/what-do-the-biggest-nutrition-organisations-say-about-veganism" 
 to = "/nutrients"
 
 [[redirects]]
-from = "/old-path" 
-to = "/new-path" 
+from = "/blogs/news/the-top-5-documentaries-to-turn-your-family-friends-vegan" 
+to = "/most-influential-documentaries"
+
+[[redirects]]
+from = "/blogs/news/the-missing-piece-from-earth-day-making-every-day-earth-day" 
+to = "/every-day-is-earth-day"
+
+[[redirects]]
+from = "/blogs/news/interviews-with-vegan-veterans-albert-mah-the-bright-side-of-humanity" 
+to = "/interview-albert"
+
+[[redirects]]
+from = "/blogs/news/the-top-5-most-influential-vegan-youtube-activists" 
+to = "/most-influential-youtubers"
+
+[[redirects]]
+from = "/blogs/news/the-cold-truth-about-dairy-the-media-dont-want-to-spill" 
+to = "/health-effects-of-dairy"
+
+[[redirects]]
+from = "/blogs/news/a-note-on-the-effectiveness-of-public-activism-re-2019-global-vegan-survey-results" 
+to = "/public-activism"
+
+[[redirects]]
+from = "/blogs/news/why-people-go-vegan-2019-global-survey-results" 
+to = "/survey"
+
+[[redirects]]
+from = "/blogs/news/vegan-restaurant-cafe-market-guide-to-lviv-ukraine" 
+to = "/lviv-guide"
+
+[[redirects]]
+from = "/blogs/news/the-most-common-questions-people-ask-about-staying-vegan-for-life" 
+to = "/common-questions-about-staying-vegan"
+
+[[redirects]]
+from = "/blogs/news/interviews-with-vegan-veterans-4-karina-inkster" 
+to = "/interview-karina"
+
+[[redirects]]
+from = "/blogs/news/top-5-reasons-people-dont-stay-vegan-for-life" 
+to = "/top-5-reasons-people-dont-stay-vegan-for-life"
+
+[[redirects]]
+from = "/blogs/news/forever-changed-books-to-help-you-stay-vegan-for-life" 
+to = "/forever-changed"
+
+[[redirects]]
+from = "/blogs/news/every-argument-against-veganism-debunked" 
+to = "/every-argument-against-veganism"
+
+[[redirects]]
+from = "/blogs/news/the-vegan-guide-to-novi-sad-serbia" 
+to = "/novi-sad-guide"
+
+[[redirects]]
+from = "/blogs/news/thrive-fitness-by-brendan-brazier-book-review-highlights-quotes" 
+to = "/thrive-book-review"
+
+[[redirects]]
+from = "/blogs/news/lessons-learnt-in-my-first-year-of-being-a-digital-nomad" 
+to = "/lessons-learnt"
+
+[[redirects]]
+from = "/blogs/news/interviews-with-vegan-veterans-3-curing-asthma-with-diet" 
+to = "/interview-geoff"
+
+[[redirects]]
+from = "/blogs/news/top-5-ways-to-trigger-vegans" 
+to = "/triggered"
+
+[[redirects]]
+from = "/blogs/news/the-complete-digital-nomad-traveller-guide-to-koh-phangan" 
+to = "/nomad-guide-to-koh-phangan"
+
+[[redirects]]
+from = "/blogs/news/essential-viewing-master-list-of-all-vegan-films-documentaries" 
+to = "/all-vegan-documentaries"
+
+[[redirects]]
+from = "/blogs/news/exposing-the-dieticians-associations-of-australia" 
+to = "/dangers-of-veganism"
+
+[[redirects]]
+from = "/blogs/news/interviews-with-vegan-veterans-2-veganshawn" 
+to = "/interview-grumpy-old-bastard"
+
+[[redirects]]
+from = "/blogs/news/proof-you-currently-have-enough-money-to-travel-the-world" 
+to = "/proof-you-have-enough-money-to-travel-the-world"
+
+[[redirects]]
+from = "/blogs/news/the-vegan-survival-guide-to-plovdiv-bulgaria" 
+to = "/plovdiv-guide"
+
+[[redirects]]
+from = "/blogs/news/interviews-with-vegan-veterans-1-veg-from-birth-bringing-up-vegan-children" 
+to = "/interview-aj"
+
+[[redirects]]
+from = "/blogs/news/the-complete-vegan-guide-to-chiang-mai-thailand" 
+to = "/chiang-mai-food"
+
+[[redirects]]
+from = "/blogs/news/the-ex-vegan-encyclopedia" 
+to = "/ex-vegan-encyclopedia"
+
+[[redirects]]
+from = "/blogs/news/the-80-10-10-diet-by-douglas-graham-book-review-quotes-highlights" 
+to = "/80-10-10"
+
+[[redirects]]
+from = "/blogs/news/top-5-drama-free-vegan-youtubers-of-2017" 
+to = "/drama-free-youtubers"
+
+[[redirects]]
+from = "/blogs/news/the-happy-vegan-by-russell-simmons-book-review-quotes-highlights" 
+to = "/happy-vegan"
+
+[[redirects]]
+from = "/blogs/news/why-travelling-to-vegan-un-friendly-countries-is-so-good" 
+to = "/no-vegan-options"
+
+[[redirects]]
+from = "/blogs/news/why-i-stopped-using-google-and-why-you-should-too" 
+to = "/stop-using-google"
+
+[[redirects]]
+from = "/blogs/news/top-5-weirdest-things-that-happened-to-me-while-going-vegan" 
+to = "/weird-things"
+
+[[redirects]]
+from = "/blogs/news/online-activism-how-well-intentioned-vegans-are-hurting-the-cause" 
+to = "/vegan-cyber-bully"
+
+[[redirects]]
+from = "/blogs/news/the-most-delicious-vegan-guide-to-ko-phangan-thailand" 
+to = "/delicious-koh-phangan"
+
+[[redirects]]
+from = "/blogs/news/the-most-important-book-on-veganism-in-30-years" 
+to = "/introduction-to-carnism"
+
+[[redirects]]
+from = "/blogs/news/why-arent-more-spiritual-teachers-vegan" 
+to = "/spiritual-teachers"
+
+[[redirects]]
+from = "/blogs/news/top-5-aussie-vegan-friendly-fast-food-joints" 
+to = "/aussie-vegan-fast-food"
+
+[[redirects]]
+from = "/blogs/news/top-5-tips-to-prepare-for-long-term-travel" 
+to = "/long-term-travel-tips"
+
+[[redirects]]
+from = "/blogs/news/is-going-raw-really-healthy" 
+to = "/is-raw-vegan-healthy"
+
+[[redirects]]
+from = "/blogs/news/could-this-book-actually-save-your-life-how-not-to-die-by-dr-michael-greger-md" 
+to = "/how-not-to-die"
+
+[[redirects]]
+from = "/blogs/news/the-complete-vegan-guide-to-perth-australia-2017" 
+to = "/perth"
+
+[[redirects]]
+from = "/blogs/news/the-best-5-vegan-speeches-of-all-time" 
+to = "/5-top-speeches"
+
+[[redirects]]
+from = "/blogs/news/book-review-the-blue-zones-second-edition-by-dan-buettner" 
+to = "/blue-zones"
+
+[[redirects]]
+from = "/blogs/news/the-single-most-influential-document-in-the-history-of-animal-welfare-book-review" 
+to = "/animal-liberation"
+
+[[redirects]]
+from = "/blogs/news/vegan-travellers-guide-to-perth-australia" 
+to = "/travellers-guide-to-perth"
+
+[[redirects]]
+from = "/blogs/news/why-most-people-go-vegan-2016-survey-results-reveal-all" 
+to = "/survey/2016"
