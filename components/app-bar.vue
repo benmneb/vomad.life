@@ -1,8 +1,7 @@
-<script setup>
-import { InfoIcon } from '~/assets/icons'
-
-const showAppBar = ref(true)
-const lastScrollPosition = ref(0)
+<script setup lang="ts">
+const showAppBar = ref<boolean>(true)
+const lastScrollPosition = ref<number>(0)
+const showModal = ref<boolean>(false)
 
 onMounted(() => window.addEventListener('scroll', onScroll))
 onBeforeUnmount(() => window.removeEventListener('scroll', onScroll))
@@ -17,16 +16,58 @@ function onScroll() {
 	showAppBar.value = currentScrollPosition < lastScrollPosition.value
 	lastScrollPosition.value = currentScrollPosition
 }
+
+function handleInfoClick() {
+	showModal.value = true
+	document.body.style.overflow = 'hidden'
+}
+
+function handleModalClose() {
+	showModal.value = false
+	document.body.style.overflow = 'auto'
+}
 </script>
 
 <template>
 	<header :class="{ 'hide-header': !showAppBar }">
 		<div>
-			<info-icon />
+			<icon-btn
+				name="mdi:information-slab-circle-outline"
+				@click="handleInfoClick"
+			/>
 		</div>
-		<nuxt-img src="logo.webp" />
+		<nuxt-link to="/">
+			<nuxt-img src="app-bar/logo.webp" />
+		</nuxt-link>
 		<div></div>
 	</header>
+
+	<modal-with-image
+		:show="showModal"
+		imageSrc="modals/info.webp"
+		@close="handleModalClose"
+	>
+		<hgroup>
+			<h1>vomad</h1>
+			<p>[ v(egan) + (n)omad ]</p>
+		</hgroup>
+
+		<main>
+			<span class="italic">noun</span>
+			<p>
+				one who travels indefinitely, with no long-term abode, while avoiding
+				all forms of animal exploitation and abuse as far as is possible and
+				practicable
+			</p>
+
+			<span class="italic">origin</span>
+			<p>
+				early 21st century;<br />from <b>vegan</b> - ‘a person who does not eat
+				or use animal products’,<br />and <b>nomad</b> - ‘a person who does not
+				stay long in the same place’
+			</p>
+		</main>
+	</modal-with-image>
 </template>
 
 <style scoped lang="scss">
@@ -50,12 +91,46 @@ header {
 		flex-basis: 0;
 	}
 
-	img {
-		margin-top: 10px; // To account for the tail on the "f" in VOMADlife
+	svg {
+		font-size: $font-size-base-plus;
+
+		@media screen and (max-width: 1100px) {
+			font-size: $font-size-large;
+		}
+
+		@media screen and (max-width: 600px) {
+			font-size: $font-size-extra-large;
+		}
+
+		&:hover {
+			cursor: zoom-in;
+		}
+	}
+
+	a {
+		box-shadow: none;
+
+		img {
+			margin-top: 12px; // To account for the tail on the "f" in VOMADlife
+		}
 	}
 }
 
 .hide-header {
 	transform: translate3d(0, -100%, 0);
+}
+
+hgroup {
+	margin-bottom: 2rem;
+
+	h1 {
+		margin-bottom: 0.3rem;
+	}
+}
+
+main {
+	.italic {
+		font-style: italic;
+	}
 }
 </style>

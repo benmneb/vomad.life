@@ -1,36 +1,64 @@
+<script setup lang="ts">
+import Balancer from 'vue-wrap-balancer'
+
+function showOldPostDisclaimer(date: string, tag: string) {
+	if (!['guide', 'high-five'].includes(tag)) return false
+	const diff = new Date(date).getTime() - Date.now()
+	const estimatedYearsAgo = Math.round(diff / (1000 * 60 * 60 * 24 * 365))
+	if (estimatedYearsAgo <= -1) return true
+	else return false
+}
+
+onMounted(() => {
+	document
+		.querySelectorAll<HTMLAnchorElement>(
+			'a[href^="https://"],a[href^="http://"]'
+		)
+		.forEach((element) => {
+			element.target = '_blank'
+			element.rel = 'noopener'
+		})
+})
+</script>
+
 <template>
 	<main>
-		<content-doc v-slot="{ doc }">
-			<header>
-				<div>
-					<nuxt-img
-						preload
-						:src="`content/${doc.image}/hero.webp`"
-						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-						class="blur"
-					/>
-					<nuxt-img
-						preload
-						:src="`content/${doc.image}/hero.webp`"
-						sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-					/>
-				</div>
-				<div>
-					<h1>{{ doc.title }}</h1>
-					<p class="reading-time">{{ doc.readingTime.text }}</p>
-					<!-- <p>#{{ doc.tag }}</p> -->
-				</div>
-			</header>
-			<content-renderer :value="doc" tag="article" />
-			<footer>
-				<div>by {{ doc.author || 'Anonymous' }}</div>
-				<div>
-					{{ doc.date }}
-				</div>
-				<div>
-					<nuxt-link to="/">← Back to home</nuxt-link>
-				</div>
-			</footer>
+		<content-doc>
+			<template v-slot="{ doc }">
+				<header>
+					<post-hero :image="`content/${doc.image}/hero`" />
+					<hgroup>
+						<h1>
+							<balancer>
+								{{ doc.title }}
+							</balancer>
+						</h1>
+						<p class="reading-time">{{ doc.readingTime.text }}</p>
+						<!-- <p>#{{ doc.tag }}</p> -->
+					</hgroup>
+				</header>
+				<old-post-disclaimer
+					v-if="showOldPostDisclaimer(doc.date, doc.tag)"
+					:date="doc.date"
+				/>
+				<content-renderer :value="doc" tag="article" />
+				<footer>
+					<div>by {{ doc.author || 'Anonymous' }}</div>
+					<div>
+						{{
+							new Date(doc.date).toLocaleDateString('en-US', {
+								dateStyle: 'long',
+							})
+						}}
+					</div>
+					<div>
+						<nuxt-link to="/">← Back to home</nuxt-link>
+					</div>
+				</footer>
+			</template>
+			<template #not-found>
+				<not-found />
+			</template>
 		</content-doc>
 	</main>
 </template>
@@ -39,31 +67,16 @@
 header {
 	margin: 100px 0 0;
 
-	.blur {
-		background-size: cover;
-		background-position: center;
-		height: 100vh;
-		width: 100vw;
-		top: 0;
-		position: absolute;
-		filter: blur(50px);
-	}
-
-	img {
-		max-height: calc(100vh - 100px);
-		max-width: 100vw;
-		margin: auto;
-		display: block;
-		position: relative;
-		z-index: 10;
-		border-radius: 4rem;
-		padding: 2rem;
-	}
-
 	h1 {
 		font-size: $font-size-extra-large;
 		font-weight: bold;
 		line-height: 150%;
+	}
+
+	hgroup {
+		width: 1200px;
+		max-width: 80vw;
+		text-align: center;
 	}
 
 	.reading-time {
@@ -74,9 +87,13 @@ header {
 }
 
 article,
-header > div:last-of-type,
 footer {
 	max-width: 800px;
+}
+
+article,
+hgroup,
+footer {
 	margin: auto;
 	padding: 0 1rem;
 }

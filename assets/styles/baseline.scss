@@ -12,20 +12,14 @@ body {
 	font-size: $font-size-base;
 }
 
-a {
-	color: $primary;
-	text-decoration: none;
+body {
+	overflow-x: hidden; // for AOS on mobile - doesn't work if its in html selector as well
 }
 
-hr {
-	width: 25%;
-	margin: 2rem auto;
-	color: $grey;
-	border-radius: 50%;
-}
-
-* {
-	box-sizing: border-box;
+::selection {
+	color: $bg-color-light;
+	background: $primary;
+	text-shadow: none;
 }
 
 :focus-visible {
@@ -34,4 +28,107 @@ hr {
 		rgba(0, 127, 255, 0.5) 0px 0px 0px 5px;
 	border-radius: 0.5rem;
 	outline: currentcolor none medium;
+}
+
+a {
+	color: $primary;
+	text-decoration: none;
+	text-shadow: 0px -2px 0 $bg-color-light, 0px -1px 0 $bg-color-light,
+		0px 0px 0 $bg-color-light, 2px -2px 0 $bg-color-light,
+		2px -1px 0 $bg-color-light, 2px 0px 0 $bg-color-light,
+		-2px -2px 0 $bg-color-light, -2px -1px 0 $bg-color-light,
+		-2px 0px 0 $bg-color-light, 1px -2px 0 $bg-color-light,
+		1px -1px 0 $bg-color-light, 1px 0px 0 $bg-color-light,
+		-1px -2px 0 $bg-color-light, -1px -1px 0 $bg-color-light,
+		-1px 0px 0 $bg-color-light, 0px -2px 0 $bg-color-light,
+		0px -1px 0 $bg-color-light, 0px 0px 0 $bg-color-light;
+	box-shadow: 0 -1px 0 0 $bg-color-light inset, 0 -2px 0 0 transparent inset;
+	transition: box-shadow $transition-duration-normal ease-in;
+
+	&:hover {
+		transition: box-shadow $transition-duration-normal ease-out;
+		box-shadow: 0 -1px 0 0 $primary inset, 0 -2px 0 0 $primary inset;
+	}
+
+	&::selection {
+		color: $black;
+	}
+}
+
+* {
+	box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	a {
+		color: inherit;
+		box-shadow: none;
+		text-shadow: none;
+
+		&:before {
+			content: '#';
+			position: absolute;
+			margin-left: -1.2rem;
+			color: $bg-color-light;
+			transition: all $transition-duration-normal ease-in;
+		}
+
+		&:hover {
+			box-shadow: none;
+
+			&:before {
+				color: $grey;
+				transition: all $transition-duration-normal ease-out;
+			}
+		}
+	}
+}
+
+article {
+	hr {
+		width: 25%;
+		margin: 2rem auto;
+		color: $grey;
+		border-radius: 50%;
+	}
+
+	li:not(:last-child) {
+		margin-bottom: 0.5rem;
+	}
+
+	li > ul {
+		margin-top: 0.5rem;
+	}
+
+	table {
+		width: 100%;
+	}
+
+	code {
+		background-color: $secondary;
+		font-family: inherit;
+	}
+
+	blockquote {
+		font-style: italic;
+		line-height: 1.5;
+		margin: 1.5rem 1rem;
+		padding: 0.25rem 0 0.25rem 1rem;
+		border-left-width: 2px;
+		border-left-style: solid;
+		border-image: linear-gradient(
+				to bottom,
+				rgba(0, 0, 0, 0),
+				$primary,
+				$success,
+				$secondary,
+				rgba(0, 0, 0, 0)
+			)
+			0 100%;
+	}
 }

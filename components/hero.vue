@@ -1,22 +1,24 @@
-<script setup>
-const imgLoaded = ref(false)
+<script setup lang="ts">
+defineProps({
+	imgSrc: {
+		type: String,
+		required: true,
+	},
+})
 
-function handleLoad() {
-	imgLoaded.value = true
-}
+const imgLoaded = ref<boolean>(false)
 </script>
 
 <template>
 	<section>
-		<h1 v-show="imgLoaded">
-			Travel World.<br />
-			Eat Plants.
+		<h1 :show="imgLoaded">
+			<slot></slot>
 		</h1>
 		<nuxt-img
 			preload
-			src="powerlines.webp"
-			sizes="sm:100vw md:100vw lg:100vw xl:100vw"
-			@load="handleLoad"
+			:src="imgSrc"
+			sizes="sm:200vw md:200vw lg:100vw xl:100vw"
+			@load="imgLoaded = true"
 		/>
 	</section>
 </template>
@@ -39,12 +41,22 @@ section {
 		animation: $transition-duration-turtle $transition-duration-normal fade
 			backwards ease-out;
 
+		@media screen and (max-width: 1100px) {
+			font-size: $font-size-enormous;
+		}
+
 		@keyframes fade {
 			from {
 				transform: translateY(0.25em);
 				opacity: 0;
 			}
 		}
+	}
+
+	img {
+		object-fit: cover;
+		height: 100%;
+		min-width: 100%;
 	}
 }
 </style>
