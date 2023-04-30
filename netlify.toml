@@ -1,5 +1,28 @@
+# Redirects - for that sweet sweet SEO
+
+# Docs - https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
+
 # For Netlify to redirect from a domain that is not the site’s main custom domain, the domain must be assigned to the site — probably as a domain alias
-# https://docs.netlify.com/domains-https/custom-domains/multiple-domains/#domain-aliases
+
+[[redirects]]
+from = "https://www.vomadlife.com/*" 
+to = "https://vomad.life/:splat" 
+force = true
+
+[[redirects]]
+from = "http://www.vomadlife.com/*" 
+to = "https://vomad.life/:splat" 
+force = true
+
+[[redirects]]
+from = "https://vomadlife.com/*" 
+to = "https://vomad.life/:splat" 
+force = true
+[[redirects]]
+
+from = "http://vomadlife.com/*" 
+to = "https://vomad.life/:splat" 
+force = true
 
 # Custom redirects from shopify 
 
