@@ -96,6 +96,10 @@ h2 {
 		justify-content: start;
 		padding: 0 1rem;
 		scrollbar-width: none;
+
+		&::-webkit-scrollbar {
+			display: none;
+		}
 	}
 
 	div {
