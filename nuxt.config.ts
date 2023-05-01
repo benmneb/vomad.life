@@ -30,4 +30,9 @@ export default defineNuxtConfig({
 			isCustomElement: (tag) => ['hgroup'].includes(tag),
 		},
 	},
+	nitro: {
+		prerender: {
+			routes: ['/sitemap.xml'],
+		},
+	},
 })
