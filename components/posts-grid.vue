@@ -157,6 +157,10 @@ h2 {
 		scrollbar-width: none;
 		padding: 0 1rem;
 		height: 80px;
+
+		&::-webkit-scrollbar {
+			display: none;
+		}
 	}
 }
 
