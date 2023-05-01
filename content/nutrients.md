@@ -34,7 +34,7 @@ Dietitians of Canada is the accrediting body for all university and training pro
 
 > A healthy vegan diet can meet all your nutrient needs at any stage of life including when you are pregnant, breastfeeding or for older adults.
 >
-> \- https://www.dietitians.ca/Downloads/Factsheets/Guidlines-for-Vegans.aspx
+> <span style="line-break: anywhere;">- https://www.dietitians.ca/Downloads/Factsheets/Guidlines-for-Vegans.aspx</span>
 
 ## British Dietetic Association
 
