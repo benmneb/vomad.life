@@ -12,7 +12,7 @@ We're in Plovdiv, an [8000-year-old city](http://www.plovdiv.bg/en/about-plovdiv
 
 And it's surprisingly awesome.
 
-<prominent-img src="no-vegan-options/hish-on-hill" alt="Why No Vegan Options is a GOOD Thing" caption="Watching the sunset from the top of one of the five remaining hills in Plovdiv, Bulgaria."></prominent-img>
+<prominent-img src="no-vegan-options/sunset-on-hill" alt="Why No Vegan Options is a GOOD Thing" caption="Watching the sunset from the top of one of the five remaining hills in Plovdiv, Bulgaria."></prominent-img>
 
 ## Zero vegan options?
 
