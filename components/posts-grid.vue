@@ -12,7 +12,6 @@ const allPosts = await queryContent().sort({ date: -1 }).find()
 const allPostsRef = ref(allPosts)
 const relevantPosts = ref(allPosts)
 const showVideoModal = ref<boolean>(false)
-const isVideoLoaded = ref<boolean>(false)
 
 async function handleTagClick(tag: string) {
 	if (appliedTag.value === tag) {
@@ -32,7 +31,6 @@ function handleModalOpen() {
 
 function handleModalClose() {
 	showVideoModal.value = false
-	isVideoLoaded.value = false
 	document.body.style.overflow = 'auto'
 }
 </script>
@@ -99,18 +97,14 @@ function handleModalClose() {
 	</section>
 	<modal-base :show="showVideoModal" @close="handleModalClose">
 		<main v-if="showVideoModal">
-			<div v-if="isVideoLoaded === false" class="lds-ripple">
-				<div></div>
-				<div></div>
-			</div>
 			<div class="streamable">
-				<iframe
-					src="https://streamable.com/e/5wxy2c"
-					frameborder="0"
-					width="100%"
-					height="100%"
-					allowfullscreen
-				></iframe>
+				<video autoplay controls>
+					<source
+						src="https://d31lsddm57ovii.cloudfront.net/be-vegan.mp4"
+						type="video/mp4"
+					/>
+					Your browser does not support the video tag.
+				</video>
 			</div>
 		</main>
 	</modal-base>
@@ -258,7 +252,7 @@ main {
 	.streamable {
 		padding-bottom: 56.25%;
 
-		iframe {
+		video {
 			z-index: 1100;
 			width: 100%;
 			height: 100%;
@@ -269,66 +263,10 @@ main {
 		}
 	}
 
-	.lds-ripple {
-		display: inline-block;
-		position: absolute;
-		width: 80px;
-		height: 80px;
-		z-index: 1001;
-
-		div {
-			position: absolute;
-			border: 4px solid;
-			opacity: 1;
-			border-radius: 50%;
-			animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
-
-			&:nth-child(2) {
-				animation-delay: -0.5s;
-			}
-		}
-	}
-
 	figure {
 		z-index: 1100;
 		margin: 0;
 		width: 100%;
-	}
-}
-
-@keyframes lds-ripple {
-	0% {
-		top: 36px;
-		left: 36px;
-		width: 0;
-		height: 0;
-		opacity: 0;
-		border-color: $primary;
-	}
-	4.9% {
-		top: 36px;
-		left: 36px;
-		width: 0;
-		height: 0;
-		opacity: 0;
-	}
-	5% {
-		top: 36px;
-		left: 36px;
-		width: 0;
-		height: 0;
-		opacity: 1;
-	}
-	33% {
-		border-color: $primary;
-	}
-	100% {
-		top: 0px;
-		left: 0px;
-		width: 72px;
-		height: 72px;
-		opacity: 0;
-		border-color: $success;
 	}
 }
 </style>
