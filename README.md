@@ -19,3 +19,7 @@ Under the following terms:
     You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+---
+
+_I am requesting removal from your archives as per the details already sent._
